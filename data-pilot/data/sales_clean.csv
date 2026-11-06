@@ -1,0 +1,1794 @@
+﻿order_id;order_date;customer_id;city;category;product;quantity;unit_price;status;revenue
+PED-00001;2025-01-01;C0395;Curitiba;Moda;Camiseta Básica;1;59,38;concluído;59,38
+PED-00002;2025-01-01;C0331;Curitiba;Casa;Cafeteira;1;222,12;pendente;222,12
+PED-00003;2025-01-02;C0019;Fortaleza;Moda;Tênis Esportivo;3;319,18;cancelado;957,54
+PED-00004;2025-01-02;C0233;Fortaleza;Esportes;Bicicleta Ergométrica;1;1312,35;pendente;1312,35
+PED-00005;2025-01-02;C0332;São Paulo;Esportes;Garrafa Térmica;1;72,06;concluído;72,06
+PED-00006;2025-01-03;C0264;São Paulo;Moda;Camiseta Básica;1;62,03;cancelado;62,03
+PED-00007;2025-01-04;C0169;São Paulo;Casa;Jogo de Panelas;1;286,52;concluído;286,52
+PED-00008;2025-01-04;C0361;Recife;Eletrônicos;Fone Bluetooth;1;183,44;concluído;183,44
+PED-00009;2025-01-04;C0311;São Paulo;Casa;Jogo de Panelas;1;279,28;concluído;279,28
+PED-00010;2025-01-05;C0270;Rio de Janeiro;Esportes;Kit de Halteres;2;203,51;concluído;407,02
+PED-00011;2025-01-05;C0060;Porto Alegre;Eletrônicos;Smartwatch;1;442,93;concluído;442,93
+PED-00012;2025-01-06;C0237;Porto Alegre;Casa;Air Fryer;1;399,53;concluído;399,53
+PED-00013;2025-01-06;C0036;Fortaleza;Esportes;Bicicleta Ergométrica;1;1278,8;concluído;1278,8
+PED-00014;2025-01-06;C0194;São Paulo;Esportes;Garrafa Térmica;1;72,64;concluído;72,64
+PED-00015;2025-01-07;C0115;Salvador;Eletrônicos;Carregador Turbo;1;83,84;concluído;83,84
+PED-00016;2025-01-07;C0142;São Paulo;Moda;Mochila;1;154,75;concluído;154,75
+PED-00017;2025-01-07;C0035;Curitiba;Esportes;Garrafa Térmica;2;72,95;cancelado;145,9
+PED-00018;2025-01-08;C0149;São Paulo;Casa;Jogo de Panelas;1;297,27;concluído;297,27
+PED-00019;2025-01-10;C0212;São Paulo;Moda;Jaqueta Jeans;1;259,3;pendente;259,3
+PED-00020;2025-01-10;C0164;Porto Alegre;Moda;Tênis Esportivo;4;344,47;concluído;1377,88
+PED-00021;2025-01-10;C0238;Brasília;Esportes;Garrafa Térmica;1;67,98;cancelado;67,98
+PED-00022;2025-01-11;C0048;Rio de Janeiro;Casa;Aspirador Robô;1;912,19;pendente;912,19
+PED-00023;2025-01-11;C0287;São Paulo;Moda;Tênis Esportivo;3;319,61;concluído;958,83
+PED-00024;2025-01-13;C0387;Rio de Janeiro;Livros;Romance Best-seller;1;48,35;concluído;48,35
+PED-00025;2025-01-13;C0184;São Paulo;Casa;Jogo de Panelas;1;297,89;concluído;297,89
+PED-00026;2025-01-13;C0024;Belo Horizonte;Eletrônicos;Caixa de Som;2;244,52;concluído;489,04
+PED-00027;2025-01-13;C0126;Rio de Janeiro;Moda;Mochila;1;145,35;concluído;145,35
+PED-00028;2025-01-14;C0408;São Paulo;Esportes;Garrafa Térmica;4;70,89;concluído;283,56
+PED-00029;2025-01-14;C0025;Recife;Livros;Romance Best-seller;1;51,59;concluído;51,59
+PED-00030;2025-01-15;C0342;Brasília;Eletrônicos;Smartwatch;1;459,26;concluído;459,26
+PED-00031;2025-01-16;C0009;Rio de Janeiro;Eletrônicos;Caixa de Som;1;249,73;concluído;249,73
+PED-00032;2025-01-16;C0182;São Paulo;Eletrônicos;Fone Bluetooth;1;184,98;concluído;184,98
+PED-00033;2025-01-17;C0335;Fortaleza;Casa;Jogo de Panelas;4;281,95;concluído;1127,8
+PED-00034;2025-01-17;C0223;Porto Alegre;Casa;Cafeteira;1;217,77;concluído;217,77
+PED-00035;2025-01-17;C0139;Curitiba;Livros;Romance Best-seller;1;51,9;concluído;51,9
+PED-00036;2025-01-17;C0386;Salvador;Moda;Camiseta Básica;3;58,79;pendente;176,37
+PED-00037;2025-01-17;C0197;Recife;Eletrônicos;Smartwatch;1;475,04;concluído;475,04
+PED-00038;2025-01-17;C0394;Belo Horizonte;Casa;Aspirador Robô;1;893,34;cancelado;893,34
+PED-00039;2025-01-18;C0193;Rio de Janeiro;Eletrônicos;Carregador Turbo;2;79,5;concluído;159,0
+PED-00040;2025-01-18;C0365;Salvador;Esportes;Tapete de Yoga;2;91,82;concluído;183,64
+PED-00041;2025-01-18;C0045;São Paulo;Eletrônicos;Fone Bluetooth;3;188,85;concluído;566,55
+PED-00042;2025-01-18;C0198;Curitiba;Eletrônicos;Fone Bluetooth;1;182,17;concluído;182,17
+PED-00043;2025-01-18;C0155;São Paulo;Livros;Livro de Finanças;1;67,59;concluído;67,59
+PED-00044;2025-01-18;C0254;Belo Horizonte;Casa;Cafeteira;2;225,82;pendente;451,64
+PED-00045;2025-01-18;C0172;Rio de Janeiro;Eletrônicos;Caixa de Som;1;251,99;concluído;251,99
+PED-00046;2025-01-19;C0204;Fortaleza;Eletrônicos;Carregador Turbo;2;81,46;concluído;162,92
+PED-00047;2025-01-19;C0289;São Paulo;Livros;Livro de Finanças;1;68,36;concluído;68,36
+PED-00048;2025-01-19;C0036;Salvador;Eletrônicos;Caixa de Som;3;241,77;concluído;725,31
+PED-00049;2025-01-20;C0038;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;81,17;concluído;81,17
+PED-00050;2025-01-20;C0275;Belo Horizonte;Casa;Cafeteira;1;235,66;concluído;235,66
+PED-00051;2025-01-21;C0332;São Paulo;Moda;Jaqueta Jeans;1;252,72;concluído;252,72
+PED-00052;2025-01-21;C0295;São Paulo;Eletrônicos;Fone Bluetooth;1;190,1;concluído;190,1
+PED-00053;2025-01-22;C0044;Curitiba;Moda;Camiseta Básica;1;57,05;concluído;57,05
+PED-00054;2025-01-22;C0232;São Paulo;Casa;Jogo de Panelas;1;285,5;concluído;285,5
+PED-00055;2025-01-23;C0125;Rio de Janeiro;Eletrônicos;Carregador Turbo;2;81,32;concluído;162,64
+PED-00056;2025-01-24;C0203;Curitiba;Livros;Livro de Finanças;2;70,81;concluído;141,62
+PED-00057;2025-01-25;C0033;Belo Horizonte;Casa;Air Fryer;2;387,26;concluído;774,52
+PED-00058;2025-01-25;C0161;Belo Horizonte;Casa;Cafeteira;1;232,91;concluído;232,91
+PED-00059;2025-01-27;C0315;Belo Horizonte;Casa;Cafeteira;2;236,18;concluído;472,36
+PED-00060;2025-01-27;C0295;São Paulo;Casa;Jogo de Panelas;1;279,5;concluído;279,5
+PED-00061;2025-01-28;C0444;São Paulo;Moda;Mochila;1;145,21;cancelado;145,21
+PED-00062;2025-01-28;C0086;Curitiba;Livros;Box de Fantasia;1;159,77;concluído;159,77
+PED-00063;2025-01-28;C0282;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;79,56;concluído;79,56
+PED-00065;2025-01-29;C0061;Recife;Casa;Air Fryer;1;392,96;concluído;392,96
+PED-00066;2025-01-29;C0031;Belo Horizonte;Moda;Mochila;1;144,49;concluído;144,49
+PED-00067;2025-01-30;C0348;Salvador;Casa;Aspirador Robô;1;878,08;cancelado;878,08
+PED-00068;2025-01-30;C0365;São Paulo;Livros;Guia de Python;3;86,55;cancelado;259,65
+PED-00069;2025-01-30;C0394;Curitiba;Casa;Aspirador Robô;2;887,78;concluído;1775,56
+PED-00070;2025-01-30;C0375;Fortaleza;Casa;Cafeteira;1;217,61;concluído;217,61
+PED-00071;2025-01-31;C0425;São Paulo;Esportes;Garrafa Térmica;1;69,41;concluído;69,41
+PED-00072;2025-01-31;C0440;Curitiba;Esportes;Bicicleta Ergométrica;1;1315,39;cancelado;1315,39
+PED-00073;2025-02-01;C0048;Porto Alegre;Eletrônicos;Smartwatch;3;449,91;cancelado;1349,73
+PED-00074;2025-02-01;C0049;Curitiba;Eletrônicos;Carregador Turbo;2;81,94;concluído;163,88
+PED-00075;2025-02-02;C0217;Porto Alegre;Casa;Cafeteira;1;233,48;concluído;233,48
+PED-00076;2025-02-03;C0417;Recife;Moda;Tênis Esportivo;1;325,53;concluído;325,53
+PED-00077;2025-02-03;C0384;Curitiba;Eletrônicos;Fone Bluetooth;2;183,52;concluído;367,04
+PED-00078;2025-02-03;C0220;São Paulo;Eletrônicos;Fone Bluetooth;1;182,74;concluído;182,74
+PED-00079;2025-02-03;C0155;São Paulo;Eletrônicos;Carregador Turbo;2;81,42;cancelado;162,84
+PED-00080;2025-02-04;C0124;Rio de Janeiro;Casa;Air Fryer;2;410,72;concluído;821,44
+PED-00081;2025-02-05;C0350;Curitiba;Livros;Guia de Python;1;93,14;concluído;93,14
+PED-00082;2025-02-05;C0204;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;184,5;pendente;184,5
+PED-00083;2025-02-05;C0159;Curitiba;Casa;Cafeteira;1;229,84;concluído;229,84
+PED-00084;2025-02-06;C0159;Porto Alegre;Moda;Mochila;1;153,85;concluído;153,85
+PED-00085;2025-02-07;C0337;Recife;Eletrônicos;Caixa de Som;1;251,8;concluído;251,8
+PED-00086;2025-02-08;C0065;Recife;Eletrônicos;Carregador Turbo;1;82,16;concluído;82,16
+PED-00087;2025-02-08;C0296;Belo Horizonte;Esportes;Bicicleta Ergométrica;1;1289,82;concluído;1289,82
+PED-00089;2025-02-09;C0284;Salvador;Eletrônicos;Carregador Turbo;1;77,1;pendente;77,1
+PED-00090;2025-02-10;C0062;Rio de Janeiro;Casa;Cafeteira;3;224,88;cancelado;674,64
+PED-00091;2025-02-11;C0045;Belo Horizonte;Livros;Romance Best-seller;3;51,73;concluído;155,19
+PED-00092;2025-02-12;C0101;Recife;Moda;Camiseta Básica;1;60,45;concluído;60,45
+PED-00093;2025-02-12;C0005;Brasília;Eletrônicos;Caixa de Som;1;250,03;concluído;250,03
+PED-00094;2025-02-13;C0144;Curitiba;Eletrônicos;Smartwatch;1;480,17;pendente;480,17
+PED-00095;2025-02-13;C0327;Salvador;Casa;Aspirador Robô;1;921,29;concluído;921,29
+PED-00096;2025-02-14;C0168;São Paulo;Eletrônicos;Carregador Turbo;3;83,3;concluído;249,9
+PED-00097;2025-02-14;C0275;São Paulo;Eletrônicos;Fone Bluetooth;1;183,53;concluído;183,53
+PED-00098;2025-02-14;C0309;Curitiba;Eletrônicos;Fone Bluetooth;1;195,74;concluído;195,74
+PED-00100;2025-02-15;C0400;Fortaleza;Eletrônicos;Caixa de Som;1;256,32;concluído;256,32
+PED-00101;2025-02-16;C0034;São Paulo;Moda;Tênis Esportivo;1;321,94;concluído;321,94
+PED-00102;2025-02-17;C0222;Salvador;Livros;Guia de Python;1;93,88;concluído;93,88
+PED-00103;2025-02-17;C0316;São Paulo;Casa;Jogo de Panelas;1;288,33;concluído;288,33
+PED-00104;2025-02-17;C0270;São Paulo;Casa;Air Fryer;1;384,53;concluído;384,53
+PED-00105;2025-02-18;C0165;São Paulo;Livros;Guia de Python;1;92,43;concluído;92,43
+PED-00106;2025-02-18;C0120;Fortaleza;Eletrônicos;Carregador Turbo;1;83,83;concluído;83,83
+PED-00107;2025-02-18;C0199;São Paulo;Moda;Tênis Esportivo;2;344,67;concluído;689,34
+PED-00108;2025-02-18;C0359;São Paulo;Eletrônicos;Carregador Turbo;2;81,48;cancelado;162,96
+PED-00109;2025-02-19;C0309;São Paulo;Esportes;Garrafa Térmica;1;67,63;concluído;67,63
+PED-00110;2025-02-20;C0301;Porto Alegre;Casa;Jogo de Panelas;3;299,88;concluído;899,64
+PED-00111;2025-02-20;C0155;São Paulo;Esportes;Bicicleta Ergométrica;1;1356,41;concluído;1356,41
+PED-00112;2025-02-20;C0315;Salvador;Esportes;Garrafa Térmica;2;67,62;pendente;135,24
+PED-00113;2025-02-21;C0201;Florianópolis;Casa;Aspirador Robô;1;919,57;pendente;919,57
+PED-00114;2025-02-21;C0040;São Paulo;Moda;Camiseta Básica;2;57,53;concluído;115,06
+PED-00115;2025-02-21;C0132;Salvador;Esportes;Tapete de Yoga;1;87,79;concluído;87,79
+PED-00116;2025-02-21;C0246;Salvador;Livros;Box de Fantasia;1;157,96;concluído;157,96
+PED-00117;2025-02-22;C0054;Curitiba;Eletrônicos;Fone Bluetooth;2;181,04;concluído;362,08
+PED-00118;2025-02-22;C0221;Brasília;Moda;Tênis Esportivo;1;345,91;cancelado;345,91
+PED-00119;2025-02-22;C0374;Belo Horizonte;Eletrônicos;Carregador Turbo;1;77,42;concluído;77,42
+PED-00120;2025-02-22;C0339;Belo Horizonte;Eletrônicos;Caixa de Som;1;245,53;concluído;245,53
+PED-00121;2025-02-22;C0242;Rio de Janeiro;Eletrônicos;Carregador Turbo;4;79,69;concluído;318,76
+PED-00122;2025-02-23;C0239;São Paulo;Casa;Aspirador Robô;3;887,26;concluído;2661,78
+PED-00123;2025-02-23;C0302;São Paulo;Esportes;Bicicleta Ergométrica;1;1278,71;concluído;1278,71
+PED-00124;2025-02-23;C0438;Porto Alegre;Livros;Box de Fantasia;1;155,67;concluído;155,67
+PED-00125;2025-02-24;C0109;Salvador;Moda;Camiseta Básica;1;61,44;concluído;61,44
+PED-00126;2025-02-24;C0035;Curitiba;Eletrônicos;Smartwatch;2;447,89;cancelado;895,78
+PED-00127;2025-02-25;C0213;Curitiba;Casa;Air Fryer;2;403,91;concluído;807,82
+PED-00128;2025-02-25;C0136;São Paulo;Livros;Romance Best-seller;2;51,73;cancelado;103,46
+PED-00129;2025-02-26;C0170;Porto Alegre;Eletrônicos;Caixa de Som;1;251,71;concluído;251,71
+PED-00130;2025-02-26;C0445;São Paulo;Eletrônicos;Carregador Turbo;1;82,64;cancelado;82,64
+PED-00131;2025-02-26;C0209;Recife;Eletrônicos;Caixa de Som;2;238,77;concluído;477,54
+PED-00132;2025-02-27;C0269;Florianópolis;Casa;Jogo de Panelas;1;295,98;concluído;295,98
+PED-00133;2025-02-27;C0189;Salvador;Esportes;Kit de Halteres;1;190,92;concluído;190,92
+PED-00134;2025-02-27;C0301;Belo Horizonte;Moda;Camiseta Básica;1;60,46;concluído;60,46
+PED-00135;2025-02-27;C0110;Florianópolis;Esportes;Bicicleta Ergométrica;1;1284,26;concluído;1284,26
+PED-00136;2025-02-28;C0068;Porto Alegre;Moda;Tênis Esportivo;3;345,31;concluído;1035,93
+PED-00137;2025-03-01;C0437;São Paulo;Esportes;Tapete de Yoga;2;91,78;concluído;183,56
+PED-00138;2025-03-03;C0430;São Paulo;Esportes;Garrafa Térmica;1;66,46;pendente;66,46
+PED-00139;2025-03-03;C0134;Porto Alegre;Moda;Mochila;1;157,22;concluído;157,22
+PED-00140;2025-03-03;C0339;São Paulo;Eletrônicos;Smartwatch;3;473,02;concluído;1419,06
+PED-00141;2025-03-03;C0418;São Paulo;Eletrônicos;Caixa de Som;1;254,89;concluído;254,89
+PED-00142;2025-03-03;C0431;Porto Alegre;Moda;Mochila;3;152,48;concluído;457,44
+PED-00143;2025-03-04;C0172;Porto Alegre;Eletrônicos;Carregador Turbo;2;80,37;cancelado;160,74
+PED-00144;2025-03-04;C0028;Florianópolis;Casa;Aspirador Robô;1;906,69;concluído;906,69
+PED-00145;2025-03-04;C0028;Florianópolis;Casa;Jogo de Panelas;1;300,55;concluído;300,55
+PED-00146;2025-03-05;C0171;Belo Horizonte;Casa;Cafeteira;1;237,3;concluído;237,3
+PED-00147;2025-03-05;C0391;Recife;Casa;Jogo de Panelas;2;280,29;concluído;560,58
+PED-00148;2025-03-07;C0008;Florianópolis;Casa;Cafeteira;1;218,41;concluído;218,41
+PED-00149;2025-03-07;C0258;Belo Horizonte;Moda;Camiseta Básica;1;62,16;concluído;62,16
+PED-00150;2025-03-07;C0069;São Paulo;Livros;Box de Fantasia;2;161,44;concluído;322,88
+PED-00151;2025-03-07;C0012;Belo Horizonte;Eletrônicos;Caixa de Som;1;242,14;pendente;242,14
+PED-00152;2025-03-08;C0025;Porto Alegre;Esportes;Garrafa Térmica;3;68,19;concluído;204,57
+PED-00153;2025-03-08;C0323;Curitiba;Casa;Air Fryer;1;397,98;concluído;397,98
+PED-00154;2025-03-09;C0145;Curitiba;Eletrônicos;Smartwatch;1;477,3;concluído;477,3
+PED-00155;2025-03-09;C0107;Porto Alegre;Esportes;Kit de Halteres;1;198,1;concluído;198,1
+PED-00156;2025-03-09;C0262;Curitiba;Moda;Tênis Esportivo;2;335,48;concluído;670,96
+PED-00157;2025-03-10;C0437;São Paulo;Casa;Aspirador Robô;1;858,55;concluído;858,55
+PED-00158;2025-03-10;C0225;Brasília;Eletrônicos;Fone Bluetooth;1;183,03;concluído;183,03
+PED-00159;2025-03-11;C0354;Florianópolis;Esportes;Kit de Halteres;1;197,91;concluído;197,91
+PED-00160;2025-03-11;C0248;Salvador;Eletrônicos;Fone Bluetooth;4;196,44;concluído;785,76
+PED-00161;2025-03-11;C0248;Brasília;Esportes;Bicicleta Ergométrica;3;1348,36;concluído;4045,08
+PED-00162;2025-03-11;C0371;Belo Horizonte;Eletrônicos;Carregador Turbo;1;82,84;concluído;82,84
+PED-00163;2025-03-12;C0329;São Paulo;Casa;Air Fryer;1;408,04;concluído;408,04
+PED-00164;2025-03-13;C0385;Rio de Janeiro;Eletrônicos;Smartwatch;1;457,59;concluído;457,59
+PED-00165;2025-03-13;C0230;Curitiba;Casa;Cafeteira;1;222,93;concluído;222,93
+PED-00166;2025-03-13;C0047;Salvador;Esportes;Bicicleta Ergométrica;1;1287,61;concluído;1287,61
+PED-00167;2025-03-13;C0233;São Paulo;Moda;Mochila;4;147,85;concluído;591,4
+PED-00168;2025-03-13;C0325;Fortaleza;Moda;Tênis Esportivo;1;335,14;concluído;335,14
+PED-00169;2025-03-14;C0131;Belo Horizonte;Eletrônicos;Smartwatch;1;473,77;concluído;473,77
+PED-00170;2025-03-14;C0429;Porto Alegre;Eletrônicos;Smartwatch;2;441,0;concluído;882,0
+PED-00171;2025-03-14;C0222;Salvador;Moda;Camiseta Básica;4;56,93;concluído;227,72
+PED-00172;2025-03-15;C0165;Rio de Janeiro;Moda;Camiseta Básica;2;57,67;concluído;115,34
+PED-00173;2025-03-16;C0359;Florianópolis;Eletrônicos;Carregador Turbo;4;79,52;concluído;318,08
+PED-00174;2025-03-16;C0345;Curitiba;Esportes;Kit de Halteres;1;202,38;concluído;202,38
+PED-00175;2025-03-16;C0342;Porto Alegre;Casa;Aspirador Robô;2;922,44;concluído;1844,88
+PED-00176;2025-03-18;C0344;Curitiba;Casa;Cafeteira;2;229,52;concluído;459,04
+PED-00177;2025-03-18;C0017;São Paulo;Moda;Camiseta Básica;2;61,04;concluído;122,08
+PED-00178;2025-03-19;C0341;Curitiba;Esportes;Garrafa Térmica;1;71,89;concluído;71,89
+PED-00179;2025-03-20;C0446;Rio de Janeiro;Livros;Romance Best-seller;1;48,66;concluído;48,66
+PED-00180;2025-03-20;C0350;Curitiba;Esportes;Kit de Halteres;2;209,18;concluído;418,36
+PED-00181;2025-03-20;C0003;São Paulo;Casa;Cafeteira;1;223,6;concluído;223,6
+PED-00182;2025-03-20;C0405;Belo Horizonte;Livros;Romance Best-seller;2;50,53;cancelado;101,06
+PED-00183;2025-03-20;C0207;Curitiba;Moda;Camiseta Básica;1;61,61;concluído;61,61
+PED-00184;2025-03-20;C0422;Recife;Casa;Aspirador Robô;1;921,71;concluído;921,71
+PED-00185;2025-03-21;C0059;São Paulo;Casa;Jogo de Panelas;4;295,19;concluído;1180,76
+PED-00186;2025-03-21;C0334;São Paulo;Esportes;Tapete de Yoga;1;89,98;concluído;89,98
+PED-00187;2025-03-22;C0351;Rio de Janeiro;Livros;Romance Best-seller;2;48,46;concluído;96,92
+PED-00188;2025-03-22;C0045;Curitiba;Moda;Tênis Esportivo;2;318,48;concluído;636,96
+PED-00189;2025-03-22;C0162;Curitiba;Moda;Camiseta Básica;3;59,35;concluído;178,05
+PED-00190;2025-03-23;C0403;Porto Alegre;Eletrônicos;Fone Bluetooth;2;181,78;pendente;363,56
+PED-00191;2025-03-24;C0409;Salvador;Casa;Air Fryer;1;400,34;concluído;400,34
+PED-00192;2025-03-24;C0022;Curitiba;Moda;Jaqueta Jeans;4;237,68;cancelado;950,72
+PED-00193;2025-03-24;C0095;São Paulo;Casa;Aspirador Robô;1;935,47;cancelado;935,47
+PED-00194;2025-03-25;C0282;Curitiba;Moda;Tênis Esportivo;3;344,16;pendente;1032,48
+PED-00195;2025-03-25;C0146;Belo Horizonte;Moda;Mochila;4;147,76;concluído;591,04
+PED-00196;2025-03-25;C0220;Curitiba;Casa;Aspirador Robô;2;867,75;concluído;1735,5
+PED-00197;2025-03-25;C0184;Recife;Eletrônicos;Carregador Turbo;1;81,76;cancelado;81,76
+PED-00198;2025-03-26;C0373;Curitiba;Esportes;Kit de Halteres;3;193,83;concluído;581,49
+PED-00199;2025-03-27;C0242;Porto Alegre;Casa;Jogo de Panelas;3;291,4;concluído;874,2
+PED-00200;2025-03-27;C0006;Porto Alegre;Moda;Jaqueta Jeans;1;249,93;concluído;249,93
+PED-00201;2025-03-28;C0075;Recife;Moda;Camiseta Básica;1;57,98;pendente;57,98
+PED-00202;2025-03-28;C0406;São Paulo;Esportes;Kit de Halteres;1;197,29;concluído;197,29
+PED-00203;2025-03-29;C0380;São Paulo;Eletrônicos;Carregador Turbo;1;83,64;concluído;83,64
+PED-00204;2025-03-29;C0181;Salvador;Casa;Air Fryer;1;394,07;cancelado;394,07
+PED-00205;2025-03-29;C0077;São Paulo;Casa;Jogo de Panelas;1;282,07;concluído;282,07
+PED-00206;2025-03-29;C0108;Belo Horizonte;Moda;Mochila;2;153,2;concluído;306,4
+PED-00207;2025-03-29;C0086;São Paulo;Eletrônicos;Smartwatch;1;459,58;cancelado;459,58
+PED-00208;2025-03-30;C0247;Curitiba;Esportes;Tapete de Yoga;3;87,35;concluído;262,05
+PED-00209;2025-03-30;C0233;Belo Horizonte;Esportes;Kit de Halteres;2;200,12;concluído;400,24
+PED-00210;2025-03-30;C0308;Curitiba;Eletrônicos;Caixa de Som;2;251,63;concluído;503,26
+PED-00211;2025-03-30;C0348;Porto Alegre;Eletrônicos;Smartwatch;3;460,8;concluído;1382,4
+PED-00212;2025-03-31;C0302;Salvador;Moda;Mochila;1;154,43;concluído;154,43
+PED-00213;2025-03-31;C0307;Florianópolis;Eletrônicos;Smartwatch;1;471,2;cancelado;471,2
+PED-00214;2025-03-31;C0210;São Paulo;Moda;Tênis Esportivo;1;325,78;concluído;325,78
+PED-00215;2025-04-01;C0105;Rio de Janeiro;Eletrônicos;Caixa de Som;1;251,79;pendente;251,79
+PED-00216;2025-04-01;C0377;Curitiba;Moda;Mochila;1;147,0;concluído;147,0
+PED-00217;2025-04-02;C0315;Porto Alegre;Casa;Jogo de Panelas;1;290,14;concluído;290,14
+PED-00218;2025-04-02;C0190;Curitiba;Esportes;Kit de Halteres;1;201,9;concluído;201,9
+PED-00219;2025-04-02;C0328;Rio de Janeiro;Moda;Jaqueta Jeans;2;252,34;pendente;504,68
+PED-00220;2025-04-03;C0081;Curitiba;Casa;Jogo de Panelas;2;294,94;concluído;589,88
+PED-00221;2025-04-03;C0146;Recife;Casa;Jogo de Panelas;1;296,77;concluído;296,77
+PED-00222;2025-04-03;C0003;São Paulo;Livros;Guia de Python;1;94,06;concluído;94,06
+PED-00223;2025-04-04;C0417;Salvador;Casa;Aspirador Robô;3;926,23;pendente;2778,69
+PED-00224;2025-04-05;C0301;Florianópolis;Moda;Camiseta Básica;2;62,66;concluído;125,32
+PED-00225;2025-04-05;C0265;Rio de Janeiro;Moda;Camiseta Básica;2;58,28;concluído;116,56
+PED-00226;2025-04-06;C0294;São Paulo;Eletrônicos;Carregador Turbo;1;83,35;concluído;83,35
+PED-00227;2025-04-06;C0428;São Paulo;Casa;Jogo de Panelas;1;282,42;concluído;282,42
+PED-00228;2025-04-08;C0278;Brasília;Eletrônicos;Fone Bluetooth;2;193,0;concluído;386,0
+PED-00229;2025-04-09;C0114;Recife;Casa;Aspirador Robô;1;942,55;cancelado;942,55
+PED-00230;2025-04-09;C0062;Porto Alegre;Casa;Air Fryer;1;394,76;concluído;394,76
+PED-00231;2025-04-10;C0281;São Paulo;Moda;Mochila;1;147,28;concluído;147,28
+PED-00232;2025-04-10;C0206;São Paulo;Casa;Cafeteira;1;227,15;concluído;227,15
+PED-00233;2025-04-10;C0101;Curitiba;Moda;Tênis Esportivo;2;339,93;concluído;679,86
+PED-00234;2025-04-10;C0162;Salvador;Eletrônicos;Caixa de Som;1;258,79;concluído;258,79
+PED-00235;2025-04-10;C0323;Curitiba;Eletrônicos;Fone Bluetooth;2;181,55;concluído;363,1
+PED-00236;2025-04-10;C0311;São Paulo;Moda;Jaqueta Jeans;1;247,69;concluído;247,69
+PED-00237;2025-04-10;C0041;São Paulo;Livros;Guia de Python;1;91,46;concluído;91,46
+PED-00238;2025-04-10;C0041;Curitiba;Esportes;Tapete de Yoga;1;90,91;concluído;90,91
+PED-00239;2025-04-11;C0301;Rio de Janeiro;Moda;Mochila;1;149,07;cancelado;149,07
+PED-00240;2025-04-11;C0086;São Paulo;Eletrônicos;Smartwatch;2;479,22;concluído;958,44
+PED-00241;2025-04-11;C0317;Curitiba;Moda;Tênis Esportivo;2;330,69;pendente;661,38
+PED-00242;2025-04-12;C0018;Porto Alegre;Eletrônicos;Carregador Turbo;1;76,92;concluído;76,92
+PED-00243;2025-04-13;C0303;Belo Horizonte;Casa;Aspirador Robô;1;866,2;pendente;866,2
+PED-00244;2025-04-13;C0158;São Paulo;Casa;Aspirador Robô;3;897,35;concluído;2692,05
+PED-00245;2025-04-14;C0387;Rio de Janeiro;Moda;Camiseta Básica;1;59,72;concluído;59,72
+PED-00246;2025-04-14;C0128;Curitiba;Eletrônicos;Fone Bluetooth;1;183,99;cancelado;183,99
+PED-00247;2025-04-14;C0414;Porto Alegre;Eletrônicos;Fone Bluetooth;1;184,95;concluído;184,95
+PED-00248;2025-04-15;C0234;Belo Horizonte;Esportes;Garrafa Térmica;1;66,88;concluído;66,88
+PED-00249;2025-04-16;C0138;Curitiba;Casa;Jogo de Panelas;1;290,91;concluído;290,91
+PED-00250;2025-04-16;C0238;Porto Alegre;Eletrônicos;Smartwatch;1;450,35;concluído;450,35
+PED-00251;2025-04-17;C0419;São Paulo;Eletrônicos;Caixa de Som;1;248,26;concluído;248,26
+PED-00252;2025-04-17;C0107;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;194,37;concluído;194,37
+PED-00253;2025-04-17;C0153;São Paulo;Eletrônicos;Fone Bluetooth;2;190,84;concluído;381,68
+PED-00254;2025-04-18;C0062;São Paulo;Livros;Livro de Finanças;2;68,67;concluído;137,34
+PED-00255;2025-04-18;C0256;Curitiba;Esportes;Garrafa Térmica;2;67,49;concluído;134,98
+PED-00256;2025-04-18;C0286;Salvador;Eletrônicos;Smartwatch;2;472,38;concluído;944,76
+PED-00257;2025-04-20;C0249;Porto Alegre;Moda;Tênis Esportivo;2;325,22;concluído;650,44
+PED-00258;2025-04-20;C0307;Brasília;Eletrônicos;Smartwatch;1;450,91;concluído;450,91
+PED-00259;2025-04-20;C0376;São Paulo;Casa;Aspirador Robô;1;894,87;concluído;894,87
+PED-00260;2025-04-21;C0255;Recife;Casa;Air Fryer;2;400,55;concluído;801,1
+PED-00261;2025-04-21;C0092;Florianópolis;Moda;Tênis Esportivo;1;335,14;concluído;335,14
+PED-00262;2025-04-21;C0188;São Paulo;Eletrônicos;Caixa de Som;2;249,64;concluído;499,28
+PED-00263;2025-04-21;C0213;Salvador;Livros;Romance Best-seller;1;50,59;concluído;50,59
+PED-00264;2025-04-22;C0052;Recife;Eletrônicos;Fone Bluetooth;2;181,88;concluído;363,76
+PED-00265;2025-04-22;C0296;São Paulo;Moda;Camiseta Básica;1;60,25;concluído;60,25
+PED-00266;2025-04-22;C0308;Rio de Janeiro;Eletrônicos;Smartwatch;1;459,22;concluído;459,22
+PED-00267;2025-04-22;C0289;Belo Horizonte;Esportes;Garrafa Térmica;2;69,41;concluído;138,82
+PED-00268;2025-04-22;C0306;Curitiba;Casa;Cafeteira;1;226,64;concluído;226,64
+PED-00269;2025-04-23;C0422;São Paulo;Casa;Jogo de Panelas;1;284,53;concluído;284,53
+PED-00270;2025-04-24;C0128;São Paulo;Eletrônicos;Fone Bluetooth;1;183,37;concluído;183,37
+PED-00271;2025-04-24;C0423;Florianópolis;Moda;Camiseta Básica;2;61,24;concluído;122,48
+PED-00272;2025-04-24;C0395;São Paulo;Moda;Jaqueta Jeans;1;257,61;concluído;257,61
+PED-00273;2025-04-25;C0324;São Paulo;Esportes;Kit de Halteres;2;206,89;pendente;413,78
+PED-00274;2025-04-25;C0386;Belo Horizonte;Casa;Jogo de Panelas;1;294,93;pendente;294,93
+PED-00275;2025-04-25;C0205;São Paulo;Esportes;Kit de Halteres;1;191,56;concluído;191,56
+PED-00276;2025-04-25;C0316;Fortaleza;Esportes;Garrafa Térmica;1;69,82;concluído;69,82
+PED-00277;2025-04-26;C0188;São Paulo;Esportes;Tapete de Yoga;2;90,58;concluído;181,16
+PED-00278;2025-04-28;C0075;Rio de Janeiro;Esportes;Kit de Halteres;4;202,22;pendente;808,88
+PED-00279;2025-04-28;C0445;Salvador;Casa;Air Fryer;1;381,23;pendente;381,23
+PED-00280;2025-04-29;C0268;Recife;Casa;Cafeteira;1;222,34;concluído;222,34
+PED-00281;2025-04-30;C0031;São Paulo;Moda;Tênis Esportivo;1;343,3;concluído;343,3
+PED-00282;2025-04-30;C0185;Florianópolis;Casa;Air Fryer;1;405,4;concluído;405,4
+PED-00283;2025-04-30;C0102;Rio de Janeiro;Casa;Air Fryer;3;398,39;concluído;1195,17
+PED-00284;2025-04-30;C0181;São Paulo;Eletrônicos;Carregador Turbo;1;79,05;concluído;79,05
+PED-00285;2025-05-01;C0016;Brasília;Eletrônicos;Fone Bluetooth;2;197,09;cancelado;394,18
+PED-00286;2025-05-02;C0321;Porto Alegre;Livros;Livro de Finanças;1;69,08;pendente;69,08
+PED-00287;2025-05-02;C0351;Salvador;Livros;Guia de Python;1;86,59;concluído;86,59
+PED-00288;2025-05-02;C0081;São Paulo;Livros;Box de Fantasia;4;167,51;concluído;670,04
+PED-00289;2025-05-03;C0211;São Paulo;Eletrônicos;Smartwatch;2;471,18;cancelado;942,36
+PED-00290;2025-05-03;C0137;Belo Horizonte;Eletrônicos;Smartwatch;1;444,53;concluído;444,53
+PED-00291;2025-05-03;C0241;Porto Alegre;Moda;Jaqueta Jeans;1;256,89;concluído;256,89
+PED-00292;2025-05-04;C0139;Brasília;Casa;Jogo de Panelas;1;276,34;concluído;276,34
+PED-00293;2025-05-04;C0353;São Paulo;Esportes;Bicicleta Ergométrica;1;1358,07;concluído;1358,07
+PED-00294;2025-05-05;C0275;Rio de Janeiro;Esportes;Garrafa Térmica;2;69,16;pendente;138,32
+PED-00295;2025-05-05;C0203;Fortaleza;Eletrônicos;Caixa de Som;2;237,61;pendente;475,22
+PED-00296;2025-05-05;C0237;Curitiba;Livros;Livro de Finanças;1;69,19;concluído;69,19
+PED-00297;2025-05-06;C0399;Belo Horizonte;Livros;Box de Fantasia;2;159,13;concluído;318,26
+PED-00298;2025-05-06;C0233;Curitiba;Casa;Cafeteira;1;227,94;cancelado;227,94
+PED-00299;2025-05-06;C0363;São Paulo;Moda;Tênis Esportivo;1;336,7;concluído;336,7
+PED-00300;2025-05-06;C0442;Curitiba;Casa;Cafeteira;1;221,46;concluído;221,46
+PED-00301;2025-05-06;C0068;Fortaleza;Casa;Aspirador Robô;2;940,44;concluído;1880,88
+PED-00302;2025-05-07;C0233;Rio de Janeiro;Moda;Tênis Esportivo;2;329,68;concluído;659,36
+PED-00303;2025-05-08;C0438;Curitiba;Eletrônicos;Smartwatch;1;442,85;concluído;442,85
+PED-00304;2025-05-08;C0339;Porto Alegre;Livros;Romance Best-seller;1;52,36;concluído;52,36
+PED-00305;2025-05-09;C0195;Salvador;Livros;Guia de Python;3;86,24;concluído;258,72
+PED-00306;2025-05-09;C0108;Porto Alegre;Casa;Jogo de Panelas;1;300,32;concluído;300,32
+PED-00307;2025-05-09;C0219;Belo Horizonte;Livros;Box de Fantasia;2;161,58;concluído;323,16
+PED-00308;2025-05-10;C0414;Curitiba;Casa;Jogo de Panelas;2;289,8;concluído;579,6
+PED-00309;2025-05-10;C0316;Fortaleza;Eletrônicos;Fone Bluetooth;1;195,53;concluído;195,53
+PED-00310;2025-05-10;C0158;São Paulo;Esportes;Kit de Halteres;1;193,93;concluído;193,93
+PED-00311;2025-05-12;C0100;São Paulo;Moda;Jaqueta Jeans;1;251,62;pendente;251,62
+PED-00312;2025-05-12;C0172;Rio de Janeiro;Esportes;Kit de Halteres;1;202,44;cancelado;202,44
+PED-00313;2025-05-12;C0296;Porto Alegre;Esportes;Tapete de Yoga;1;91,5;concluído;91,5
+PED-00314;2025-05-14;C0432;Curitiba;Eletrônicos;Smartwatch;1;437,48;pendente;437,48
+PED-00315;2025-05-14;C0255;Florianópolis;Esportes;Tapete de Yoga;2;88,23;concluído;176,46
+PED-00316;2025-05-15;C0048;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;78,89;concluído;78,89
+PED-00317;2025-05-15;C0447;Curitiba;Eletrônicos;Caixa de Som;2;249,59;concluído;499,18
+PED-00318;2025-05-15;C0023;Porto Alegre;Eletrônicos;Fone Bluetooth;1;193,96;concluído;193,96
+PED-00319;2025-05-16;C0160;Belo Horizonte;Livros;Romance Best-seller;1;50,69;concluído;50,69
+PED-00320;2025-05-16;C0059;Curitiba;Eletrônicos;Carregador Turbo;2;81,27;concluído;162,54
+PED-00321;2025-05-17;C0088;Curitiba;Moda;Jaqueta Jeans;1;260,98;concluído;260,98
+PED-00322;2025-05-17;C0219;São Paulo;Eletrônicos;Fone Bluetooth;1;193,23;concluído;193,23
+PED-00323;2025-05-17;C0041;Fortaleza;Moda;Jaqueta Jeans;1;242,36;concluído;242,36
+PED-00324;2025-05-18;C0241;São Paulo;Eletrônicos;Caixa de Som;1;244,28;concluído;244,28
+PED-00325;2025-05-18;C0167;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;81,49;concluído;81,49
+PED-00326;2025-05-19;C0208;Salvador;Casa;Jogo de Panelas;1;285,51;concluído;285,51
+PED-00327;2025-05-20;C0247;São Paulo;Esportes;Garrafa Térmica;1;69,29;concluído;69,29
+PED-00328;2025-05-20;C0343;Curitiba;Casa;Cafeteira;1;225,39;concluído;225,39
+PED-00329;2025-05-21;C0208;Curitiba;Eletrônicos;Caixa de Som;1;238,98;concluído;238,98
+PED-00330;2025-05-21;C0326;Salvador;Casa;Air Fryer;1;411,65;cancelado;411,65
+PED-00331;2025-05-21;C0154;Belo Horizonte;Moda;Mochila;2;149,11;concluído;298,22
+PED-00332;2025-05-21;C0434;Curitiba;Moda;Jaqueta Jeans;4;251,97;concluído;1007,88
+PED-00333;2025-05-22;C0444;Curitiba;Livros;Romance Best-seller;2;51,5;concluído;103,0
+PED-00334;2025-05-22;C0097;Belo Horizonte;Moda;Mochila;1;150,58;concluído;150,58
+PED-00335;2025-05-22;C0250;Porto Alegre;Eletrônicos;Smartwatch;1;439,34;concluído;439,34
+PED-00336;2025-05-23;C0320;Curitiba;Moda;Mochila;3;155,8;concluído;467,4
+PED-00337;2025-05-23;C0122;Porto Alegre;Casa;Jogo de Panelas;1;292,93;concluído;292,93
+PED-00338;2025-05-23;C0354;Curitiba;Casa;Air Fryer;1;407,17;concluído;407,17
+PED-00339;2025-05-24;C0340;Fortaleza;Casa;Air Fryer;1;403,39;concluído;403,39
+PED-00340;2025-05-25;C0216;São Paulo;Moda;Tênis Esportivo;1;330,32;concluído;330,32
+PED-00341;2025-05-25;C0087;Belo Horizonte;Eletrônicos;Carregador Turbo;2;80,41;concluído;160,82
+PED-00342;2025-05-25;C0068;Belo Horizonte;Eletrônicos;Caixa de Som;1;249,14;cancelado;249,14
+PED-00343;2025-05-25;C0121;Rio de Janeiro;Moda;Camiseta Básica;2;59,12;concluído;118,24
+PED-00344;2025-05-26;C0212;Recife;Livros;Livro de Finanças;1;72,15;cancelado;72,15
+PED-00345;2025-05-27;C0238;São Paulo;Eletrônicos;Carregador Turbo;1;78,02;concluído;78,02
+PED-00346;2025-05-27;C0409;Rio de Janeiro;Eletrônicos;Caixa de Som;1;240,16;cancelado;240,16
+PED-00347;2025-05-28;C0172;São Paulo;Eletrônicos;Carregador Turbo;4;79,35;cancelado;317,4
+PED-00348;2025-05-28;C0354;Fortaleza;Casa;Jogo de Panelas;2;292,47;concluído;584,94
+PED-00349;2025-05-28;C0129;São Paulo;Eletrônicos;Fone Bluetooth;1;193,42;concluído;193,42
+PED-00350;2025-05-28;C0332;Belo Horizonte;Moda;Tênis Esportivo;1;333,35;concluído;333,35
+PED-00351;2025-05-28;C0394;Rio de Janeiro;Eletrônicos;Caixa de Som;2;238,44;concluído;476,88
+PED-00352;2025-05-28;C0133;Brasília;Eletrônicos;Fone Bluetooth;1;181,59;concluído;181,59
+PED-00353;2025-05-29;C0394;Rio de Janeiro;Livros;Livro de Finanças;2;67,65;concluído;135,3
+PED-00354;2025-05-29;C0010;Florianópolis;Moda;Tênis Esportivo;1;315,73;concluído;315,73
+PED-00355;2025-05-29;C0363;Brasília;Moda;Jaqueta Jeans;1;245,65;concluído;245,65
+PED-00356;2025-05-29;C0275;Brasília;Moda;Tênis Esportivo;1;336,14;concluído;336,14
+PED-00357;2025-05-30;C0390;Recife;Eletrônicos;Fone Bluetooth;1;196,61;concluído;196,61
+PED-00358;2025-05-30;C0250;Curitiba;Livros;Livro de Finanças;1;69,13;concluído;69,13
+PED-00359;2025-05-30;C0277;Porto Alegre;Eletrônicos;Fone Bluetooth;2;191,67;concluído;383,34
+PED-00360;2025-05-30;C0061;São Paulo;Livros;Romance Best-seller;1;47,68;concluído;47,68
+PED-00361;2025-05-30;C0242;Florianópolis;Eletrônicos;Smartwatch;3;437,74;concluído;1313,22
+PED-00362;2025-05-31;C0428;Belo Horizonte;Eletrônicos;Fone Bluetooth;3;195,99;concluído;587,97
+PED-00363;2025-05-31;C0378;Porto Alegre;Moda;Camiseta Básica;1;58,12;concluído;58,12
+PED-00364;2025-06-01;C0172;Curitiba;Moda;Jaqueta Jeans;2;257,22;concluído;514,44
+PED-00365;2025-06-01;C0434;Belo Horizonte;Moda;Camiseta Básica;1;62,45;concluído;62,45
+PED-00366;2025-06-02;C0214;Porto Alegre;Eletrônicos;Fone Bluetooth;1;182,1;concluído;182,1
+PED-00367;2025-06-02;C0020;Belo Horizonte;Eletrônicos;Carregador Turbo;1;79,2;pendente;79,2
+PED-00368;2025-06-03;C0272;Fortaleza;Moda;Jaqueta Jeans;1;237,52;concluído;237,52
+PED-00369;2025-06-03;C0408;Curitiba;Casa;Cafeteira;2;232,65;concluído;465,3
+PED-00370;2025-06-03;C0316;Salvador;Eletrônicos;Fone Bluetooth;1;187,32;concluído;187,32
+PED-00371;2025-06-03;C0304;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;182,61;cancelado;182,61
+PED-00372;2025-06-04;C0193;Florianópolis;Eletrônicos;Fone Bluetooth;1;182,27;concluído;182,27
+PED-00373;2025-06-04;C0184;Fortaleza;Eletrônicos;Caixa de Som;1;245,85;concluído;245,85
+PED-00374;2025-06-04;C0113;Florianópolis;Eletrônicos;Smartwatch;1;457,42;concluído;457,42
+PED-00375;2025-06-05;C0303;Rio de Janeiro;Livros;Livro de Finanças;1;72,4;concluído;72,4
+PED-00376;2025-06-06;C0294;Florianópolis;Eletrônicos;Caixa de Som;1;258,76;concluído;258,76
+PED-00377;2025-06-06;C0124;Curitiba;Eletrônicos;Caixa de Som;1;256,42;cancelado;256,42
+PED-00378;2025-06-06;C0343;São Paulo;Livros;Livro de Finanças;1;68,08;pendente;68,08
+PED-00379;2025-06-06;C0447;São Paulo;Moda;Mochila;1;144,48;concluído;144,48
+PED-00380;2025-06-07;C0314;Belo Horizonte;Casa;Aspirador Robô;1;880,71;concluído;880,71
+PED-00381;2025-06-07;C0027;Curitiba;Moda;Jaqueta Jeans;2;238,77;pendente;477,54
+PED-00382;2025-06-08;C0277;Curitiba;Casa;Air Fryer;1;409,92;concluído;409,92
+PED-00383;2025-06-08;C0258;Porto Alegre;Esportes;Kit de Halteres;2;205,12;concluído;410,24
+PED-00384;2025-06-08;C0232;Belo Horizonte;Casa;Air Fryer;1;400,27;cancelado;400,27
+PED-00385;2025-06-09;C0040;Curitiba;Eletrônicos;Caixa de Som;1;246,28;concluído;246,28
+PED-00386;2025-06-09;C0278;Brasília;Eletrônicos;Smartwatch;1;464,84;concluído;464,84
+PED-00387;2025-06-09;C0172;Rio de Janeiro;Casa;Air Fryer;1;411,05;cancelado;411,05
+PED-00388;2025-06-10;C0405;São Paulo;Casa;Cafeteira;1;230,54;cancelado;230,54
+PED-00389;2025-06-11;C0147;São Paulo;Eletrônicos;Carregador Turbo;1;77,23;pendente;77,23
+PED-00390;2025-06-11;C0134;São Paulo;Esportes;Kit de Halteres;1;190,73;concluído;190,73
+PED-00391;2025-06-12;C0013;Rio de Janeiro;Livros;Livro de Finanças;1;70,18;concluído;70,18
+PED-00392;2025-06-12;C0362;São Paulo;Livros;Livro de Finanças;1;71,57;pendente;71,57
+PED-00393;2025-06-12;C0348;Belo Horizonte;Moda;Mochila;1;144,09;concluído;144,09
+PED-00394;2025-06-13;C0401;Brasília;Casa;Air Fryer;1;403,32;concluído;403,32
+PED-00395;2025-06-14;C0342;São Paulo;Livros;Box de Fantasia;1;156,99;concluído;156,99
+PED-00396;2025-06-14;C0045;São Paulo;Casa;Air Fryer;1;393,07;pendente;393,07
+PED-00397;2025-06-15;C0213;Curitiba;Esportes;Tapete de Yoga;1;91,95;cancelado;91,95
+PED-00398;2025-06-15;C0210;Belo Horizonte;Casa;Aspirador Robô;1;940,36;concluído;940,36
+PED-00399;2025-06-15;C0422;Salvador;Moda;Camiseta Básica;1;61,89;concluído;61,89
+PED-00400;2025-06-15;C0428;Belo Horizonte;Moda;Camiseta Básica;1;56,92;concluído;56,92
+PED-00401;2025-06-16;C0253;Fortaleza;Casa;Cafeteira;3;232,32;concluído;696,96
+PED-00402;2025-06-16;C0263;Recife;Casa;Aspirador Robô;2;896,85;concluído;1793,7
+PED-00403;2025-06-17;C0215;Belo Horizonte;Eletrônicos;Caixa de Som;3;239,92;concluído;719,76
+PED-00404;2025-06-18;C0386;Curitiba;Moda;Tênis Esportivo;1;338,69;concluído;338,69
+PED-00405;2025-06-18;C0266;São Paulo;Eletrônicos;Carregador Turbo;1;80,54;cancelado;80,54
+PED-00406;2025-06-19;C0354;Salvador;Eletrônicos;Smartwatch;1;474,22;concluído;474,22
+PED-00407;2025-06-19;C0009;Rio de Janeiro;Moda;Tênis Esportivo;1;343,62;concluído;343,62
+PED-00408;2025-06-20;C0066;Florianópolis;Livros;Guia de Python;1;88,14;concluído;88,14
+PED-00409;2025-06-20;C0248;Recife;Eletrônicos;Fone Bluetooth;1;194,89;concluído;194,89
+PED-00410;2025-06-20;C0064;Brasília;Eletrônicos;Carregador Turbo;1;78,32;concluído;78,32
+PED-00411;2025-06-20;C0179;São Paulo;Moda;Tênis Esportivo;1;341,31;pendente;341,31
+PED-00412;2025-06-20;C0099;Fortaleza;Eletrônicos;Fone Bluetooth;1;191,38;concluído;191,38
+PED-00413;2025-06-21;C0358;Belo Horizonte;Livros;Romance Best-seller;3;52,0;cancelado;156,0
+PED-00414;2025-06-22;C0161;Curitiba;Esportes;Garrafa Térmica;1;70,0;concluído;70,0
+PED-00415;2025-06-22;C0377;São Paulo;Moda;Tênis Esportivo;1;329,69;concluído;329,69
+PED-00416;2025-06-22;C0348;São Paulo;Casa;Cafeteira;1;219,14;cancelado;219,14
+PED-00418;2025-06-23;C0366;Recife;Casa;Cafeteira;1;236,74;concluído;236,74
+PED-00419;2025-06-23;C0063;São Paulo;Casa;Cafeteira;4;229,26;concluído;917,04
+PED-00420;2025-06-23;C0310;Porto Alegre;Eletrônicos;Fone Bluetooth;2;189,86;concluído;379,72
+PED-00421;2025-06-24;C0134;Belo Horizonte;Esportes;Garrafa Térmica;2;67,82;concluído;135,64
+PED-00422;2025-06-24;C0437;São Paulo;Livros;Romance Best-seller;4;51,8;concluído;207,2
+PED-00423;2025-06-24;C0252;Porto Alegre;Casa;Jogo de Panelas;1;286,68;concluído;286,68
+PED-00424;2025-06-24;C0316;Porto Alegre;Moda;Camiseta Básica;1;59,25;concluído;59,25
+PED-00425;2025-06-24;C0392;Florianópolis;Eletrônicos;Fone Bluetooth;1;187,36;concluído;187,36
+PED-00426;2025-06-24;C0304;Curitiba;Livros;Box de Fantasia;1;162,48;concluído;162,48
+PED-00427;2025-06-24;C0264;Florianópolis;Casa;Air Fryer;1;380,54;concluído;380,54
+PED-00428;2025-06-25;C0052;Porto Alegre;Eletrônicos;Carregador Turbo;1;79,02;concluído;79,02
+PED-00429;2025-06-25;C0404;Curitiba;Eletrônicos;Carregador Turbo;1;79,39;concluído;79,39
+PED-00430;2025-06-25;C0297;Curitiba;Eletrônicos;Caixa de Som;2;252,1;pendente;504,2
+PED-00431;2025-06-26;C0154;Rio de Janeiro;Casa;Jogo de Panelas;1;277,63;cancelado;277,63
+PED-00432;2025-06-27;C0265;Florianópolis;Eletrônicos;Caixa de Som;2;250,18;cancelado;500,36
+PED-00433;2025-06-27;C0237;Curitiba;Eletrônicos;Caixa de Som;3;254,64;concluído;763,92
+PED-00434;2025-06-27;C0212;São Paulo;Esportes;Garrafa Térmica;1;72,21;concluído;72,21
+PED-00435;2025-06-28;C0238;Rio de Janeiro;Eletrônicos;Smartwatch;1;444,86;concluído;444,86
+PED-00436;2025-06-28;C0091;Porto Alegre;Eletrônicos;Carregador Turbo;1;77,97;concluído;77,97
+PED-00437;2025-06-28;C0187;Porto Alegre;Esportes;Bicicleta Ergométrica;1;1272,76;concluído;1272,76
+PED-00438;2025-06-28;C0129;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;196,15;pendente;196,15
+PED-00439;2025-06-29;C0055;Curitiba;Casa;Cafeteira;2;234,59;pendente;469,18
+PED-00440;2025-06-29;C0217;Rio de Janeiro;Esportes;Bicicleta Ergométrica;1;1282,72;pendente;1282,72
+PED-00441;2025-07-01;C0431;Recife;Casa;Aspirador Robô;2;855,94;pendente;1711,88
+PED-00442;2025-07-02;C0274;Florianópolis;Moda;Jaqueta Jeans;2;254,91;cancelado;509,82
+PED-00443;2025-07-03;C0441;Florianópolis;Livros;Guia de Python;1;93,82;concluído;93,82
+PED-00444;2025-07-03;C0212;Brasília;Esportes;Tapete de Yoga;3;92,81;pendente;278,43
+PED-00445;2025-07-04;C0378;São Paulo;Esportes;Tapete de Yoga;1;88,57;concluído;88,57
+PED-00446;2025-07-04;C0057;Curitiba;Moda;Camiseta Básica;1;58,1;concluído;58,1
+PED-00447;2025-07-05;C0134;Curitiba;Esportes;Garrafa Térmica;2;68,64;concluído;137,28
+PED-00448;2025-07-05;C0293;São Paulo;Eletrônicos;Caixa de Som;1;246,35;concluído;246,35
+PED-00449;2025-07-06;C0206;Belo Horizonte;Moda;Tênis Esportivo;4;319,95;concluído;1279,8
+PED-00450;2025-07-06;C0424;Porto Alegre;Eletrônicos;Fone Bluetooth;1;190,39;concluído;190,39
+PED-00451;2025-07-06;C0308;São Paulo;Livros;Guia de Python;1;89,85;concluído;89,85
+PED-00452;2025-07-06;C0231;Florianópolis;Casa;Cafeteira;2;218,21;pendente;436,42
+PED-00453;2025-07-07;C0366;São Paulo;Eletrônicos;Caixa de Som;1;244,6;concluído;244,6
+PED-00454;2025-07-07;C0311;Brasília;Eletrônicos;Fone Bluetooth;1;198,09;concluído;198,09
+PED-00455;2025-07-07;C0287;Curitiba;Eletrônicos;Caixa de Som;1;246,38;concluído;246,38
+PED-00456;2025-07-08;C0060;São Paulo;Livros;Box de Fantasia;1;156,98;concluído;156,98
+PED-00457;2025-07-08;C0136;Rio de Janeiro;Esportes;Garrafa Térmica;1;72,53;concluído;72,53
+PED-00458;2025-07-08;C0097;Curitiba;Esportes;Kit de Halteres;1;208,35;concluído;208,35
+PED-00459;2025-07-08;C0364;Belo Horizonte;Moda;Mochila;1;155,82;concluído;155,82
+PED-00460;2025-07-09;C0422;São Paulo;Eletrônicos;Fone Bluetooth;1;185,8;cancelado;185,8
+PED-00461;2025-07-10;C0169;Curitiba;Moda;Camiseta Básica;1;57,37;concluído;57,37
+PED-00462;2025-07-10;C0338;Rio de Janeiro;Casa;Air Fryer;2;385,19;concluído;770,38
+PED-00463;2025-07-11;C0376;Florianópolis;Casa;Air Fryer;2;416,99;concluído;833,98
+PED-00464;2025-07-11;C0196;Curitiba;Esportes;Tapete de Yoga;1;85,9;concluído;85,9
+PED-00465;2025-07-11;C0335;Curitiba;Eletrônicos;Smartwatch;1;471,83;concluído;471,83
+PED-00466;2025-07-12;C0229;Florianópolis;Livros;Livro de Finanças;1;67,08;concluído;67,08
+PED-00467;2025-07-12;C0021;Rio de Janeiro;Eletrônicos;Caixa de Som;2;251,84;concluído;503,68
+PED-00468;2025-07-12;C0077;Fortaleza;Livros;Romance Best-seller;1;49,59;cancelado;49,59
+PED-00469;2025-07-12;C0262;Rio de Janeiro;Moda;Jaqueta Jeans;1;251,17;cancelado;251,17
+PED-00470;2025-07-13;C0403;São Paulo;Casa;Air Fryer;2;379,7;concluído;759,4
+PED-00471;2025-07-13;C0447;Salvador;Casa;Cafeteira;2;227,85;concluído;455,7
+PED-00472;2025-07-13;C0336;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;180,75;concluído;180,75
+PED-00473;2025-07-13;C0354;Porto Alegre;Moda;Jaqueta Jeans;2;261,74;concluído;523,48
+PED-00474;2025-07-13;C0247;Porto Alegre;Eletrônicos;Fone Bluetooth;2;193,62;concluído;387,24
+PED-00475;2025-07-14;C0079;Recife;Eletrônicos;Carregador Turbo;2;77,09;concluído;154,18
+PED-00476;2025-07-14;C0005;Curitiba;Esportes;Kit de Halteres;1;201,29;cancelado;201,29
+PED-00477;2025-07-15;C0348;Florianópolis;Esportes;Tapete de Yoga;1;89,0;concluído;89,0
+PED-00478;2025-07-15;C0243;Curitiba;Moda;Mochila;1;150,7;concluído;150,7
+PED-00479;2025-07-15;C0260;São Paulo;Moda;Tênis Esportivo;1;337,36;concluído;337,36
+PED-00480;2025-07-16;C0427;Brasília;Esportes;Garrafa Térmica;1;68,46;concluído;68,46
+PED-00481;2025-07-16;C0067;Curitiba;Esportes;Kit de Halteres;2;195,55;concluído;391,1
+PED-00482;2025-07-17;C0134;São Paulo;Livros;Box de Fantasia;1;155,25;concluído;155,25
+PED-00483;2025-07-17;C0250;São Paulo;Eletrônicos;Fone Bluetooth;1;182,57;concluído;182,57
+PED-00484;2025-07-19;C0054;Porto Alegre;Esportes;Tapete de Yoga;3;93,08;cancelado;279,24
+PED-00485;2025-07-20;C0053;Salvador;Livros;Romance Best-seller;4;51,31;concluído;205,24
+PED-00486;2025-07-20;C0376;Florianópolis;Esportes;Tapete de Yoga;1;88,03;concluído;88,03
+PED-00487;2025-07-20;C0415;Rio de Janeiro;Eletrônicos;Smartwatch;1;455,13;concluído;455,13
+PED-00488;2025-07-20;C0216;Salvador;Casa;Cafeteira;1;232,78;concluído;232,78
+PED-00489;2025-07-21;C0265;Brasília;Livros;Guia de Python;3;89,38;concluído;268,14
+PED-00490;2025-07-22;C0030;Fortaleza;Casa;Cafeteira;2;232,67;concluído;465,34
+PED-00491;2025-07-22;C0381;São Paulo;Livros;Box de Fantasia;1;162,79;concluído;162,79
+PED-00492;2025-07-22;C0404;Belo Horizonte;Moda;Camiseta Básica;2;59,58;concluído;119,16
+PED-00493;2025-07-22;C0065;Rio de Janeiro;Esportes;Tapete de Yoga;1;90,24;concluído;90,24
+PED-00494;2025-07-23;C0304;São Paulo;Moda;Jaqueta Jeans;2;241,4;concluído;482,8
+PED-00495;2025-07-23;C0064;Curitiba;Livros;Romance Best-seller;2;51,6;concluído;103,2
+PED-00496;2025-07-23;C0290;Porto Alegre;Moda;Tênis Esportivo;1;345,83;concluído;345,83
+PED-00497;2025-07-24;C0366;São Paulo;Eletrônicos;Carregador Turbo;1;82,18;concluído;82,18
+PED-00498;2025-07-24;C0048;Curitiba;Moda;Jaqueta Jeans;1;241,07;concluído;241,07
+PED-00499;2025-07-24;C0256;Belo Horizonte;Eletrônicos;Caixa de Som;1;249,47;concluído;249,47
+PED-00500;2025-07-25;C0067;Fortaleza;Moda;Mochila;2;144,57;concluído;289,14
+PED-00501;2025-07-25;C0309;Florianópolis;Casa;Air Fryer;2;416,72;concluído;833,44
+PED-00502;2025-07-25;C0015;Salvador;Eletrônicos;Smartwatch;1;450,05;concluído;450,05
+PED-00503;2025-07-25;C0063;Belo Horizonte;Livros;Guia de Python;3;87,34;concluído;262,02
+PED-00504;2025-07-26;C0311;Curitiba;Casa;Cafeteira;3;235,44;concluído;706,32
+PED-00505;2025-07-26;C0210;São Paulo;Moda;Camiseta Básica;3;58,85;concluído;176,55
+PED-00506;2025-07-27;C0293;Belo Horizonte;Livros;Box de Fantasia;2;162,23;cancelado;324,46
+PED-00507;2025-07-28;C0292;Rio de Janeiro;Moda;Tênis Esportivo;1;333,82;concluído;333,82
+PED-00508;2025-07-28;C0430;Florianópolis;Eletrônicos;Smartwatch;4;448,67;concluído;1794,68
+PED-00509;2025-07-30;C0013;Florianópolis;Casa;Air Fryer;1;416,31;concluído;416,31
+PED-00510;2025-07-30;C0209;Porto Alegre;Livros;Livro de Finanças;1;67,68;concluído;67,68
+PED-00511;2025-07-30;C0424;Florianópolis;Casa;Air Fryer;1;395,52;concluído;395,52
+PED-00512;2025-07-31;C0034;Rio de Janeiro;Eletrônicos;Caixa de Som;3;243,26;concluído;729,78
+PED-00513;2025-08-01;C0209;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;190,94;concluído;190,94
+PED-00514;2025-08-01;C0232;Curitiba;Casa;Jogo de Panelas;2;290,99;concluído;581,98
+PED-00515;2025-08-01;C0430;Porto Alegre;Casa;Jogo de Panelas;1;302,47;concluído;302,47
+PED-00516;2025-08-02;C0203;Porto Alegre;Moda;Jaqueta Jeans;1;255,88;concluído;255,88
+PED-00517;2025-08-02;C0176;Belo Horizonte;Esportes;Kit de Halteres;2;209,04;concluído;418,08
+PED-00518;2025-08-02;C0355;Curitiba;Eletrônicos;Carregador Turbo;1;79,58;concluído;79,58
+PED-00519;2025-08-03;C0276;Curitiba;Livros;Livro de Finanças;1;72,66;concluído;72,66
+PED-00520;2025-08-03;C0184;São Paulo;Eletrônicos;Caixa de Som;2;245,34;concluído;490,68
+PED-00521;2025-08-03;C0144;Porto Alegre;Eletrônicos;Carregador Turbo;3;79,46;concluído;238,38
+PED-00522;2025-08-03;C0361;Porto Alegre;Moda;Camiseta Básica;1;59,86;concluído;59,86
+PED-00523;2025-08-04;C0290;Porto Alegre;Eletrônicos;Carregador Turbo;1;79,85;concluído;79,85
+PED-00524;2025-08-04;C0374;Salvador;Eletrônicos;Fone Bluetooth;1;198,13;cancelado;198,13
+PED-00525;2025-08-04;C0438;Brasília;Moda;Mochila;1;148,81;concluído;148,81
+PED-00526;2025-08-05;C0025;São Paulo;Eletrônicos;Caixa de Som;1;249,43;concluído;249,43
+PED-00527;2025-08-05;C0354;Rio de Janeiro;Casa;Aspirador Robô;1;905,46;concluído;905,46
+PED-00528;2025-08-06;C0172;Salvador;Casa;Air Fryer;1;396,28;concluído;396,28
+PED-00529;2025-08-06;C0225;Recife;Esportes;Tapete de Yoga;1;87,53;concluído;87,53
+PED-00530;2025-08-07;C0032;Brasília;Livros;Romance Best-seller;1;51,85;concluído;51,85
+PED-00531;2025-08-07;C0386;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;186,01;concluído;186,01
+PED-00532;2025-08-08;C0334;Brasília;Eletrônicos;Caixa de Som;1;247,21;concluído;247,21
+PED-00533;2025-08-08;C0100;Florianópolis;Moda;Tênis Esportivo;1;333,04;concluído;333,04
+PED-00534;2025-08-09;C0300;Rio de Janeiro;Casa;Cafeteira;1;220,7;concluído;220,7
+PED-00535;2025-08-09;C0005;Rio de Janeiro;Moda;Camiseta Básica;1;58,75;concluído;58,75
+PED-00536;2025-08-09;C0403;Curitiba;Casa;Air Fryer;1;386,85;concluído;386,85
+PED-00537;2025-08-10;C0169;Curitiba;Moda;Jaqueta Jeans;3;251,55;concluído;754,65
+PED-00538;2025-08-10;C0247;Recife;Casa;Air Fryer;2;406,71;concluído;813,42
+PED-00539;2025-08-10;C0285;Curitiba;Eletrônicos;Smartwatch;2;436,36;concluído;872,72
+PED-00540;2025-08-10;C0135;Porto Alegre;Livros;Guia de Python;1;85,67;concluído;85,67
+PED-00541;2025-08-10;C0195;Porto Alegre;Eletrônicos;Smartwatch;2;477,85;concluído;955,7
+PED-00542;2025-08-10;C0410;Fortaleza;Casa;Jogo de Panelas;1;286,2;concluído;286,2
+PED-00543;2025-08-10;C0307;Rio de Janeiro;Eletrônicos;Smartwatch;2;444,85;concluído;889,7
+PED-00544;2025-08-11;C0447;Curitiba;Moda;Jaqueta Jeans;2;245,59;concluído;491,18
+PED-00545;2025-08-11;C0199;Recife;Eletrônicos;Fone Bluetooth;2;195,43;concluído;390,86
+PED-00546;2025-08-12;C0254;Rio de Janeiro;Casa;Jogo de Panelas;1;286,24;concluído;286,24
+PED-00547;2025-08-12;C0157;Rio de Janeiro;Moda;Camiseta Básica;1;58,12;cancelado;58,12
+PED-00548;2025-08-13;C0299;Curitiba;Eletrônicos;Fone Bluetooth;1;182,0;concluído;182,0
+PED-00549;2025-08-13;C0227;São Paulo;Casa;Cafeteira;1;228,94;concluído;228,94
+PED-00550;2025-08-14;C0020;Belo Horizonte;Casa;Air Fryer;2;416,02;concluído;832,04
+PED-00551;2025-08-14;C0367;Recife;Casa;Aspirador Robô;1;908,35;concluído;908,35
+PED-00552;2025-08-14;C0335;Rio de Janeiro;Esportes;Garrafa Térmica;3;72,15;concluído;216,45
+PED-00553;2025-08-14;C0370;Salvador;Eletrônicos;Smartwatch;1;459,73;concluído;459,73
+PED-00554;2025-08-14;C0296;Florianópolis;Casa;Cafeteira;1;227,85;concluído;227,85
+PED-00555;2025-08-15;C0399;Porto Alegre;Esportes;Tapete de Yoga;1;89,17;concluído;89,17
+PED-00556;2025-08-15;C0309;Brasília;Esportes;Kit de Halteres;1;208,95;concluído;208,95
+PED-00557;2025-08-16;C0232;Belo Horizonte;Eletrônicos;Caixa de Som;1;246,17;concluído;246,17
+PED-00558;2025-08-16;C0106;São Paulo;Eletrônicos;Caixa de Som;1;241,51;cancelado;241,51
+PED-00559;2025-08-16;C0057;Curitiba;Casa;Air Fryer;1;413,35;concluído;413,35
+PED-00560;2025-08-18;C0244;Curitiba;Livros;Livro de Finanças;1;67,84;concluído;67,84
+PED-00561;2025-08-19;C0205;Belo Horizonte;Casa;Cafeteira;1;217,72;concluído;217,72
+PED-00562;2025-08-19;C0234;São Paulo;Esportes;Garrafa Térmica;1;66,68;concluído;66,68
+PED-00563;2025-08-20;C0197;Brasília;Moda;Camiseta Básica;1;57,98;concluído;57,98
+PED-00564;2025-08-20;C0150;Porto Alegre;Moda;Tênis Esportivo;1;342,12;concluído;342,12
+PED-00565;2025-08-20;C0167;Rio de Janeiro;Livros;Romance Best-seller;4;47,79;concluído;191,16
+PED-00566;2025-08-21;C0205;Florianópolis;Casa;Air Fryer;2;406,01;concluído;812,02
+PED-00567;2025-08-21;C0225;Curitiba;Casa;Cafeteira;1;219,11;concluído;219,11
+PED-00568;2025-08-21;C0344;Recife;Esportes;Bicicleta Ergométrica;1;1250,18;concluído;1250,18
+PED-00569;2025-08-22;C0326;Salvador;Eletrônicos;Fone Bluetooth;3;190,51;concluído;571,53
+PED-00570;2025-08-22;C0104;Brasília;Casa;Aspirador Robô;1;907,83;concluído;907,83
+PED-00571;2025-08-23;C0113;Brasília;Eletrônicos;Fone Bluetooth;4;186,81;concluído;747,24
+PED-00572;2025-08-23;C0098;Belo Horizonte;Moda;Tênis Esportivo;1;316,96;concluído;316,96
+PED-00573;2025-08-23;C0007;São Paulo;Eletrônicos;Smartwatch;1;450,89;concluído;450,89
+PED-00574;2025-08-24;C0256;Fortaleza;Moda;Jaqueta Jeans;1;259,53;concluído;259,53
+PED-00575;2025-08-25;C0395;Porto Alegre;Eletrônicos;Fone Bluetooth;1;199,04;concluído;199,04
+PED-00576;2025-08-25;C0262;Porto Alegre;Livros;Box de Fantasia;1;152,19;cancelado;152,19
+PED-00577;2025-08-25;C0031;Curitiba;Eletrônicos;Fone Bluetooth;1;194,42;concluído;194,42
+PED-00578;2025-08-25;C0450;São Paulo;Eletrônicos;Fone Bluetooth;1;194,18;pendente;194,18
+PED-00579;2025-08-26;C0170;São Paulo;Moda;Mochila;2;146,73;concluído;293,46
+PED-00580;2025-08-27;C0252;Curitiba;Moda;Mochila;1;145,16;concluído;145,16
+PED-00581;2025-08-27;C0121;Rio de Janeiro;Livros;Livro de Finanças;1;70,55;cancelado;70,55
+PED-00582;2025-08-27;C0326;São Paulo;Moda;Camiseta Básica;1;60,53;concluído;60,53
+PED-00583;2025-08-28;C0080;Salvador;Casa;Jogo de Panelas;1;287,66;concluído;287,66
+PED-00584;2025-08-28;C0238;São Paulo;Esportes;Tapete de Yoga;1;86,78;concluído;86,78
+PED-00585;2025-08-29;C0442;Rio de Janeiro;Eletrônicos;Smartwatch;2;445,03;cancelado;890,06
+PED-00586;2025-08-29;C0020;Fortaleza;Livros;Guia de Python;1;88,17;pendente;88,17
+PED-00587;2025-08-29;C0364;Rio de Janeiro;Eletrônicos;Caixa de Som;4;255,75;concluído;1023,0
+PED-00588;2025-08-29;C0347;Curitiba;Livros;Livro de Finanças;1;66,65;concluído;66,65
+PED-00589;2025-08-30;C0007;Curitiba;Casa;Jogo de Panelas;1;292,86;pendente;292,86
+PED-00590;2025-08-30;C0130;Porto Alegre;Casa;Air Fryer;1;386,58;concluído;386,58
+PED-00591;2025-08-31;C0294;Recife;Moda;Mochila;2;156,26;cancelado;312,52
+PED-00592;2025-09-01;C0050;Curitiba;Livros;Box de Fantasia;2;152,01;concluído;304,02
+PED-00593;2025-09-01;C0258;Brasília;Moda;Camiseta Básica;1;58,02;concluído;58,02
+PED-00594;2025-09-01;C0226;Belo Horizonte;Eletrônicos;Smartwatch;2;444,86;pendente;889,72
+PED-00595;2025-09-01;C0245;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;185,66;concluído;185,66
+PED-00596;2025-09-02;C0390;São Paulo;Moda;Tênis Esportivo;1;330,64;concluído;330,64
+PED-00597;2025-09-02;C0185;Porto Alegre;Casa;Aspirador Robô;2;884,89;concluído;1769,78
+PED-00598;2025-09-03;C0072;Curitiba;Esportes;Bicicleta Ergométrica;1;1324,76;concluído;1324,76
+PED-00599;2025-09-03;C0417;São Paulo;Casa;Cafeteira;1;232,67;concluído;232,67
+PED-00600;2025-09-03;C0220;Brasília;Moda;Camiseta Básica;2;59,3;concluído;118,6
+PED-00601;2025-09-03;C0402;Florianópolis;Moda;Jaqueta Jeans;2;255,2;cancelado;510,4
+PED-00602;2025-09-03;C0124;São Paulo;Casa;Cafeteira;1;227,77;concluído;227,77
+PED-00603;2025-09-03;C0113;Porto Alegre;Eletrônicos;Fone Bluetooth;1;198,05;cancelado;198,05
+PED-00604;2025-09-03;C0393;Brasília;Moda;Mochila;1;152,77;cancelado;152,77
+PED-00605;2025-09-04;C0046;São Paulo;Moda;Mochila;2;145,76;concluído;291,52
+PED-00606;2025-09-04;C0032;Belo Horizonte;Moda;Camiseta Básica;3;62,62;concluído;187,86
+PED-00607;2025-09-04;C0303;São Paulo;Casa;Aspirador Robô;2;938,01;concluído;1876,02
+PED-00608;2025-09-04;C0075;Recife;Casa;Aspirador Robô;2;898,98;concluído;1797,96
+PED-00609;2025-09-05;C0294;Rio de Janeiro;Moda;Jaqueta Jeans;1;254,61;concluído;254,61
+PED-00610;2025-09-06;C0116;Porto Alegre;Eletrônicos;Carregador Turbo;1;81,63;cancelado;81,63
+PED-00611;2025-09-07;C0179;Recife;Casa;Jogo de Panelas;4;291,29;concluído;1165,16
+PED-00613;2025-09-07;C0108;São Paulo;Casa;Jogo de Panelas;1;288,22;concluído;288,22
+PED-00614;2025-09-08;C0219;Porto Alegre;Casa;Air Fryer;2;418,49;concluído;836,98
+PED-00615;2025-09-08;C0077;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;190,19;concluído;190,19
+PED-00616;2025-09-08;C0338;Curitiba;Casa;Jogo de Panelas;2;286,29;concluído;572,58
+PED-00617;2025-09-09;C0343;Florianópolis;Eletrônicos;Caixa de Som;1;239,54;concluído;239,54
+PED-00618;2025-09-09;C0223;São Paulo;Casa;Air Fryer;2;386,28;concluído;772,56
+PED-00619;2025-09-09;C0033;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;195,93;concluído;195,93
+PED-00620;2025-09-10;C0093;Curitiba;Esportes;Kit de Halteres;4;207,85;concluído;831,4
+PED-00621;2025-09-10;C0044;Fortaleza;Eletrônicos;Smartwatch;2;440,08;concluído;880,16
+PED-00622;2025-09-11;C0151;Porto Alegre;Eletrônicos;Fone Bluetooth;1;181,28;pendente;181,28
+PED-00623;2025-09-11;C0023;São Paulo;Casa;Aspirador Robô;2;899,95;concluído;1799,9
+PED-00624;2025-09-11;C0282;São Paulo;Livros;Livro de Finanças;1;68,34;concluído;68,34
+PED-00625;2025-09-12;C0323;Recife;Casa;Aspirador Robô;2;938,57;concluído;1877,14
+PED-00626;2025-09-12;C0014;Fortaleza;Moda;Camiseta Básica;1;57,82;pendente;57,82
+PED-00627;2025-09-12;C0140;Curitiba;Eletrônicos;Caixa de Som;1;252,49;concluído;252,49
+PED-00628;2025-09-13;C0373;Florianópolis;Casa;Jogo de Panelas;1;278,45;pendente;278,45
+PED-00629;2025-09-13;C0385;São Paulo;Moda;Jaqueta Jeans;1;252,59;cancelado;252,59
+PED-00630;2025-09-13;C0074;São Paulo;Casa;Jogo de Panelas;1;295,31;concluído;295,31
+PED-00631;2025-09-13;C0258;São Paulo;Moda;Mochila;2;145,15;pendente;290,3
+PED-00632;2025-09-14;C0161;Salvador;Livros;Livro de Finanças;1;72,4;pendente;72,4
+PED-00633;2025-09-16;C0414;Florianópolis;Livros;Livro de Finanças;1;67,0;concluído;67,0
+PED-00634;2025-09-17;C0358;Curitiba;Livros;Livro de Finanças;1;70,0;pendente;70,0
+PED-00635;2025-09-19;C0422;Fortaleza;Eletrônicos;Caixa de Som;2;255,22;concluído;510,44
+PED-00636;2025-09-19;C0039;São Paulo;Moda;Camiseta Básica;2;62,19;concluído;124,38
+PED-00637;2025-09-20;C0426;Rio de Janeiro;Casa;Cafeteira;1;239,76;concluído;239,76
+PED-00638;2025-09-20;C0157;Brasília;Casa;Aspirador Robô;1;920,4;concluído;920,4
+PED-00639;2025-09-21;C0055;Curitiba;Livros;Box de Fantasia;1;152,0;concluído;152,0
+PED-00640;2025-09-22;C0064;Brasília;Eletrônicos;Caixa de Som;1;238,66;concluído;238,66
+PED-00641;2025-09-22;C0225;Porto Alegre;Casa;Aspirador Robô;1;870,43;concluído;870,43
+PED-00642;2025-09-22;C0170;Florianópolis;Eletrônicos;Smartwatch;1;449,13;concluído;449,13
+PED-00643;2025-09-23;C0066;São Paulo;Livros;Guia de Python;1;89,8;concluído;89,8
+PED-00644;2025-09-24;C0177;Rio de Janeiro;Moda;Mochila;1;156,76;concluído;156,76
+PED-00645;2025-09-24;C0127;Belo Horizonte;Casa;Air Fryer;1;390,6;concluído;390,6
+PED-00646;2025-09-24;C0362;Salvador;Esportes;Tapete de Yoga;4;87,63;cancelado;350,52
+PED-00647;2025-09-24;C0075;Rio de Janeiro;Eletrônicos;Smartwatch;1;442,12;concluído;442,12
+PED-00648;2025-09-25;C0032;Rio de Janeiro;Casa;Aspirador Robô;2;942,16;concluído;1884,32
+PED-00649;2025-09-25;C0001;Curitiba;Casa;Aspirador Robô;2;876,25;cancelado;1752,5
+PED-00650;2025-09-25;C0058;Curitiba;Casa;Air Fryer;1;389,12;concluído;389,12
+PED-00651;2025-09-25;C0055;Curitiba;Esportes;Tapete de Yoga;1;87,89;concluído;87,89
+PED-00652;2025-09-26;C0317;São Paulo;Livros;Livro de Finanças;1;69,52;concluído;69,52
+PED-00653;2025-09-26;C0450;Recife;Moda;Camiseta Básica;1;58,05;concluído;58,05
+PED-00654;2025-09-26;C0269;Brasília;Livros;Box de Fantasia;2;153,78;concluído;307,56
+PED-00655;2025-09-27;C0351;Rio de Janeiro;Casa;Air Fryer;2;406,73;concluído;813,46
+PED-00656;2025-09-27;C0002;Curitiba;Esportes;Garrafa Térmica;1;69,13;concluído;69,13
+PED-00657;2025-09-28;C0088;São Paulo;Casa;Aspirador Robô;1;873,86;concluído;873,86
+PED-00658;2025-09-29;C0128;Fortaleza;Livros;Guia de Python;3;87,84;concluído;263,52
+PED-00659;2025-09-29;C0069;Rio de Janeiro;Moda;Jaqueta Jeans;1;261,06;cancelado;261,06
+PED-00660;2025-09-30;C0009;Rio de Janeiro;Moda;Tênis Esportivo;2;320,64;pendente;641,28
+PED-00661;2025-09-30;C0106;Salvador;Eletrônicos;Caixa de Som;3;242,96;concluído;728,88
+PED-00662;2025-10-01;C0246;Curitiba;Moda;Mochila;1;145,88;concluído;145,88
+PED-00663;2025-10-02;C0091;Salvador;Eletrônicos;Caixa de Som;3;241,04;concluído;723,12
+PED-00664;2025-10-02;C0071;Recife;Eletrônicos;Smartwatch;1;465,66;concluído;465,66
+PED-00665;2025-10-02;C0128;Recife;Casa;Air Fryer;2;409,51;concluído;819,02
+PED-00666;2025-10-02;C0363;Curitiba;Eletrônicos;Fone Bluetooth;4;182,42;concluído;729,68
+PED-00667;2025-10-02;C0322;Belo Horizonte;Esportes;Tapete de Yoga;1;86,79;concluído;86,79
+PED-00668;2025-10-02;C0076;São Paulo;Eletrônicos;Caixa de Som;1;259,26;concluído;259,26
+PED-00669;2025-10-02;C0145;São Paulo;Moda;Tênis Esportivo;1;346,09;concluído;346,09
+PED-00670;2025-10-03;C0077;Florianópolis;Livros;Livro de Finanças;1;70,11;concluído;70,11
+PED-00671;2025-10-03;C0365;Salvador;Casa;Air Fryer;1;398,97;concluído;398,97
+PED-00672;2025-10-03;C0245;Salvador;Esportes;Kit de Halteres;1;197,71;concluído;197,71
+PED-00673;2025-10-04;C0218;Rio de Janeiro;Eletrônicos;Carregador Turbo;4;77,36;concluído;309,44
+PED-00674;2025-10-04;C0275;Salvador;Eletrônicos;Smartwatch;1;461,26;concluído;461,26
+PED-00675;2025-10-05;C0009;São Paulo;Moda;Camiseta Básica;2;58,31;concluído;116,62
+PED-00676;2025-10-05;C0236;Curitiba;Eletrônicos;Carregador Turbo;1;82,69;concluído;82,69
+PED-00677;2025-10-05;C0194;Recife;Eletrônicos;Smartwatch;1;442,38;pendente;442,38
+PED-00678;2025-10-06;C0073;Curitiba;Moda;Tênis Esportivo;1;333,0;concluído;333,0
+PED-00679;2025-10-06;C0173;Rio de Janeiro;Casa;Jogo de Panelas;2;295,66;concluído;591,32
+PED-00680;2025-10-07;C0217;Porto Alegre;Eletrônicos;Fone Bluetooth;2;183,7;concluído;367,4
+PED-00681;2025-10-07;C0268;São Paulo;Livros;Guia de Python;2;89,21;concluído;178,42
+PED-00682;2025-10-09;C0040;Salvador;Moda;Camiseta Básica;1;61,83;pendente;61,83
+PED-00683;2025-10-10;C0056;Curitiba;Casa;Cafeteira;1;235,95;concluído;235,95
+PED-00684;2025-10-12;C0159;São Paulo;Eletrônicos;Carregador Turbo;1;76,76;concluído;76,76
+PED-00685;2025-10-12;C0159;Curitiba;Eletrônicos;Fone Bluetooth;1;195,41;concluído;195,41
+PED-00686;2025-10-12;C0050;São Paulo;Casa;Aspirador Robô;2;919,29;pendente;1838,58
+PED-00687;2025-10-13;C0020;São Paulo;Esportes;Kit de Halteres;1;205,82;concluído;205,82
+PED-00688;2025-10-13;C0083;Fortaleza;Livros;Livro de Finanças;3;72,05;concluído;216,15
+PED-00689;2025-10-13;C0221;Curitiba;Moda;Jaqueta Jeans;1;240,68;concluído;240,68
+PED-00690;2025-10-13;C0008;Curitiba;Eletrônicos;Fone Bluetooth;4;191,17;pendente;764,68
+PED-00691;2025-10-14;C0187;São Paulo;Casa;Cafeteira;1;238,94;concluído;238,94
+PED-00692;2025-10-14;C0021;São Paulo;Livros;Box de Fantasia;2;154,15;concluído;308,3
+PED-00693;2025-10-15;C0043;Porto Alegre;Livros;Livro de Finanças;1;69,99;concluído;69,99
+PED-00694;2025-10-15;C0437;Curitiba;Moda;Tênis Esportivo;2;321,48;cancelado;642,96
+PED-00695;2025-10-16;C0419;Rio de Janeiro;Eletrônicos;Caixa de Som;2;245,24;concluído;490,48
+PED-00696;2025-10-16;C0109;Porto Alegre;Esportes;Kit de Halteres;1;191,19;concluído;191,19
+PED-00697;2025-10-16;C0397;São Paulo;Moda;Mochila;1;145,6;concluído;145,6
+PED-00698;2025-10-16;C0139;São Paulo;Livros;Livro de Finanças;1;72,47;pendente;72,47
+PED-00699;2025-10-17;C0133;São Paulo;Casa;Aspirador Robô;3;894,63;concluído;2683,89
+PED-00700;2025-10-17;C0357;Rio de Janeiro;Eletrônicos;Carregador Turbo;3;79,75;concluído;239,25
+PED-00701;2025-10-17;C0422;Brasília;Moda;Camiseta Básica;1;60,91;concluído;60,91
+PED-00702;2025-10-18;C0346;Rio de Janeiro;Eletrônicos;Caixa de Som;3;248,99;concluído;746,97
+PED-00703;2025-10-18;C0397;Curitiba;Moda;Tênis Esportivo;1;338,01;concluído;338,01
+PED-00704;2025-10-20;C0420;Florianópolis;Livros;Romance Best-seller;1;49,22;concluído;49,22
+PED-00705;2025-10-21;C0059;Brasília;Casa;Aspirador Robô;1;902,82;concluído;902,82
+PED-00706;2025-10-21;C0146;Porto Alegre;Moda;Mochila;1;155,07;concluído;155,07
+PED-00707;2025-10-21;C0384;Recife;Livros;Romance Best-seller;1;47,49;pendente;47,49
+PED-00708;2025-10-21;C0283;São Paulo;Casa;Air Fryer;2;413,03;concluído;826,06
+PED-00709;2025-10-21;C0004;Brasília;Casa;Cafeteira;1;236,34;concluído;236,34
+PED-00710;2025-10-22;C0003;Florianópolis;Esportes;Tapete de Yoga;1;93,52;cancelado;93,52
+PED-00711;2025-10-22;C0201;São Paulo;Esportes;Tapete de Yoga;1;94,03;pendente;94,03
+PED-00712;2025-10-23;C0224;São Paulo;Casa;Cafeteira;4;221,53;cancelado;886,12
+PED-00713;2025-10-24;C0166;São Paulo;Moda;Mochila;2;151,81;concluído;303,62
+PED-00714;2025-10-25;C0325;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;180,89;concluído;180,89
+PED-00715;2025-10-25;C0027;São Paulo;Casa;Jogo de Panelas;2;298,8;concluído;597,6
+PED-00716;2025-10-25;C0093;Curitiba;Esportes;Bicicleta Ergométrica;1;1311,46;concluído;1311,46
+PED-00717;2025-10-26;C0108;Porto Alegre;Casa;Cafeteira;2;227,02;concluído;454,04
+PED-00718;2025-10-26;C0438;Curitiba;Esportes;Kit de Halteres;1;207,97;concluído;207,97
+PED-00719;2025-10-26;C0016;Rio de Janeiro;Livros;Romance Best-seller;1;51,11;pendente;51,11
+PED-00720;2025-10-27;C0355;Brasília;Esportes;Bicicleta Ergométrica;3;1237,88;concluído;3713,64
+PED-00721;2025-10-27;C0099;São Paulo;Casa;Aspirador Robô;1;926,78;concluído;926,78
+PED-00722;2025-10-28;C0370;Rio de Janeiro;Livros;Romance Best-seller;1;51,23;concluído;51,23
+PED-00723;2025-10-28;C0324;Salvador;Esportes;Bicicleta Ergométrica;2;1289,82;concluído;2579,64
+PED-00724;2025-10-28;C0181;São Paulo;Eletrônicos;Caixa de Som;1;257,13;concluído;257,13
+PED-00725;2025-10-29;C0161;Curitiba;Esportes;Tapete de Yoga;1;87,34;concluído;87,34
+PED-00726;2025-10-29;C0270;São Paulo;Casa;Aspirador Robô;3;904,54;concluído;2713,62
+PED-00727;2025-10-29;C0026;Salvador;Moda;Mochila;2;148,93;concluído;297,86
+PED-00728;2025-10-29;C0146;Curitiba;Eletrônicos;Caixa de Som;1;244,69;concluído;244,69
+PED-00729;2025-10-30;C0271;Curitiba;Livros;Guia de Python;1;94,1;concluído;94,1
+PED-00730;2025-10-30;C0285;Recife;Esportes;Garrafa Térmica;2;68,32;concluído;136,64
+PED-00731;2025-10-30;C0423;Curitiba;Casa;Air Fryer;2;416,46;concluído;832,92
+PED-00732;2025-10-31;C0003;Brasília;Eletrônicos;Fone Bluetooth;1;197,54;concluído;197,54
+PED-00733;2025-10-31;C0139;Porto Alegre;Eletrônicos;Carregador Turbo;1;78,54;concluído;78,54
+PED-00734;2025-10-31;C0229;Porto Alegre;Eletrônicos;Smartwatch;2;476,8;pendente;953,6
+PED-00735;2025-10-31;C0152;Porto Alegre;Moda;Jaqueta Jeans;1;255,67;concluído;255,67
+PED-00736;2025-10-31;C0344;São Paulo;Moda;Camiseta Básica;2;57,36;concluído;114,72
+PED-00737;2025-11-01;C0259;Curitiba;Casa;Aspirador Robô;2;882,08;concluído;1764,16
+PED-00738;2025-11-01;C0158;Brasília;Livros;Livro de Finanças;2;67,72;concluído;135,44
+PED-00739;2025-11-01;C0339;Rio de Janeiro;Esportes;Bicicleta Ergométrica;1;1350,19;concluído;1350,19
+PED-00740;2025-11-01;C0226;São Paulo;Eletrônicos;Caixa de Som;1;246,43;concluído;246,43
+PED-00741;2025-11-01;C0222;Curitiba;Eletrônicos;Smartwatch;1;463,32;concluído;463,32
+PED-00742;2025-11-02;C0318;Porto Alegre;Eletrônicos;Fone Bluetooth;1;184,94;concluído;184,94
+PED-00743;2025-11-02;C0362;Belo Horizonte;Moda;Jaqueta Jeans;1;241,68;concluído;241,68
+PED-00744;2025-11-02;C0349;Curitiba;Livros;Box de Fantasia;2;165,54;concluído;331,08
+PED-00745;2025-11-03;C0088;Porto Alegre;Livros;Box de Fantasia;1;152,24;pendente;152,24
+PED-00746;2025-11-03;C0349;Fortaleza;Moda;Mochila;3;149,49;concluído;448,47
+PED-00747;2025-11-03;C0180;Fortaleza;Esportes;Bicicleta Ergométrica;1;1338,48;concluído;1338,48
+PED-00748;2025-11-03;C0443;Florianópolis;Casa;Aspirador Robô;1;884,05;concluído;884,05
+PED-00749;2025-11-03;C0183;Rio de Janeiro;Moda;Tênis Esportivo;1;326,94;concluído;326,94
+PED-00750;2025-11-04;C0450;Belo Horizonte;Casa;Air Fryer;1;417,15;concluído;417,15
+PED-00751;2025-11-04;C0159;São Paulo;Eletrônicos;Carregador Turbo;3;79,03;concluído;237,09
+PED-00752;2025-11-05;C0005;Rio de Janeiro;Eletrônicos;Caixa de Som;1;256,28;concluído;256,28
+PED-00753;2025-11-05;C0410;São Paulo;Moda;Jaqueta Jeans;2;254,01;concluído;508,02
+PED-00754;2025-11-05;C0129;Curitiba;Eletrônicos;Caixa de Som;1;247,27;concluído;247,27
+PED-00755;2025-11-05;C0222;Belo Horizonte;Moda;Camiseta Básica;4;61,18;concluído;244,72
+PED-00756;2025-11-05;C0051;Florianópolis;Livros;Livro de Finanças;2;70,86;concluído;141,72
+PED-00757;2025-11-05;C0214;Belo Horizonte;Moda;Jaqueta Jeans;2;240,88;concluído;481,76
+PED-00758;2025-11-06;C0071;Rio de Janeiro;Livros;Box de Fantasia;1;157,92;cancelado;157,92
+PED-00759;2025-11-06;C0014;Brasília;Casa;Cafeteira;1;239,57;concluído;239,57
+PED-00760;2025-11-06;C0450;São Paulo;Livros;Livro de Finanças;1;69,01;concluído;69,01
+PED-00761;2025-11-06;C0029;São Paulo;Moda;Mochila;2;155,52;concluído;311,04
+PED-00762;2025-11-06;C0300;Porto Alegre;Eletrônicos;Carregador Turbo;1;81,42;cancelado;81,42
+PED-00763;2025-11-07;C0322;São Paulo;Moda;Mochila;1;155,82;concluído;155,82
+PED-00764;2025-11-07;C0127;São Paulo;Moda;Tênis Esportivo;1;318,45;cancelado;318,45
+PED-00765;2025-11-07;C0435;Belo Horizonte;Casa;Air Fryer;1;398,35;concluído;398,35
+PED-00766;2025-11-07;C0088;Rio de Janeiro;Eletrônicos;Smartwatch;2;444,53;concluído;889,06
+PED-00767;2025-11-08;C0358;Salvador;Casa;Air Fryer;4;398,72;concluído;1594,88
+PED-00768;2025-11-08;C0334;Florianópolis;Eletrônicos;Caixa de Som;1;246,25;concluído;246,25
+PED-00769;2025-11-08;C0258;São Paulo;Casa;Cafeteira;1;240,03;concluído;240,03
+PED-00770;2025-11-08;C0403;Curitiba;Eletrônicos;Smartwatch;1;469,06;concluído;469,06
+PED-00771;2025-11-08;C0260;Recife;Eletrônicos;Caixa de Som;1;248,3;concluído;248,3
+PED-00772;2025-11-08;C0376;Curitiba;Moda;Jaqueta Jeans;1;258,14;concluído;258,14
+PED-00773;2025-11-08;C0090;Recife;Casa;Jogo de Panelas;4;298,85;concluído;1195,4
+PED-00774;2025-11-09;C0311;Belo Horizonte;Eletrônicos;Carregador Turbo;1;82,67;concluído;82,67
+PED-00775;2025-11-09;C0380;Curitiba;Casa;Jogo de Panelas;1;289,64;concluído;289,64
+PED-00776;2025-11-09;C0003;São Paulo;Eletrônicos;Fone Bluetooth;2;193,1;concluído;386,2
+PED-00777;2025-11-09;C0183;Belo Horizonte;Casa;Cafeteira;1;222,3;cancelado;222,3
+PED-00778;2025-11-09;C0052;Curitiba;Casa;Cafeteira;3;230,58;concluído;691,74
+PED-00779;2025-11-10;C0447;Curitiba;Eletrônicos;Carregador Turbo;3;77,91;concluído;233,73
+PED-00780;2025-11-11;C0242;Brasília;Esportes;Tapete de Yoga;1;85,91;concluído;85,91
+PED-00781;2025-11-11;C0419;Recife;Casa;Aspirador Robô;1;933,88;concluído;933,88
+PED-00782;2025-11-11;C0414;Curitiba;Eletrônicos;Fone Bluetooth;2;191,11;concluído;382,22
+PED-00783;2025-11-11;C0054;Curitiba;Moda;Tênis Esportivo;3;329,2;concluído;987,6
+PED-00784;2025-11-11;C0274;Belo Horizonte;Casa;Jogo de Panelas;1;277,01;concluído;277,01
+PED-00785;2025-11-11;C0282;Curitiba;Moda;Tênis Esportivo;1;325,85;concluído;325,85
+PED-00786;2025-11-12;C0117;Rio de Janeiro;Casa;Aspirador Robô;1;859,26;concluído;859,26
+PED-00787;2025-11-12;C0225;São Paulo;Moda;Tênis Esportivo;3;321,65;concluído;964,95
+PED-00788;2025-11-12;C0129;Brasília;Livros;Livro de Finanças;2;69,75;concluído;139,5
+PED-00789;2025-11-12;C0445;Porto Alegre;Livros;Livro de Finanças;1;68,52;concluído;68,52
+PED-00790;2025-11-12;C0041;São Paulo;Casa;Air Fryer;1;395,44;pendente;395,44
+PED-00791;2025-11-12;C0121;Porto Alegre;Casa;Jogo de Panelas;1;296,42;concluído;296,42
+PED-00792;2025-11-13;C0031;São Paulo;Eletrônicos;Fone Bluetooth;1;191,58;concluído;191,58
+PED-00793;2025-11-13;C0339;São Paulo;Casa;Air Fryer;1;394,19;concluído;394,19
+PED-00794;2025-11-13;C0388;Curitiba;Livros;Guia de Python;3;93,56;concluído;280,68
+PED-00795;2025-11-13;C0148;Florianópolis;Esportes;Bicicleta Ergométrica;2;1305,92;pendente;2611,84
+PED-00796;2025-11-13;C0068;Florianópolis;Moda;Jaqueta Jeans;1;246,93;concluído;246,93
+PED-00797;2025-11-14;C0141;São Paulo;Eletrônicos;Smartwatch;2;449,63;concluído;899,26
+PED-00798;2025-11-14;C0237;Curitiba;Eletrônicos;Carregador Turbo;1;78,47;concluído;78,47
+PED-00799;2025-11-14;C0283;São Paulo;Moda;Camiseta Básica;1;60,38;concluído;60,38
+PED-00800;2025-11-14;C0026;São Paulo;Eletrônicos;Caixa de Som;1;252,25;concluído;252,25
+PED-00801;2025-11-14;C0133;Fortaleza;Esportes;Tapete de Yoga;1;91,85;concluído;91,85
+PED-00802;2025-11-14;C0105;São Paulo;Moda;Jaqueta Jeans;1;250,07;concluído;250,07
+PED-00803;2025-11-14;C0172;Fortaleza;Eletrônicos;Caixa de Som;3;240,11;concluído;720,33
+PED-00804;2025-11-14;C0055;Belo Horizonte;Moda;Camiseta Básica;1;58,65;concluído;58,65
+PED-00805;2025-11-15;C0077;São Paulo;Esportes;Tapete de Yoga;3;88,81;concluído;266,43
+PED-00806;2025-11-15;C0276;Recife;Livros;Livro de Finanças;1;73,38;concluído;73,38
+PED-00807;2025-11-15;C0169;São Paulo;Moda;Mochila;1;145,33;concluído;145,33
+PED-00808;2025-11-15;C0041;São Paulo;Casa;Air Fryer;2;396,81;pendente;793,62
+PED-00809;2025-11-15;C0065;Brasília;Casa;Jogo de Panelas;1;287,55;concluído;287,55
+PED-00810;2025-11-16;C0259;Fortaleza;Moda;Jaqueta Jeans;2;245,94;concluído;491,88
+PED-00811;2025-11-16;C0241;Recife;Livros;Box de Fantasia;1;153,84;concluído;153,84
+PED-00812;2025-11-16;C0182;Curitiba;Moda;Tênis Esportivo;1;342,0;cancelado;342,0
+PED-00813;2025-11-16;C0379;Brasília;Eletrônicos;Carregador Turbo;1;80,83;pendente;80,83
+PED-00814;2025-11-16;C0393;Belo Horizonte;Casa;Cafeteira;1;228,48;concluído;228,48
+PED-00815;2025-11-17;C0370;Belo Horizonte;Livros;Guia de Python;2;89,48;concluído;178,96
+PED-00816;2025-11-18;C0219;São Paulo;Casa;Air Fryer;1;414,85;concluído;414,85
+PED-00817;2025-11-18;C0178;São Paulo;Eletrônicos;Smartwatch;1;448,82;cancelado;448,82
+PED-00818;2025-11-18;C0119;Porto Alegre;Eletrônicos;Smartwatch;1;478,17;pendente;478,17
+PED-00819;2025-11-19;C0100;Curitiba;Esportes;Bicicleta Ergométrica;1;1239,21;cancelado;1239,21
+PED-00820;2025-11-19;C0057;Porto Alegre;Livros;Box de Fantasia;2;160,23;cancelado;320,46
+PED-00821;2025-11-19;C0182;Salvador;Casa;Air Fryer;3;418,67;concluído;1256,01
+PED-00822;2025-11-20;C0362;Porto Alegre;Casa;Aspirador Robô;1;910,74;concluído;910,74
+PED-00823;2025-11-20;C0447;Brasília;Casa;Air Fryer;3;404,08;concluído;1212,24
+PED-00824;2025-11-20;C0265;Florianópolis;Casa;Jogo de Panelas;2;283,6;concluído;567,2
+PED-00825;2025-11-20;C0324;Belo Horizonte;Moda;Camiseta Básica;2;57,14;concluído;114,28
+PED-00826;2025-11-20;C0307;São Paulo;Esportes;Kit de Halteres;3;203,26;concluído;609,78
+PED-00827;2025-11-20;C0091;Rio de Janeiro;Livros;Guia de Python;1;89,43;concluído;89,43
+PED-00828;2025-11-21;C0015;São Paulo;Moda;Mochila;2;155,36;concluído;310,72
+PED-00829;2025-11-21;C0205;São Paulo;Eletrônicos;Carregador Turbo;1;78,44;concluído;78,44
+PED-00830;2025-11-21;C0106;Recife;Moda;Tênis Esportivo;1;326,92;concluído;326,92
+PED-00831;2025-11-22;C0171;Brasília;Casa;Air Fryer;4;379,89;concluído;1519,56
+PED-00832;2025-11-22;C0368;São Paulo;Casa;Aspirador Robô;1;942,62;cancelado;942,62
+PED-00833;2025-11-22;C0053;Rio de Janeiro;Casa;Jogo de Panelas;3;276,45;concluído;829,35
+PED-00834;2025-11-22;C0206;Curitiba;Eletrônicos;Smartwatch;1;470,47;concluído;470,47
+PED-00835;2025-11-22;C0049;Recife;Eletrônicos;Caixa de Som;1;255,04;concluído;255,04
+PED-00836;2025-11-22;C0052;São Paulo;Esportes;Tapete de Yoga;1;92,09;concluído;92,09
+PED-00837;2025-11-23;C0274;Rio de Janeiro;Casa;Jogo de Panelas;4;291,67;concluído;1166,68
+PED-00838;2025-11-23;C0229;São Paulo;Livros;Romance Best-seller;1;50,29;concluído;50,29
+PED-00839;2025-11-24;C0128;Curitiba;Eletrônicos;Fone Bluetooth;1;183,62;cancelado;183,62
+PED-00840;2025-11-24;C0165;Porto Alegre;Eletrônicos;Caixa de Som;1;244,31;concluído;244,31
+PED-00841;2025-11-25;C0363;Rio de Janeiro;Moda;Mochila;1;147,1;concluído;147,1
+PED-00842;2025-11-26;C0384;Curitiba;Livros;Box de Fantasia;2;157,91;concluído;315,82
+PED-00843;2025-11-26;C0448;Belo Horizonte;Eletrônicos;Caixa de Som;1;252,14;concluído;252,14
+PED-00844;2025-11-26;C0073;São Paulo;Livros;Guia de Python;1;90,93;concluído;90,93
+PED-00845;2025-11-26;C0437;Brasília;Casa;Aspirador Robô;1;872,98;concluído;872,98
+PED-00846;2025-11-26;C0360;São Paulo;Eletrônicos;Caixa de Som;1;248,27;pendente;248,27
+PED-00847;2025-11-27;C0177;Belo Horizonte;Eletrônicos;Caixa de Som;1;238,21;concluído;238,21
+PED-00848;2025-11-27;C0329;Porto Alegre;Moda;Jaqueta Jeans;1;256,57;pendente;256,57
+PED-00849;2025-11-27;C0197;São Paulo;Eletrônicos;Carregador Turbo;1;76,92;concluído;76,92
+PED-00850;2025-11-27;C0412;Belo Horizonte;Livros;Box de Fantasia;1;151,95;concluído;151,95
+PED-00851;2025-11-27;C0155;Rio de Janeiro;Casa;Air Fryer;1;411,26;concluído;411,26
+PED-00852;2025-11-28;C0310;Salvador;Esportes;Garrafa Térmica;1;72,27;concluído;72,27
+PED-00853;2025-11-28;C0286;Florianópolis;Moda;Mochila;1;149,75;concluído;149,75
+PED-00854;2025-11-28;C0098;São Paulo;Esportes;Tapete de Yoga;2;87,33;concluído;174,66
+PED-00855;2025-11-28;C0189;Brasília;Eletrônicos;Carregador Turbo;1;75,95;concluído;75,95
+PED-00856;2025-11-29;C0030;Fortaleza;Moda;Mochila;1;157,33;concluído;157,33
+PED-00857;2025-11-29;C0414;Curitiba;Livros;Box de Fantasia;1;159,48;cancelado;159,48
+PED-00858;2025-11-29;C0029;Rio de Janeiro;Moda;Camiseta Básica;3;57,69;concluído;173,07
+PED-00859;2025-11-29;C0163;Florianópolis;Eletrônicos;Smartwatch;2;469,9;concluído;939,8
+PED-00860;2025-11-29;C0390;Rio de Janeiro;Casa;Cafeteira;1;232,84;concluído;232,84
+PED-00861;2025-11-30;C0002;São Paulo;Eletrônicos;Smartwatch;2;454,83;concluído;909,66
+PED-00862;2025-11-30;C0374;Curitiba;Moda;Tênis Esportivo;1;328,68;concluído;328,68
+PED-00863;2025-11-30;C0127;São Paulo;Esportes;Bicicleta Ergométrica;1;1282,7;concluído;1282,7
+PED-00864;2025-11-30;C0290;São Paulo;Esportes;Kit de Halteres;1;197,49;concluído;197,49
+PED-00865;2025-12-01;C0187;São Paulo;Eletrônicos;Carregador Turbo;1;79,42;concluído;79,42
+PED-00866;2025-12-01;C0331;Salvador;Eletrônicos;Caixa de Som;1;250,71;pendente;250,71
+PED-00867;2025-12-01;C0017;Brasília;Livros;Guia de Python;1;92,36;concluído;92,36
+PED-00868;2025-12-01;C0360;Curitiba;Eletrônicos;Carregador Turbo;1;78,92;concluído;78,92
+PED-00869;2025-12-02;C0084;Rio de Janeiro;Casa;Aspirador Robô;1;935,23;concluído;935,23
+PED-00870;2025-12-02;C0308;São Paulo;Moda;Mochila;2;149,5;concluído;299,0
+PED-00871;2025-12-02;C0015;Curitiba;Esportes;Bicicleta Ergométrica;1;1334,6;pendente;1334,6
+PED-00872;2025-12-02;C0404;Brasília;Livros;Livro de Finanças;4;70,38;concluído;281,52
+PED-00873;2025-12-02;C0089;São Paulo;Esportes;Garrafa Térmica;1;69,62;concluído;69,62
+PED-00874;2025-12-02;C0082;São Paulo;Casa;Jogo de Panelas;1;291,5;concluído;291,5
+PED-00875;2025-12-03;C0066;São Paulo;Livros;Box de Fantasia;2;163,2;concluído;326,4
+PED-00876;2025-12-03;C0301;Curitiba;Livros;Box de Fantasia;1;160,45;concluído;160,45
+PED-00877;2025-12-03;C0040;Porto Alegre;Casa;Aspirador Robô;1;854,19;concluído;854,19
+PED-00878;2025-12-03;C0199;Porto Alegre;Casa;Air Fryer;1;405,15;concluído;405,15
+PED-00879;2025-12-03;C0352;Recife;Eletrônicos;Caixa de Som;2;257,32;concluído;514,64
+PED-00880;2025-12-03;C0344;Rio de Janeiro;Eletrônicos;Smartwatch;1;453,68;concluído;453,68
+PED-00881;2025-12-04;C0243;Porto Alegre;Esportes;Bicicleta Ergométrica;2;1338,28;concluído;2676,56
+PED-00882;2025-12-04;C0173;Brasília;Esportes;Garrafa Térmica;1;69,09;concluído;69,09
+PED-00883;2025-12-04;C0236;São Paulo;Esportes;Garrafa Térmica;1;69,65;concluído;69,65
+PED-00884;2025-12-04;C0214;Curitiba;Casa;Aspirador Robô;2;856,17;concluído;1712,34
+PED-00885;2025-12-04;C0065;Recife;Eletrônicos;Fone Bluetooth;1;187,93;concluído;187,93
+PED-00886;2025-12-04;C0376;Salvador;Casa;Cafeteira;2;223,14;cancelado;446,28
+PED-00887;2025-12-05;C0384;São Paulo;Eletrônicos;Fone Bluetooth;1;199,02;concluído;199,02
+PED-00888;2025-12-05;C0134;Fortaleza;Moda;Tênis Esportivo;2;327,7;concluído;655,4
+PED-00889;2025-12-05;C0383;Porto Alegre;Moda;Tênis Esportivo;1;329,01;concluído;329,01
+PED-00890;2025-12-05;C0213;Porto Alegre;Moda;Camiseta Básica;2;58,54;concluído;117,08
+PED-00891;2025-12-05;C0365;Belo Horizonte;Eletrônicos;Smartwatch;1;450,95;concluído;450,95
+PED-00892;2025-12-05;C0422;Rio de Janeiro;Casa;Cafeteira;1;230,32;concluído;230,32
+PED-00893;2025-12-06;C0041;Belo Horizonte;Moda;Camiseta Básica;2;58,44;concluído;116,88
+PED-00894;2025-12-06;C0080;Belo Horizonte;Esportes;Tapete de Yoga;1;92,16;concluído;92,16
+PED-00895;2025-12-06;C0193;Brasília;Casa;Air Fryer;2;390,38;concluído;780,76
+PED-00896;2025-12-06;C0393;Recife;Eletrônicos;Smartwatch;1;441,13;concluído;441,13
+PED-00897;2025-12-06;C0055;Porto Alegre;Casa;Jogo de Panelas;1;292,78;concluído;292,78
+PED-00898;2025-12-06;C0231;Curitiba;Casa;Cafeteira;1;226,8;concluído;226,8
+PED-00899;2025-12-06;C0298;Porto Alegre;Moda;Jaqueta Jeans;2;253,8;concluído;507,6
+PED-00900;2025-12-07;C0210;Brasília;Moda;Camiseta Básica;2;59,92;concluído;119,84
+PED-00901;2025-12-07;C0200;Belo Horizonte;Moda;Tênis Esportivo;4;314,15;concluído;1256,6
+PED-00902;2025-12-08;C0151;Curitiba;Casa;Jogo de Panelas;1;302,57;pendente;302,57
+PED-00903;2025-12-08;C0310;Salvador;Moda;Camiseta Básica;2;62,73;concluído;125,46
+PED-00904;2025-12-08;C0241;Florianópolis;Casa;Air Fryer;1;380,34;concluído;380,34
+PED-00905;2025-12-08;C0425;Salvador;Eletrônicos;Fone Bluetooth;1;196,12;concluído;196,12
+PED-00906;2025-12-08;C0423;Belo Horizonte;Moda;Mochila;1;144,26;concluído;144,26
+PED-00907;2025-12-08;C0169;Porto Alegre;Casa;Aspirador Robô;1;875,9;concluído;875,9
+PED-00908;2025-12-08;C0019;Recife;Casa;Cafeteira;1;227,86;concluído;227,86
+PED-00909;2025-12-09;C0157;Rio de Janeiro;Livros;Guia de Python;2;88,16;concluído;176,32
+PED-00910;2025-12-09;C0299;São Paulo;Eletrônicos;Carregador Turbo;3;77,96;concluído;233,88
+PED-00911;2025-12-10;C0301;Florianópolis;Esportes;Garrafa Térmica;1;72,7;pendente;72,7
+PED-00912;2025-12-11;C0176;São Paulo;Moda;Mochila;1;155,85;concluído;155,85
+PED-00913;2025-12-11;C0007;Salvador;Esportes;Bicicleta Ergométrica;2;1280,36;concluído;2560,72
+PED-00915;2025-12-11;C0094;Porto Alegre;Esportes;Bicicleta Ergométrica;1;1301,98;concluído;1301,98
+PED-00916;2025-12-11;C0033;Florianópolis;Eletrônicos;Carregador Turbo;1;76,63;concluído;76,63
+PED-00917;2025-12-12;C0325;Curitiba;Eletrônicos;Caixa de Som;1;249,92;concluído;249,92
+PED-00918;2025-12-12;C0058;Porto Alegre;Eletrônicos;Smartwatch;1;449,82;concluído;449,82
+PED-00919;2025-12-12;C0324;Curitiba;Esportes;Garrafa Térmica;4;68,16;concluído;272,64
+PED-00920;2025-12-12;C0058;Fortaleza;Eletrônicos;Smartwatch;1;467,16;concluído;467,16
+PED-00921;2025-12-12;C0049;Brasília;Livros;Box de Fantasia;1;154,76;concluído;154,76
+PED-00922;2025-12-13;C0164;Recife;Esportes;Kit de Halteres;2;205,15;concluído;410,3
+PED-00923;2025-12-13;C0081;Belo Horizonte;Eletrônicos;Smartwatch;1;444,86;concluído;444,86
+PED-00924;2025-12-13;C0439;Salvador;Moda;Mochila;2;146,44;pendente;292,88
+PED-00925;2025-12-13;C0391;Brasília;Casa;Aspirador Robô;1;892,28;concluído;892,28
+PED-00926;2025-12-13;C0151;Salvador;Livros;Guia de Python;1;91,74;concluído;91,74
+PED-00927;2025-12-14;C0039;São Paulo;Moda;Camiseta Básica;2;60,6;concluído;121,2
+PED-00928;2025-12-14;C0128;São Paulo;Casa;Air Fryer;2;394,61;pendente;789,22
+PED-00929;2025-12-14;C0069;Florianópolis;Eletrônicos;Carregador Turbo;1;78,86;pendente;78,86
+PED-00930;2025-12-14;C0339;São Paulo;Moda;Camiseta Básica;1;59,53;concluído;59,53
+PED-00931;2025-12-14;C0185;Florianópolis;Eletrônicos;Fone Bluetooth;3;193,68;concluído;581,04
+PED-00932;2025-12-14;C0131;Belo Horizonte;Casa;Jogo de Panelas;1;285,06;concluído;285,06
+PED-00933;2025-12-14;C0192;Curitiba;Casa;Cafeteira;2;236,6;concluído;473,2
+PED-00934;2025-12-15;C0400;Curitiba;Casa;Aspirador Robô;2;920,08;concluído;1840,16
+PED-00935;2025-12-15;C0221;Salvador;Moda;Mochila;2;157,29;concluído;314,58
+PED-00936;2025-12-16;C0379;Salvador;Moda;Tênis Esportivo;1;332,38;concluído;332,38
+PED-00937;2025-12-16;C0115;Belo Horizonte;Moda;Mochila;1;145,78;concluído;145,78
+PED-00938;2025-12-16;C0076;São Paulo;Esportes;Tapete de Yoga;3;91,83;concluído;275,49
+PED-00939;2025-12-16;C0156;Curitiba;Moda;Tênis Esportivo;1;323,81;concluído;323,81
+PED-00940;2025-12-16;C0193;Curitiba;Esportes;Bicicleta Ergométrica;1;1350,81;concluído;1350,81
+PED-00941;2025-12-17;C0064;Curitiba;Casa;Cafeteira;1;222,1;concluído;222,1
+PED-00942;2025-12-17;C0163;Rio de Janeiro;Eletrônicos;Smartwatch;1;458,5;concluído;458,5
+PED-00943;2025-12-17;C0216;Rio de Janeiro;Casa;Aspirador Robô;1;939,0;concluído;939,0
+PED-00944;2025-12-17;C0334;Porto Alegre;Esportes;Garrafa Térmica;3;70,96;concluído;212,88
+PED-00945;2025-12-17;C0266;Curitiba;Moda;Jaqueta Jeans;1;258,58;concluído;258,58
+PED-00946;2025-12-17;C0081;Rio de Janeiro;Moda;Camiseta Básica;3;60,86;concluído;182,58
+PED-00947;2025-12-17;C0105;São Paulo;Esportes;Kit de Halteres;1;208,39;concluído;208,39
+PED-00948;2025-12-18;C0447;Curitiba;Moda;Tênis Esportivo;2;324,34;cancelado;648,68
+PED-00949;2025-12-18;C0244;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;184,63;concluído;184,63
+PED-00950;2025-12-18;C0337;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;189,32;cancelado;189,32
+PED-00951;2025-12-18;C0338;Curitiba;Casa;Jogo de Panelas;1;290,33;concluído;290,33
+PED-00952;2025-12-18;C0237;Porto Alegre;Eletrônicos;Smartwatch;1;469,56;concluído;469,56
+PED-00953;2025-12-19;C0436;Curitiba;Esportes;Kit de Halteres;1;197,4;concluído;197,4
+PED-00954;2025-12-19;C0204;São Paulo;Esportes;Kit de Halteres;1;202,59;cancelado;202,59
+PED-00955;2025-12-19;C0061;Recife;Eletrônicos;Caixa de Som;1;241,9;concluído;241,9
+PED-00956;2025-12-19;C0340;Curitiba;Casa;Jogo de Panelas;1;298,8;concluído;298,8
+PED-00957;2025-12-19;C0235;Salvador;Eletrônicos;Carregador Turbo;1;76,11;concluído;76,11
+PED-00958;2025-12-19;C0259;São Paulo;Esportes;Tapete de Yoga;1;90,38;pendente;90,38
+PED-00959;2025-12-20;C0400;Curitiba;Eletrônicos;Smartwatch;2;445,17;concluído;890,34
+PED-00960;2025-12-20;C0349;Curitiba;Casa;Jogo de Panelas;2;304,31;concluído;608,62
+PED-00961;2025-12-20;C0152;São Paulo;Moda;Mochila;3;146,58;pendente;439,74
+PED-00962;2025-12-20;C0343;São Paulo;Casa;Jogo de Panelas;2;284,1;concluído;568,2
+PED-00963;2025-12-20;C0125;São Paulo;Eletrônicos;Caixa de Som;1;248,53;concluído;248,53
+PED-00964;2025-12-20;C0064;Recife;Eletrônicos;Carregador Turbo;1;83,6;concluído;83,6
+PED-00965;2025-12-20;C0053;Recife;Casa;Aspirador Robô;2;855,02;concluído;1710,04
+PED-00966;2025-12-21;C0387;Brasília;Casa;Air Fryer;1;403,39;concluído;403,39
+PED-00967;2025-12-21;C0355;Florianópolis;Casa;Aspirador Robô;1;895,99;concluído;895,99
+PED-00968;2025-12-21;C0222;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;82,7;concluído;82,7
+PED-00969;2025-12-21;C0129;Fortaleza;Esportes;Tapete de Yoga;3;91,16;concluído;273,48
+PED-00970;2025-12-21;C0424;Porto Alegre;Eletrônicos;Caixa de Som;1;247,35;concluído;247,35
+PED-00971;2025-12-22;C0051;Belo Horizonte;Moda;Mochila;1;144,02;cancelado;144,02
+PED-00972;2025-12-22;C0226;Florianópolis;Moda;Mochila;2;153,17;concluído;306,34
+PED-00973;2025-12-22;C0169;Curitiba;Esportes;Garrafa Térmica;2;66,58;concluído;133,16
+PED-00974;2025-12-22;C0142;Rio de Janeiro;Esportes;Tapete de Yoga;1;91,55;concluído;91,55
+PED-00975;2025-12-22;C0206;Recife;Esportes;Kit de Halteres;1;205,31;concluído;205,31
+PED-00976;2025-12-22;C0163;Salvador;Esportes;Tapete de Yoga;1;90,24;concluído;90,24
+PED-00977;2025-12-22;C0249;São Paulo;Casa;Cafeteira;2;234,88;concluído;469,76
+PED-00978;2025-12-22;C0329;Belo Horizonte;Livros;Guia de Python;1;87,11;concluído;87,11
+PED-00979;2025-12-22;C0208;Florianópolis;Moda;Tênis Esportivo;1;316,39;concluído;316,39
+PED-00980;2025-12-22;C0151;Belo Horizonte;Casa;Cafeteira;1;239,44;concluído;239,44
+PED-00981;2025-12-23;C0115;Salvador;Casa;Air Fryer;1;385,23;pendente;385,23
+PED-00982;2025-12-23;C0248;Salvador;Casa;Jogo de Panelas;1;284,01;pendente;284,01
+PED-00983;2025-12-23;C0199;Recife;Eletrônicos;Smartwatch;2;462,71;concluído;925,42
+PED-00984;2025-12-23;C0355;Curitiba;Casa;Aspirador Robô;3;938,28;concluído;2814,84
+PED-00985;2025-12-23;C0275;São Paulo;Esportes;Kit de Halteres;1;208,25;pendente;208,25
+PED-00986;2025-12-23;C0255;Belo Horizonte;Casa;Jogo de Panelas;1;292,05;concluído;292,05
+PED-00987;2025-12-23;C0369;São Paulo;Moda;Jaqueta Jeans;1;255,06;concluído;255,06
+PED-00988;2025-12-23;C0339;Rio de Janeiro;Moda;Mochila;1;153,86;concluído;153,86
+PED-00989;2025-12-24;C0004;Fortaleza;Eletrônicos;Caixa de Som;1;249,99;concluído;249,99
+PED-00990;2025-12-24;C0389;Fortaleza;Moda;Mochila;2;153,39;concluído;306,78
+PED-00991;2025-12-24;C0209;São Paulo;Casa;Air Fryer;3;401,95;pendente;1205,85
+PED-00992;2025-12-25;C0134;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;79,34;concluído;79,34
+PED-00993;2025-12-26;C0031;Porto Alegre;Casa;Air Fryer;1;379,86;concluído;379,86
+PED-00994;2025-12-26;C0089;São Paulo;Casa;Aspirador Robô;1;935,42;concluído;935,42
+PED-00995;2025-12-26;C0226;Porto Alegre;Livros;Romance Best-seller;3;51,96;concluído;155,88
+PED-00996;2025-12-26;C0062;Salvador;Esportes;Garrafa Térmica;1;66,68;concluído;66,68
+PED-00997;2025-12-26;C0173;Brasília;Moda;Camiseta Básica;3;59,89;concluído;179,67
+PED-00998;2025-12-27;C0419;Rio de Janeiro;Esportes;Bicicleta Ergométrica;2;1242,55;concluído;2485,1
+PED-00999;2025-12-27;C0289;Belo Horizonte;Esportes;Bicicleta Ergométrica;2;1245,86;concluído;2491,72
+PED-01000;2025-12-27;C0219;Rio de Janeiro;Moda;Jaqueta Jeans;1;248,6;concluído;248,6
+PED-01001;2025-12-27;C0395;Porto Alegre;Eletrônicos;Caixa de Som;2;244,17;pendente;488,34
+PED-01002;2025-12-27;C0156;São Paulo;Casa;Jogo de Panelas;2;296,84;concluído;593,68
+PED-01003;2025-12-27;C0235;Brasília;Moda;Camiseta Básica;1;60,98;concluído;60,98
+PED-01004;2025-12-28;C0106;Florianópolis;Moda;Mochila;1;152,0;concluído;152,0
+PED-01005;2025-12-28;C0429;Rio de Janeiro;Moda;Jaqueta Jeans;4;262,07;cancelado;1048,28
+PED-01006;2025-12-28;C0450;Porto Alegre;Livros;Box de Fantasia;2;163,26;cancelado;326,52
+PED-01007;2025-12-28;C0130;Belo Horizonte;Casa;Cafeteira;1;236,85;concluído;236,85
+PED-01008;2025-12-28;C0035;São Paulo;Eletrônicos;Smartwatch;1;441,3;concluído;441,3
+PED-01009;2025-12-29;C0390;Curitiba;Livros;Box de Fantasia;1;156,49;cancelado;156,49
+PED-01010;2025-12-29;C0058;São Paulo;Moda;Mochila;1;150,17;concluído;150,17
+PED-01011;2025-12-30;C0258;Recife;Eletrônicos;Carregador Turbo;1;77,05;concluído;77,05
+PED-01012;2025-12-30;C0180;Rio de Janeiro;Eletrônicos;Fone Bluetooth;3;186,89;pendente;560,67
+PED-01013;2025-12-30;C0013;Florianópolis;Livros;Romance Best-seller;1;50,53;concluído;50,53
+PED-01014;2025-12-31;C0266;Rio de Janeiro;Moda;Camiseta Básica;1;58,81;concluído;58,81
+PED-01015;2025-12-31;C0030;Salvador;Casa;Jogo de Panelas;3;295,24;concluído;885,72
+PED-01016;2025-12-31;C0293;Porto Alegre;Esportes;Bicicleta Ergométrica;1;1243,65;concluído;1243,65
+PED-01017;2025-12-31;C0233;Rio de Janeiro;Livros;Livro de Finanças;2;70,69;concluído;141,38
+PED-01018;2025-12-31;C0083;São Paulo;Eletrônicos;Carregador Turbo;2;77,3;pendente;154,6
+PED-01019;2025-12-31;C0208;Rio de Janeiro;Casa;Jogo de Panelas;4;279,03;concluído;1116,12
+PED-01020;2025-12-31;C0106;São Paulo;Livros;Box de Fantasia;1;157,12;concluído;157,12
+PED-01021;2026-01-01;C0110;São Paulo;Casa;Cafeteira;1;235,05;concluído;235,05
+PED-01022;2026-01-01;C0197;Brasília;Casa;Cafeteira;1;222,52;concluído;222,52
+PED-01023;2026-01-02;C0394;Curitiba;Moda;Mochila;1;144,99;pendente;144,99
+PED-01024;2026-01-02;C0162;Belo Horizonte;Eletrônicos;Carregador Turbo;1;82,84;concluído;82,84
+PED-01025;2026-01-02;C0437;Curitiba;Moda;Tênis Esportivo;1;313,69;cancelado;313,69
+PED-01026;2026-01-02;C0425;Rio de Janeiro;Livros;Guia de Python;2;88,67;cancelado;177,34
+PED-01027;2026-01-03;C0317;Rio de Janeiro;Eletrônicos;Smartwatch;3;443,03;concluído;1329,09
+PED-01028;2026-01-03;C0387;Curitiba;Moda;Camiseta Básica;4;60,88;concluído;243,52
+PED-01029;2026-01-03;C0293;São Paulo;Eletrônicos;Fone Bluetooth;1;199,16;concluído;199,16
+PED-01030;2026-01-04;C0154;Porto Alegre;Casa;Aspirador Robô;4;933,75;concluído;3735,0
+PED-01031;2026-01-05;C0410;Rio de Janeiro;Livros;Guia de Python;1;92,53;concluído;92,53
+PED-01032;2026-01-05;C0251;São Paulo;Casa;Aspirador Robô;1;879,24;concluído;879,24
+PED-01033;2026-01-06;C0338;Curitiba;Eletrônicos;Caixa de Som;1;243,34;pendente;243,34
+PED-01034;2026-01-06;C0356;Porto Alegre;Eletrônicos;Fone Bluetooth;1;184,2;concluído;184,2
+PED-01035;2026-01-06;C0283;São Paulo;Esportes;Garrafa Térmica;1;68,8;pendente;68,8
+PED-01036;2026-01-06;C0012;Salvador;Livros;Romance Best-seller;2;51,96;cancelado;103,92
+PED-01037;2026-01-06;C0005;Recife;Eletrônicos;Fone Bluetooth;1;195,62;concluído;195,62
+PED-01038;2026-01-06;C0029;Porto Alegre;Eletrônicos;Caixa de Som;2;244,79;concluído;489,58
+PED-01039;2026-01-06;C0041;São Paulo;Eletrônicos;Fone Bluetooth;1;195,44;concluído;195,44
+PED-01040;2026-01-07;C0443;Florianópolis;Moda;Mochila;2;145,19;concluído;290,38
+PED-01041;2026-01-08;C0064;Porto Alegre;Eletrônicos;Smartwatch;1;476,36;concluído;476,36
+PED-01042;2026-01-08;C0423;São Paulo;Eletrônicos;Carregador Turbo;2;79,95;concluído;159,9
+PED-01043;2026-01-08;C0387;Salvador;Esportes;Bicicleta Ergométrica;1;1298,21;cancelado;1298,21
+PED-01044;2026-01-08;C0373;Salvador;Moda;Jaqueta Jeans;2;252,54;pendente;505,08
+PED-01045;2026-01-09;C0301;Curitiba;Casa;Aspirador Robô;2;882,23;pendente;1764,46
+PED-01046;2026-01-09;C0385;São Paulo;Casa;Cafeteira;1;238,14;concluído;238,14
+PED-01047;2026-01-09;C0089;Curitiba;Casa;Jogo de Panelas;1;275,81;concluído;275,81
+PED-01048;2026-01-10;C0425;Brasília;Casa;Jogo de Panelas;1;281,14;concluído;281,14
+PED-01049;2026-01-12;C0031;São Paulo;Moda;Mochila;1;156,61;concluído;156,61
+PED-01050;2026-01-13;C0007;Brasília;Moda;Camiseta Básica;1;62,56;concluído;62,56
+PED-01051;2026-01-13;C0192;Salvador;Moda;Mochila;2;151,39;concluído;302,78
+PED-01052;2026-01-13;C0447;Florianópolis;Eletrônicos;Caixa de Som;1;242,68;pendente;242,68
+PED-01053;2026-01-13;C0165;Salvador;Esportes;Tapete de Yoga;1;88,38;concluído;88,38
+PED-01054;2026-01-14;C0049;São Paulo;Moda;Camiseta Básica;1;59,72;concluído;59,72
+PED-01055;2026-01-15;C0365;Curitiba;Casa;Aspirador Robô;1;889,07;concluído;889,07
+PED-01056;2026-01-15;C0164;Rio de Janeiro;Moda;Jaqueta Jeans;1;252,92;concluído;252,92
+PED-01057;2026-01-16;C0377;Florianópolis;Esportes;Kit de Halteres;4;201,85;concluído;807,4
+PED-01058;2026-01-17;C0152;Curitiba;Esportes;Garrafa Térmica;2;72,37;concluído;144,74
+PED-01059;2026-01-17;C0161;Curitiba;Casa;Jogo de Panelas;1;286,48;concluído;286,48
+PED-01060;2026-01-18;C0168;Belo Horizonte;Casa;Jogo de Panelas;1;284,76;concluído;284,76
+PED-01061;2026-01-18;C0018;Porto Alegre;Moda;Mochila;2;148,33;concluído;296,66
+PED-01062;2026-01-18;C0072;Curitiba;Livros;Romance Best-seller;2;50,97;concluído;101,94
+PED-01063;2026-01-19;C0253;Rio de Janeiro;Eletrônicos;Carregador Turbo;4;78,61;concluído;314,44
+PED-01064;2026-01-19;C0134;São Paulo;Moda;Tênis Esportivo;2;328,2;concluído;656,4
+PED-01065;2026-01-20;C0164;São Paulo;Eletrônicos;Smartwatch;2;479,65;pendente;959,3
+PED-01066;2026-01-20;C0021;São Paulo;Casa;Aspirador Robô;1;914,25;concluído;914,25
+PED-01067;2026-01-20;C0109;Curitiba;Casa;Air Fryer;1;393,74;cancelado;393,74
+PED-01068;2026-01-20;C0134;São Paulo;Casa;Jogo de Panelas;2;297,27;concluído;594,54
+PED-01069;2026-01-21;C0448;São Paulo;Moda;Mochila;1;144,09;concluído;144,09
+PED-01070;2026-01-21;C0321;São Paulo;Esportes;Kit de Halteres;3;206,25;concluído;618,75
+PED-01071;2026-01-21;C0369;São Paulo;Casa;Aspirador Robô;1;928,63;cancelado;928,63
+PED-01072;2026-01-21;C0128;Curitiba;Livros;Box de Fantasia;1;156,47;pendente;156,47
+PED-01073;2026-01-21;C0291;Fortaleza;Eletrônicos;Fone Bluetooth;3;198,07;concluído;594,21
+PED-01074;2026-01-21;C0062;São Paulo;Livros;Guia de Python;1;89,16;concluído;89,16
+PED-01075;2026-01-21;C0372;São Paulo;Eletrônicos;Fone Bluetooth;3;198,1;concluído;594,3
+PED-01076;2026-01-21;C0034;São Paulo;Eletrônicos;Fone Bluetooth;2;189,51;concluído;379,02
+PED-01077;2026-01-22;C0144;Porto Alegre;Casa;Air Fryer;1;380,81;concluído;380,81
+PED-01078;2026-01-22;C0333;Curitiba;Eletrônicos;Carregador Turbo;4;77,41;concluído;309,64
+PED-01079;2026-01-22;C0046;Belo Horizonte;Livros;Box de Fantasia;2;163,35;concluído;326,7
+PED-01080;2026-01-22;C0209;Curitiba;Casa;Aspirador Robô;2;902,66;concluído;1805,32
+PED-01081;2026-01-23;C0185;Fortaleza;Esportes;Kit de Halteres;2;204,93;concluído;409,86
+PED-01082;2026-01-23;C0022;São Paulo;Casa;Aspirador Robô;2;894,57;concluído;1789,14
+PED-01083;2026-01-23;C0423;Porto Alegre;Moda;Camiseta Básica;3;60,34;pendente;181,02
+PED-01084;2026-01-24;C0085;Recife;Livros;Romance Best-seller;1;50,28;concluído;50,28
+PED-01085;2026-01-24;C0296;São Paulo;Eletrônicos;Carregador Turbo;1;79,06;concluído;79,06
+PED-01086;2026-01-25;C0407;Fortaleza;Eletrônicos;Caixa de Som;1;253,83;concluído;253,83
+PED-01087;2026-01-25;C0050;Brasília;Moda;Jaqueta Jeans;1;247,55;cancelado;247,55
+PED-01088;2026-01-25;C0339;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;189,0;concluído;189,0
+PED-01089;2026-01-26;C0022;Porto Alegre;Casa;Aspirador Robô;1;907,06;concluído;907,06
+PED-01090;2026-01-26;C0353;Belo Horizonte;Eletrônicos;Caixa de Som;3;246,11;concluído;738,33
+PED-01091;2026-01-27;C0279;Curitiba;Livros;Box de Fantasia;1;159,7;cancelado;159,7
+PED-01092;2026-01-27;C0398;Porto Alegre;Casa;Aspirador Robô;1;942,51;concluído;942,51
+PED-01093;2026-01-27;C0036;Rio de Janeiro;Eletrônicos;Smartwatch;1;467,04;concluído;467,04
+PED-01094;2026-01-28;C0232;São Paulo;Esportes;Bicicleta Ergométrica;1;1249,34;concluído;1249,34
+PED-01095;2026-01-28;C0199;Recife;Casa;Jogo de Panelas;4;277,63;concluído;1110,52
+PED-01096;2026-01-29;C0366;Rio de Janeiro;Eletrônicos;Smartwatch;1;475,78;concluído;475,78
+PED-01097;2026-01-29;C0188;Salvador;Eletrônicos;Smartwatch;2;479,5;concluído;959,0
+PED-01098;2026-01-29;C0035;Curitiba;Moda;Tênis Esportivo;1;314,51;concluído;314,51
+PED-01099;2026-01-29;C0293;São Paulo;Casa;Jogo de Panelas;3;300,79;concluído;902,37
+PED-01100;2026-01-30;C0060;Belo Horizonte;Casa;Aspirador Robô;1;941,33;concluído;941,33
+PED-01101;2026-01-30;C0341;São Paulo;Esportes;Garrafa Térmica;1;66,82;concluído;66,82
+PED-01102;2026-01-30;C0246;São Paulo;Casa;Jogo de Panelas;3;298,63;concluído;895,89
+PED-01103;2026-01-31;C0035;Rio de Janeiro;Esportes;Bicicleta Ergométrica;1;1250,54;concluído;1250,54
+PED-01104;2026-02-02;C0031;Recife;Eletrônicos;Caixa de Som;2;245,56;concluído;491,12
+PED-01105;2026-02-02;C0066;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;80,75;cancelado;80,75
+PED-01106;2026-02-03;C0308;Curitiba;Moda;Camiseta Básica;1;60,03;concluído;60,03
+PED-01107;2026-02-04;C0175;São Paulo;Esportes;Bicicleta Ergométrica;1;1285,14;concluído;1285,14
+PED-01108;2026-02-04;C0356;Belo Horizonte;Esportes;Garrafa Térmica;1;69,1;cancelado;69,1
+PED-01109;2026-02-04;C0033;São Paulo;Casa;Air Fryer;2;417,96;concluído;835,92
+PED-01110;2026-02-04;C0179;Fortaleza;Moda;Camiseta Básica;1;62,33;cancelado;62,33
+PED-01111;2026-02-04;C0411;Recife;Eletrônicos;Caixa de Som;2;241,24;concluído;482,48
+PED-01112;2026-02-05;C0371;Florianópolis;Moda;Jaqueta Jeans;1;248,97;concluído;248,97
+PED-01113;2026-02-05;C0236;Rio de Janeiro;Eletrônicos;Caixa de Som;1;246,3;concluído;246,3
+PED-01114;2026-02-05;C0131;Brasília;Eletrônicos;Caixa de Som;2;261,05;concluído;522,1
+PED-01115;2026-02-06;C0305;Curitiba;Esportes;Garrafa Térmica;1;66,76;concluído;66,76
+PED-01116;2026-02-06;C0056;Belo Horizonte;Eletrônicos;Carregador Turbo;2;83,85;concluído;167,7
+PED-01117;2026-02-07;C0221;São Paulo;Eletrônicos;Fone Bluetooth;1;186,82;concluído;186,82
+PED-01118;2026-02-07;C0113;Curitiba;Livros;Guia de Python;2;86,77;concluído;173,54
+PED-01119;2026-02-08;C0249;Curitiba;Moda;Camiseta Básica;1;61,34;pendente;61,34
+PED-01120;2026-02-09;C0344;São Paulo;Casa;Jogo de Panelas;3;302,01;concluído;906,03
+PED-01121;2026-02-09;C0379;Florianópolis;Casa;Jogo de Panelas;1;277,78;concluído;277,78
+PED-01122;2026-02-09;C0176;São Paulo;Moda;Jaqueta Jeans;1;254,23;concluído;254,23
+PED-01123;2026-02-09;C0087;Salvador;Moda;Jaqueta Jeans;1;239,34;cancelado;239,34
+PED-01124;2026-02-10;C0352;Brasília;Eletrônicos;Carregador Turbo;3;78,94;cancelado;236,82
+PED-01125;2026-02-10;C0371;Rio de Janeiro;Moda;Tênis Esportivo;1;324,79;concluído;324,79
+PED-01126;2026-02-10;C0300;Porto Alegre;Eletrônicos;Carregador Turbo;3;77,98;concluído;233,94
+PED-01127;2026-02-11;C0316;Porto Alegre;Livros;Guia de Python;1;87,46;concluído;87,46
+PED-01128;2026-02-11;C0210;São Paulo;Casa;Aspirador Robô;1;893,24;cancelado;893,24
+PED-01129;2026-02-11;C0009;Salvador;Moda;Camiseta Básica;1;59,72;concluído;59,72
+PED-01130;2026-02-11;C0390;São Paulo;Esportes;Tapete de Yoga;2;87,01;concluído;174,02
+PED-01131;2026-02-12;C0257;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;183,67;concluído;183,67
+PED-01132;2026-02-12;C0237;São Paulo;Eletrônicos;Smartwatch;1;464,0;concluído;464,0
+PED-01133;2026-02-12;C0410;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;187,57;concluído;187,57
+PED-01134;2026-02-12;C0368;Salvador;Livros;Box de Fantasia;4;166,99;concluído;667,96
+PED-01135;2026-02-12;C0432;São Paulo;Eletrônicos;Caixa de Som;1;237,46;concluído;237,46
+PED-01136;2026-02-13;C0327;Recife;Casa;Air Fryer;1;386,98;concluído;386,98
+PED-01137;2026-02-13;C0130;Rio de Janeiro;Moda;Jaqueta Jeans;1;240,96;cancelado;240,96
+PED-01138;2026-02-13;C0052;São Paulo;Casa;Cafeteira;4;223,17;concluído;892,68
+PED-01139;2026-02-14;C0445;Salvador;Eletrônicos;Carregador Turbo;1;80,0;concluído;80,0
+PED-01140;2026-02-14;C0112;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;193,91;concluído;193,91
+PED-01141;2026-02-14;C0300;Curitiba;Esportes;Garrafa Térmica;1;68,69;concluído;68,69
+PED-01142;2026-02-15;C0366;Rio de Janeiro;Eletrônicos;Fone Bluetooth;4;183,32;cancelado;733,28
+PED-01143;2026-02-15;C0156;Curitiba;Esportes;Kit de Halteres;1;197,58;concluído;197,58
+PED-01144;2026-02-15;C0034;Curitiba;Casa;Jogo de Panelas;1;291,88;pendente;291,88
+PED-01145;2026-02-15;C0176;Belo Horizonte;Casa;Jogo de Panelas;3;289,71;concluído;869,13
+PED-01146;2026-02-16;C0367;Belo Horizonte;Moda;Jaqueta Jeans;2;245,57;concluído;491,14
+PED-01147;2026-02-16;C0371;Fortaleza;Eletrônicos;Fone Bluetooth;1;185,57;pendente;185,57
+PED-01148;2026-02-16;C0238;Florianópolis;Eletrônicos;Smartwatch;1;474,81;concluído;474,81
+PED-01149;2026-02-17;C0247;Brasília;Casa;Cafeteira;1;225,13;concluído;225,13
+PED-01150;2026-02-17;C0061;São Paulo;Casa;Cafeteira;1;228,39;concluído;228,39
+PED-01151;2026-02-19;C0173;Curitiba;Moda;Mochila;1;145,93;concluído;145,93
+PED-01152;2026-02-19;C0048;Brasília;Eletrônicos;Fone Bluetooth;2;180,57;concluído;361,14
+PED-01153;2026-02-19;C0348;Porto Alegre;Livros;Romance Best-seller;1;47,57;concluído;47,57
+PED-01154;2026-02-20;C0021;Belo Horizonte;Eletrônicos;Smartwatch;3;451,2;concluído;1353,6
+PED-01155;2026-02-20;C0426;Belo Horizonte;Livros;Box de Fantasia;1;161,39;concluído;161,39
+PED-01156;2026-02-21;C0174;Porto Alegre;Eletrônicos;Fone Bluetooth;1;184,65;concluído;184,65
+PED-01157;2026-02-22;C0121;Salvador;Livros;Guia de Python;1;91,75;concluído;91,75
+PED-01158;2026-02-22;C0076;Curitiba;Eletrônicos;Smartwatch;2;437,74;concluído;875,48
+PED-01159;2026-02-22;C0063;Brasília;Casa;Aspirador Robô;2;906,13;concluído;1812,26
+PED-01160;2026-02-22;C0177;Curitiba;Casa;Jogo de Panelas;3;294,43;concluído;883,29
+PED-01161;2026-02-22;C0382;Fortaleza;Casa;Cafeteira;2;237,3;concluído;474,6
+PED-01162;2026-02-22;C0250;Florianópolis;Esportes;Kit de Halteres;1;205,56;pendente;205,56
+PED-01163;2026-02-23;C0395;Curitiba;Casa;Cafeteira;4;238,33;concluído;953,32
+PED-01164;2026-02-23;C0076;São Paulo;Casa;Air Fryer;1;409,84;pendente;409,84
+PED-01165;2026-02-24;C0223;Recife;Eletrônicos;Caixa de Som;3;261,29;concluído;783,87
+PED-01166;2026-02-24;C0406;Curitiba;Livros;Box de Fantasia;1;157,22;concluído;157,22
+PED-01167;2026-02-24;C0334;Florianópolis;Livros;Livro de Finanças;3;72,24;concluído;216,72
+PED-01168;2026-02-26;C0123;São Paulo;Eletrônicos;Carregador Turbo;1;77,74;concluído;77,74
+PED-01169;2026-02-26;C0404;São Paulo;Moda;Mochila;1;155,42;concluído;155,42
+PED-01170;2026-02-26;C0372;São Paulo;Moda;Jaqueta Jeans;2;258,78;pendente;517,56
+PED-01171;2026-02-26;C0384;Recife;Casa;Aspirador Robô;2;939,15;concluído;1878,3
+PED-01172;2026-02-27;C0159;Fortaleza;Casa;Cafeteira;1;221,3;concluído;221,3
+PED-01173;2026-02-27;C0407;Recife;Livros;Romance Best-seller;3;47,42;concluído;142,26
+PED-01174;2026-02-27;C0183;Salvador;Casa;Cafeteira;1;228,57;concluído;228,57
+PED-01175;2026-02-28;C0393;Curitiba;Moda;Jaqueta Jeans;2;260,17;concluído;520,34
+PED-01176;2026-02-28;C0437;São Paulo;Esportes;Kit de Halteres;1;208,39;concluído;208,39
+PED-01177;2026-03-01;C0383;Porto Alegre;Esportes;Garrafa Térmica;1;67,73;concluído;67,73
+PED-01178;2026-03-01;C0232;São Paulo;Moda;Mochila;1;152,04;concluído;152,04
+PED-01179;2026-03-01;C0305;Rio de Janeiro;Casa;Air Fryer;4;413,44;concluído;1653,76
+PED-01180;2026-03-02;C0126;São Paulo;Casa;Aspirador Robô;1;926,94;concluído;926,94
+PED-01181;2026-03-03;C0079;São Paulo;Eletrônicos;Carregador Turbo;2;83,88;concluído;167,76
+PED-01182;2026-03-03;C0168;São Paulo;Casa;Cafeteira;1;224,42;concluído;224,42
+PED-01183;2026-03-03;C0064;São Paulo;Moda;Tênis Esportivo;1;316,54;concluído;316,54
+PED-01184;2026-03-03;C0416;Porto Alegre;Eletrônicos;Carregador Turbo;2;80,3;concluído;160,6
+PED-01185;2026-03-04;C0450;Rio de Janeiro;Casa;Aspirador Robô;1;890,34;pendente;890,34
+PED-01186;2026-03-04;C0241;Salvador;Eletrônicos;Fone Bluetooth;3;191,58;concluído;574,74
+PED-01187;2026-03-04;C0444;Curitiba;Moda;Camiseta Básica;1;57,91;concluído;57,91
+PED-01188;2026-03-05;C0407;Recife;Eletrônicos;Smartwatch;4;436,29;concluído;1745,16
+PED-01189;2026-03-05;C0070;Rio de Janeiro;Eletrônicos;Smartwatch;2;453,88;cancelado;907,76
+PED-01190;2026-03-05;C0059;Rio de Janeiro;Eletrônicos;Fone Bluetooth;2;185,25;concluído;370,5
+PED-01191;2026-03-05;C0128;Recife;Moda;Tênis Esportivo;4;321,61;concluído;1286,44
+PED-01192;2026-03-06;C0425;Porto Alegre;Livros;Guia de Python;4;90,57;concluído;362,28
+PED-01193;2026-03-06;C0349;São Paulo;Eletrônicos;Fone Bluetooth;3;186,58;concluído;559,74
+PED-01194;2026-03-07;C0251;Brasília;Eletrônicos;Carregador Turbo;1;81,23;pendente;81,23
+PED-01195;2026-03-08;C0105;Rio de Janeiro;Casa;Air Fryer;2;412,31;concluído;824,62
+PED-01196;2026-03-09;C0156;Porto Alegre;Eletrônicos;Fone Bluetooth;1;194,89;concluído;194,89
+PED-01197;2026-03-09;C0400;São Paulo;Esportes;Garrafa Térmica;1;69,76;concluído;69,76
+PED-01198;2026-03-09;C0140;Florianópolis;Casa;Jogo de Panelas;1;296,31;concluído;296,31
+PED-01199;2026-03-10;C0343;Brasília;Eletrônicos;Fone Bluetooth;1;185,78;concluído;185,78
+PED-01200;2026-03-10;C0354;Recife;Livros;Box de Fantasia;4;151,96;pendente;607,84
+PED-01201;2026-03-10;C0140;Belo Horizonte;Eletrônicos;Fone Bluetooth;2;194,09;concluído;388,18
+PED-01202;2026-03-10;C0024;Florianópolis;Moda;Jaqueta Jeans;1;249,2;concluído;249,2
+PED-01203;2026-03-11;C0071;São Paulo;Casa;Jogo de Panelas;1;291,71;concluído;291,71
+PED-01204;2026-03-11;C0114;Recife;Moda;Tênis Esportivo;1;346,06;concluído;346,06
+PED-01205;2026-03-11;C0108;Curitiba;Eletrônicos;Caixa de Som;1;243,53;concluído;243,53
+PED-01206;2026-03-11;C0357;Recife;Esportes;Kit de Halteres;1;203,68;concluído;203,68
+PED-01207;2026-03-11;C0001;Rio de Janeiro;Esportes;Tapete de Yoga;1;89,93;concluído;89,93
+PED-01208;2026-03-12;C0141;São Paulo;Moda;Camiseta Básica;1;57,49;concluído;57,49
+PED-01209;2026-03-12;C0231;São Paulo;Moda;Camiseta Básica;2;58,09;concluído;116,18
+PED-01210;2026-03-12;C0082;Rio de Janeiro;Casa;Aspirador Robô;2;892,87;concluído;1785,74
+PED-01211;2026-03-13;C0417;Curitiba;Eletrônicos;Smartwatch;1;443,11;concluído;443,11
+PED-01212;2026-03-14;C0291;São Paulo;Livros;Guia de Python;3;86,82;pendente;260,46
+PED-01213;2026-03-14;C0101;Rio de Janeiro;Eletrônicos;Carregador Turbo;2;83,31;concluído;166,62
+PED-01214;2026-03-14;C0274;Brasília;Esportes;Bicicleta Ergométrica;2;1250,52;concluído;2501,04
+PED-01215;2026-03-15;C0124;Florianópolis;Moda;Camiseta Básica;1;57,98;cancelado;57,98
+PED-01216;2026-03-15;C0070;Salvador;Eletrônicos;Fone Bluetooth;1;190,61;concluído;190,61
+PED-01217;2026-03-15;C0217;Recife;Eletrônicos;Smartwatch;2;440,15;concluído;880,3
+PED-01218;2026-03-15;C0014;Recife;Casa;Aspirador Robô;4;884,41;concluído;3537,64
+PED-01219;2026-03-16;C0098;Rio de Janeiro;Eletrônicos;Smartwatch;2;473,14;concluído;946,28
+PED-01220;2026-03-16;C0181;São Paulo;Moda;Tênis Esportivo;2;338,1;concluído;676,2
+PED-01221;2026-03-16;C0296;Belo Horizonte;Moda;Jaqueta Jeans;1;239,53;concluído;239,53
+PED-01222;2026-03-16;C0260;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;82,2;concluído;82,2
+PED-01223;2026-03-16;C0194;Belo Horizonte;Casa;Aspirador Robô;1;919,13;concluído;919,13
+PED-01224;2026-03-17;C0296;São Paulo;Casa;Aspirador Robô;1;858,45;concluído;858,45
+PED-01225;2026-03-17;C0403;Fortaleza;Casa;Jogo de Panelas;1;300,22;concluído;300,22
+PED-01226;2026-03-17;C0130;Salvador;Eletrônicos;Fone Bluetooth;1;195,63;pendente;195,63
+PED-01227;2026-03-18;C0243;Rio de Janeiro;Moda;Jaqueta Jeans;2;243,87;cancelado;487,74
+PED-01228;2026-03-18;C0034;Curitiba;Moda;Camiseta Básica;1;57,29;concluído;57,29
+PED-01229;2026-03-20;C0368;Curitiba;Moda;Jaqueta Jeans;1;241,37;concluído;241,37
+PED-01230;2026-03-20;C0200;São Paulo;Eletrônicos;Carregador Turbo;4;77,92;concluído;311,68
+PED-01231;2026-03-21;C0118;Recife;Livros;Guia de Python;2;93,19;concluído;186,38
+PED-01232;2026-03-21;C0442;São Paulo;Casa;Air Fryer;2;397,8;concluído;795,6
+PED-01233;2026-03-21;C0257;Rio de Janeiro;Livros;Romance Best-seller;2;51,05;concluído;102,1
+PED-01234;2026-03-21;C0437;São Paulo;Casa;Air Fryer;2;392,61;concluído;785,22
+PED-01235;2026-03-22;C0414;Curitiba;Eletrônicos;Carregador Turbo;1;82,96;concluído;82,96
+PED-01236;2026-03-23;C0102;São Paulo;Casa;Cafeteira;2;235,58;concluído;471,16
+PED-01237;2026-03-23;C0018;Recife;Eletrônicos;Caixa de Som;2;261,44;concluído;522,88
+PED-01238;2026-03-24;C0257;Florianópolis;Esportes;Garrafa Térmica;2;68,69;concluído;137,38
+PED-01239;2026-03-24;C0301;Curitiba;Livros;Romance Best-seller;3;48,45;concluído;145,35
+PED-01240;2026-03-24;C0136;Recife;Esportes;Bicicleta Ergométrica;1;1283,06;concluído;1283,06
+PED-01241;2026-03-24;C0040;São Paulo;Livros;Livro de Finanças;1;70,67;concluído;70,67
+PED-01242;2026-03-25;C0301;Curitiba;Casa;Aspirador Robô;1;889,74;concluído;889,74
+PED-01243;2026-03-26;C0048;São Paulo;Livros;Livro de Finanças;1;69,56;concluído;69,56
+PED-01244;2026-03-26;C0253;Brasília;Casa;Air Fryer;2;404,21;concluído;808,42
+PED-01245;2026-03-27;C0022;Brasília;Casa;Air Fryer;1;384,19;concluído;384,19
+PED-01246;2026-03-27;C0038;São Paulo;Casa;Air Fryer;2;409,48;concluído;818,96
+PED-01247;2026-03-27;C0094;Rio de Janeiro;Esportes;Tapete de Yoga;3;88,6;concluído;265,8
+PED-01248;2026-03-28;C0021;Curitiba;Casa;Jogo de Panelas;2;303,93;cancelado;607,86
+PED-01249;2026-03-28;C0271;Curitiba;Esportes;Tapete de Yoga;1;89,69;concluído;89,69
+PED-01250;2026-03-28;C0421;Curitiba;Moda;Tênis Esportivo;1;325,63;concluído;325,63
+PED-01251;2026-03-28;C0131;Belo Horizonte;Esportes;Tapete de Yoga;1;93,81;concluído;93,81
+PED-01252;2026-03-29;C0152;Salvador;Moda;Mochila;2;150,99;concluído;301,98
+PED-01253;2026-03-29;C0292;São Paulo;Eletrônicos;Carregador Turbo;1;82,17;concluído;82,17
+PED-01254;2026-03-29;C0098;Curitiba;Esportes;Tapete de Yoga;1;92,53;cancelado;92,53
+PED-01255;2026-03-30;C0029;Rio de Janeiro;Casa;Jogo de Panelas;2;287,87;concluído;575,74
+PED-01256;2026-03-30;C0090;Recife;Eletrônicos;Fone Bluetooth;1;188,34;cancelado;188,34
+PED-01257;2026-03-30;C0267;Curitiba;Casa;Jogo de Panelas;1;294,61;cancelado;294,61
+PED-01258;2026-03-31;C0356;Belo Horizonte;Esportes;Tapete de Yoga;4;93,38;concluído;373,52
+PED-01259;2026-03-31;C0282;São Paulo;Moda;Jaqueta Jeans;1;241,07;concluído;241,07
+PED-01260;2026-04-01;C0352;Florianópolis;Livros;Livro de Finanças;1;69,77;concluído;69,77
+PED-01261;2026-04-01;C0124;Belo Horizonte;Moda;Tênis Esportivo;1;319,74;concluído;319,74
+PED-01262;2026-04-02;C0001;Curitiba;Moda;Tênis Esportivo;3;340,87;concluído;1022,61
+PED-01263;2026-04-02;C0258;São Paulo;Livros;Box de Fantasia;1;152,79;cancelado;152,79
+PED-01264;2026-04-02;C0143;Curitiba;Esportes;Bicicleta Ergométrica;1;1242,65;concluído;1242,65
+PED-01265;2026-04-03;C0227;Porto Alegre;Eletrônicos;Caixa de Som;2;258,04;concluído;516,08
+PED-01266;2026-04-03;C0084;Curitiba;Moda;Jaqueta Jeans;1;249,78;concluído;249,78
+PED-01267;2026-04-04;C0048;Recife;Esportes;Garrafa Térmica;2;70,57;concluído;141,14
+PED-01268;2026-04-04;C0399;São Paulo;Livros;Romance Best-seller;4;50,23;pendente;200,92
+PED-01269;2026-04-04;C0161;São Paulo;Eletrônicos;Smartwatch;1;456,88;concluído;456,88
+PED-01270;2026-04-04;C0348;Curitiba;Eletrônicos;Fone Bluetooth;1;184,3;pendente;184,3
+PED-01271;2026-04-05;C0280;Belo Horizonte;Esportes;Kit de Halteres;2;209,49;concluído;418,98
+PED-01272;2026-04-05;C0297;São Paulo;Casa;Aspirador Robô;1;907,32;concluído;907,32
+PED-01273;2026-04-05;C0350;São Paulo;Eletrônicos;Fone Bluetooth;1;185,81;concluído;185,81
+PED-01274;2026-04-07;C0039;Curitiba;Livros;Box de Fantasia;2;159,89;concluído;319,78
+PED-01275;2026-04-07;C0088;Belo Horizonte;Livros;Livro de Finanças;1;67,76;concluído;67,76
+PED-01276;2026-04-07;C0059;Salvador;Casa;Cafeteira;3;222,85;cancelado;668,55
+PED-01277;2026-04-07;C0403;Porto Alegre;Casa;Aspirador Robô;1;921,5;pendente;921,5
+PED-01278;2026-04-09;C0121;Florianópolis;Moda;Tênis Esportivo;1;336,5;concluído;336,5
+PED-01279;2026-04-10;C0115;Belo Horizonte;Casa;Air Fryer;1;384,78;concluído;384,78
+PED-01280;2026-04-11;C0352;São Paulo;Moda;Jaqueta Jeans;1;245,78;pendente;245,78
+PED-01281;2026-04-11;C0234;Recife;Moda;Camiseta Básica;1;60,32;concluído;60,32
+PED-01282;2026-04-12;C0445;Curitiba;Esportes;Tapete de Yoga;1;91,01;concluído;91,01
+PED-01283;2026-04-12;C0222;Fortaleza;Esportes;Bicicleta Ergométrica;4;1323,91;concluído;5295,64
+PED-01284;2026-04-13;C0284;Belo Horizonte;Livros;Livro de Finanças;1;70,64;cancelado;70,64
+PED-01285;2026-04-13;C0047;São Paulo;Moda;Mochila;4;153,67;concluído;614,68
+PED-01286;2026-04-14;C0316;Rio de Janeiro;Casa;Cafeteira;1;235,16;concluído;235,16
+PED-01287;2026-04-14;C0320;Belo Horizonte;Eletrônicos;Caixa de Som;1;249,8;concluído;249,8
+PED-01288;2026-04-14;C0405;Porto Alegre;Esportes;Kit de Halteres;1;201,44;concluído;201,44
+PED-01289;2026-04-14;C0445;São Paulo;Moda;Camiseta Básica;1;61,07;cancelado;61,07
+PED-01290;2026-04-14;C0399;Recife;Moda;Tênis Esportivo;1;317,52;concluído;317,52
+PED-01291;2026-04-15;C0314;São Paulo;Livros;Box de Fantasia;1;158,21;concluído;158,21
+PED-01293;2026-04-15;C0173;Recife;Casa;Aspirador Robô;1;915,23;concluído;915,23
+PED-01294;2026-04-15;C0272;Belo Horizonte;Casa;Jogo de Panelas;1;292,48;cancelado;292,48
+PED-01295;2026-04-15;C0198;Brasília;Moda;Mochila;1;142,79;concluído;142,79
+PED-01296;2026-04-15;C0062;Florianópolis;Esportes;Tapete de Yoga;2;87,42;concluído;174,84
+PED-01297;2026-04-15;C0427;Porto Alegre;Livros;Romance Best-seller;3;50,39;concluído;151,17
+PED-01298;2026-04-15;C0168;Salvador;Eletrônicos;Carregador Turbo;1;78,36;concluído;78,36
+PED-01299;2026-04-16;C0122;Salvador;Casa;Jogo de Panelas;2;289,2;cancelado;578,4
+PED-01300;2026-04-16;C0146;Brasília;Livros;Guia de Python;4;86,75;cancelado;347,0
+PED-01301;2026-04-16;C0428;Curitiba;Casa;Air Fryer;2;399,95;concluído;799,9
+PED-01302;2026-04-17;C0415;Recife;Eletrônicos;Carregador Turbo;1;83,02;pendente;83,02
+PED-01303;2026-04-18;C0362;São Paulo;Casa;Cafeteira;1;223,95;cancelado;223,95
+PED-01304;2026-04-18;C0404;Porto Alegre;Moda;Jaqueta Jeans;2;247,95;concluído;495,9
+PED-01305;2026-04-19;C0070;Brasília;Casa;Air Fryer;4;411,47;concluído;1645,88
+PED-01306;2026-04-20;C0424;Curitiba;Moda;Camiseta Básica;1;58,32;concluído;58,32
+PED-01307;2026-04-20;C0378;São Paulo;Eletrônicos;Carregador Turbo;1;80,07;concluído;80,07
+PED-01308;2026-04-20;C0436;Porto Alegre;Moda;Mochila;1;151,7;concluído;151,7
+PED-01309;2026-04-20;C0264;Fortaleza;Moda;Jaqueta Jeans;2;241,15;concluído;482,3
+PED-01310;2026-04-21;C0418;Curitiba;Eletrônicos;Fone Bluetooth;1;195,7;concluído;195,7
+PED-01311;2026-04-21;C0031;São Paulo;Eletrônicos;Smartwatch;3;465,66;concluído;1396,98
+PED-01312;2026-04-21;C0393;Rio de Janeiro;Eletrônicos;Smartwatch;1;461,42;concluído;461,42
+PED-01313;2026-04-22;C0186;Belo Horizonte;Eletrônicos;Smartwatch;3;458,09;concluído;1374,27
+PED-01314;2026-04-22;C0343;Recife;Esportes;Bicicleta Ergométrica;1;1314,41;concluído;1314,41
+PED-01315;2026-04-23;C0331;Rio de Janeiro;Moda;Mochila;1;155,43;concluído;155,43
+PED-01316;2026-04-24;C0296;Brasília;Livros;Livro de Finanças;4;72,88;concluído;291,52
+PED-01317;2026-04-24;C0328;São Paulo;Livros;Romance Best-seller;2;51,39;concluído;102,78
+PED-01318;2026-04-25;C0105;São Paulo;Casa;Aspirador Robô;2;876,03;concluído;1752,06
+PED-01319;2026-04-25;C0149;São Paulo;Casa;Cafeteira;2;237,76;concluído;475,52
+PED-01320;2026-04-26;C0423;Salvador;Moda;Mochila;2;153,27;concluído;306,54
+PED-01321;2026-04-26;C0255;Porto Alegre;Eletrônicos;Fone Bluetooth;1;193,07;concluído;193,07
+PED-01322;2026-04-26;C0069;Salvador;Eletrônicos;Smartwatch;1;437,34;concluído;437,34
+PED-01323;2026-04-27;C0416;Brasília;Moda;Camiseta Básica;1;57,17;concluído;57,17
+PED-01324;2026-04-27;C0191;Porto Alegre;Esportes;Garrafa Térmica;1;67,88;concluído;67,88
+PED-01325;2026-04-28;C0021;São Paulo;Casa;Air Fryer;2;415,86;concluído;831,72
+PED-01326;2026-04-28;C0108;Florianópolis;Moda;Jaqueta Jeans;1;239,06;cancelado;239,06
+PED-01327;2026-04-29;C0384;São Paulo;Eletrônicos;Smartwatch;2;443,74;pendente;887,48
+PED-01328;2026-04-29;C0241;Curitiba;Moda;Camiseta Básica;1;61,84;cancelado;61,84
+PED-01329;2026-04-30;C0444;Porto Alegre;Eletrônicos;Fone Bluetooth;2;194,3;concluído;388,6
+PED-01330;2026-04-30;C0058;São Paulo;Esportes;Kit de Halteres;1;202,02;concluído;202,02
+PED-01331;2026-05-01;C0390;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;194,13;concluído;194,13
+PED-01332;2026-05-01;C0234;Porto Alegre;Eletrônicos;Smartwatch;1;451,53;concluído;451,53
+PED-01333;2026-05-01;C0203;Belo Horizonte;Eletrônicos;Carregador Turbo;1;76,62;concluído;76,62
+PED-01334;2026-05-01;C0431;Salvador;Moda;Jaqueta Jeans;4;241,16;concluído;964,64
+PED-01335;2026-05-02;C0367;Porto Alegre;Moda;Tênis Esportivo;2;337,69;concluído;675,38
+PED-01336;2026-05-02;C0098;Rio de Janeiro;Casa;Air Fryer;2;388,18;concluído;776,36
+PED-01337;2026-05-02;C0399;Curitiba;Casa;Jogo de Panelas;1;276,19;pendente;276,19
+PED-01338;2026-05-03;C0086;Belo Horizonte;Casa;Aspirador Robô;2;897,14;concluído;1794,28
+PED-01339;2026-05-03;C0055;São Paulo;Eletrônicos;Smartwatch;1;475,52;concluído;475,52
+PED-01340;2026-05-03;C0208;Brasília;Eletrônicos;Carregador Turbo;1;76,37;concluído;76,37
+PED-01341;2026-05-03;C0179;São Paulo;Casa;Aspirador Robô;2;887,39;concluído;1774,78
+PED-01342;2026-05-03;C0023;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;195,79;concluído;195,79
+PED-01343;2026-05-04;C0052;Rio de Janeiro;Eletrônicos;Smartwatch;1;477,89;concluído;477,89
+PED-01344;2026-05-04;C0230;Curitiba;Eletrônicos;Fone Bluetooth;1;190,22;concluído;190,22
+PED-01345;2026-05-04;C0127;Curitiba;Livros;Romance Best-seller;1;48,38;concluído;48,38
+PED-01346;2026-05-04;C0411;Rio de Janeiro;Esportes;Tapete de Yoga;1;90,18;concluído;90,18
+PED-01347;2026-05-04;C0361;Rio de Janeiro;Moda;Camiseta Básica;1;62,05;concluído;62,05
+PED-01348;2026-05-05;C0081;Salvador;Eletrônicos;Smartwatch;4;472,94;concluído;1891,76
+PED-01349;2026-05-05;C0124;Salvador;Esportes;Garrafa Térmica;1;67,45;concluído;67,45
+PED-01350;2026-05-06;C0302;Curitiba;Eletrônicos;Carregador Turbo;1;79,31;concluído;79,31
+PED-01351;2026-05-06;C0394;Brasília;Eletrônicos;Carregador Turbo;1;81,89;concluído;81,89
+PED-01352;2026-05-06;C0020;Salvador;Eletrônicos;Fone Bluetooth;1;183,67;concluído;183,67
+PED-01353;2026-05-07;C0034;São Paulo;Livros;Box de Fantasia;2;160,37;concluído;320,74
+PED-01354;2026-05-07;C0249;São Paulo;Casa;Aspirador Robô;1;935,69;pendente;935,69
+PED-01355;2026-05-07;C0264;Porto Alegre;Eletrônicos;Smartwatch;2;456,1;concluído;912,2
+PED-01356;2026-05-08;C0221;Salvador;Livros;Box de Fantasia;2;152,98;cancelado;305,96
+PED-01357;2026-05-08;C0029;Salvador;Casa;Cafeteira;2;229,93;concluído;459,86
+PED-01358;2026-05-08;C0305;Rio de Janeiro;Eletrônicos;Fone Bluetooth;1;193,4;concluído;193,4
+PED-01359;2026-05-08;C0321;Belo Horizonte;Livros;Romance Best-seller;4;52,21;concluído;208,84
+PED-01360;2026-05-08;C0071;Curitiba;Esportes;Bicicleta Ergométrica;4;1354,61;cancelado;5418,44
+PED-01361;2026-05-09;C0006;Rio de Janeiro;Moda;Camiseta Básica;1;59,54;concluído;59,54
+PED-01362;2026-05-09;C0195;Belo Horizonte;Casa;Aspirador Robô;1;862,47;cancelado;862,47
+PED-01363;2026-05-10;C0217;Belo Horizonte;Livros;Box de Fantasia;2;161,35;concluído;322,7
+PED-01364;2026-05-11;C0366;Curitiba;Moda;Mochila;2;143,15;concluído;286,3
+PED-01365;2026-05-11;C0250;São Paulo;Casa;Aspirador Robô;1;898,49;concluído;898,49
+PED-01366;2026-05-11;C0413;Porto Alegre;Eletrônicos;Caixa de Som;1;255,95;concluído;255,95
+PED-01367;2026-05-12;C0128;Recife;Livros;Box de Fantasia;2;156,43;concluído;312,86
+PED-01368;2026-05-12;C0198;Curitiba;Casa;Aspirador Robô;1;893,96;concluído;893,96
+PED-01369;2026-05-12;C0405;Recife;Esportes;Garrafa Térmica;1;70,23;concluído;70,23
+PED-01370;2026-05-13;C0386;Rio de Janeiro;Eletrônicos;Fone Bluetooth;3;183,02;concluído;549,06
+PED-01371;2026-05-13;C0388;Fortaleza;Moda;Tênis Esportivo;1;315,84;pendente;315,84
+PED-01372;2026-05-13;C0110;Rio de Janeiro;Moda;Camiseta Básica;4;62,14;concluído;248,56
+PED-01373;2026-05-13;C0359;Curitiba;Eletrônicos;Carregador Turbo;1;79,99;concluído;79,99
+PED-01374;2026-05-13;C0017;Florianópolis;Esportes;Garrafa Térmica;1;67,28;concluído;67,28
+PED-01375;2026-05-13;C0034;Recife;Casa;Air Fryer;1;408,59;cancelado;408,59
+PED-01376;2026-05-14;C0041;Rio de Janeiro;Moda;Tênis Esportivo;3;328,64;concluído;985,92
+PED-01377;2026-05-14;C0280;Rio de Janeiro;Esportes;Tapete de Yoga;2;93,67;concluído;187,34
+PED-01378;2026-05-14;C0291;São Paulo;Moda;Mochila;2;150,64;concluído;301,28
+PED-01379;2026-05-15;C0307;Porto Alegre;Moda;Jaqueta Jeans;2;238,64;concluído;477,28
+PED-01380;2026-05-15;C0217;Porto Alegre;Moda;Mochila;3;143,07;concluído;429,21
+PED-01381;2026-05-15;C0195;Rio de Janeiro;Eletrônicos;Smartwatch;1;462,64;concluído;462,64
+PED-01382;2026-05-15;C0443;São Paulo;Moda;Jaqueta Jeans;1;244,74;concluído;244,74
+PED-01383;2026-05-15;C0420;Salvador;Casa;Cafeteira;1;225,04;concluído;225,04
+PED-01384;2026-05-16;C0158;Recife;Casa;Cafeteira;1;237,99;concluído;237,99
+PED-01385;2026-05-16;C0208;Florianópolis;Esportes;Bicicleta Ergométrica;1;1265,55;concluído;1265,55
+PED-01386;2026-05-17;C0312;São Paulo;Esportes;Tapete de Yoga;2;85,89;concluído;171,78
+PED-01387;2026-05-17;C0220;Fortaleza;Esportes;Bicicleta Ergométrica;1;1272,26;pendente;1272,26
+PED-01388;2026-05-18;C0364;Fortaleza;Casa;Aspirador Robô;2;889,12;concluído;1778,24
+PED-01389;2026-05-18;C0390;Florianópolis;Esportes;Tapete de Yoga;1;90,05;concluído;90,05
+PED-01390;2026-05-18;C0041;Curitiba;Casa;Cafeteira;1;228,87;concluído;228,87
+PED-01391;2026-05-18;C0406;São Paulo;Livros;Romance Best-seller;3;48,77;concluído;146,31
+PED-01392;2026-05-18;C0389;Florianópolis;Eletrônicos;Fone Bluetooth;3;181,42;concluído;544,26
+PED-01393;2026-05-19;C0136;Brasília;Moda;Tênis Esportivo;1;324,96;concluído;324,96
+PED-01394;2026-05-19;C0138;Curitiba;Moda;Camiseta Básica;1;62,17;concluído;62,17
+PED-01395;2026-05-19;C0040;Curitiba;Moda;Jaqueta Jeans;2;245,87;concluído;491,74
+PED-01396;2026-05-21;C0225;Florianópolis;Casa;Cafeteira;2;231,77;concluído;463,54
+PED-01397;2026-05-21;C0195;Porto Alegre;Moda;Camiseta Básica;1;57,09;cancelado;57,09
+PED-01398;2026-05-21;C0424;Curitiba;Moda;Tênis Esportivo;2;315,62;concluído;631,24
+PED-01399;2026-05-21;C0118;São Paulo;Casa;Jogo de Panelas;1;291,21;cancelado;291,21
+PED-01400;2026-05-21;C0147;Rio de Janeiro;Esportes;Bicicleta Ergométrica;1;1326,95;concluído;1326,95
+PED-01401;2026-05-22;C0423;Rio de Janeiro;Eletrônicos;Carregador Turbo;3;83,54;concluído;250,62
+PED-01402;2026-05-22;C0334;Recife;Casa;Jogo de Panelas;1;298,14;concluído;298,14
+PED-01403;2026-05-23;C0448;Rio de Janeiro;Moda;Tênis Esportivo;1;328,46;concluído;328,46
+PED-01404;2026-05-23;C0162;Rio de Janeiro;Casa;Jogo de Panelas;3;297,56;concluído;892,68
+PED-01405;2026-05-23;C0442;Recife;Eletrônicos;Caixa de Som;2;242,87;concluído;485,74
+PED-01406;2026-05-24;C0304;Rio de Janeiro;Moda;Camiseta Básica;1;62,32;cancelado;62,32
+PED-01407;2026-05-24;C0419;Curitiba;Eletrônicos;Fone Bluetooth;4;192,93;concluído;771,72
+PED-01408;2026-05-24;C0023;Salvador;Casa;Air Fryer;2;401,28;concluído;802,56
+PED-01409;2026-05-24;C0431;Belo Horizonte;Eletrônicos;Caixa de Som;1;246,0;concluído;246,0
+PED-01410;2026-05-24;C0408;Curitiba;Moda;Tênis Esportivo;1;316,16;concluído;316,16
+PED-01411;2026-05-25;C0248;São Paulo;Livros;Livro de Finanças;2;67,0;concluído;134,0
+PED-01412;2026-05-25;C0347;Salvador;Moda;Camiseta Básica;1;59,35;pendente;59,35
+PED-01413;2026-05-26;C0169;Brasília;Casa;Cafeteira;3;217,63;concluído;652,89
+PED-01414;2026-05-26;C0048;Curitiba;Casa;Air Fryer;1;417,85;concluído;417,85
+PED-01415;2026-05-26;C0145;Curitiba;Casa;Air Fryer;2;407,14;cancelado;814,28
+PED-01416;2026-05-28;C0396;Belo Horizonte;Moda;Jaqueta Jeans;2;249,14;concluído;498,28
+PED-01417;2026-05-28;C0199;Belo Horizonte;Casa;Jogo de Panelas;1;296,44;concluído;296,44
+PED-01418;2026-05-28;C0315;Curitiba;Casa;Air Fryer;1;418,75;concluído;418,75
+PED-01419;2026-05-29;C0045;Curitiba;Esportes;Garrafa Térmica;3;66,57;concluído;199,71
+PED-01420;2026-05-29;C0390;Brasília;Casa;Jogo de Panelas;1;284,18;concluído;284,18
+PED-01421;2026-05-30;C0250;Rio de Janeiro;Livros;Box de Fantasia;1;160,07;pendente;160,07
+PED-01422;2026-05-30;C0428;Porto Alegre;Casa;Cafeteira;2;235,5;concluído;471,0
+PED-01423;2026-05-30;C0172;Rio de Janeiro;Casa;Jogo de Panelas;1;280,54;concluído;280,54
+PED-01424;2026-05-30;C0151;São Paulo;Moda;Jaqueta Jeans;1;240,7;cancelado;240,7
+PED-01425;2026-05-30;C0295;Curitiba;Eletrônicos;Smartwatch;1;475,97;concluído;475,97
+PED-01426;2026-05-30;C0070;São Paulo;Eletrônicos;Carregador Turbo;1;83,5;concluído;83,5
+PED-01427;2026-05-31;C0249;Rio de Janeiro;Eletrônicos;Carregador Turbo;3;82,98;concluído;248,94
+PED-01428;2026-05-31;C0200;Brasília;Eletrônicos;Carregador Turbo;2;77,83;concluído;155,66
+PED-01429;2026-05-31;C0031;Curitiba;Eletrônicos;Fone Bluetooth;1;187,08;concluído;187,08
+PED-01430;2026-05-31;C0096;Rio de Janeiro;Eletrônicos;Caixa de Som;3;239,27;concluído;717,81
+PED-01431;2026-05-31;C0037;Salvador;Livros;Box de Fantasia;1;161,01;concluído;161,01
+PED-01432;2026-06-01;C0294;Salvador;Livros;Guia de Python;3;92,87;concluído;278,61
+PED-01433;2026-06-01;C0110;Florianópolis;Eletrônicos;Smartwatch;2;460,01;concluído;920,02
+PED-01434;2026-06-02;C0407;Recife;Eletrônicos;Caixa de Som;2;246,84;concluído;493,68
+PED-01435;2026-06-02;C0171;Curitiba;Esportes;Bicicleta Ergométrica;1;1334,14;concluído;1334,14
+PED-01436;2026-06-02;C0405;Recife;Casa;Jogo de Panelas;1;301,28;concluído;301,28
+PED-01437;2026-06-03;C0223;Curitiba;Casa;Jogo de Panelas;1;277,16;cancelado;277,16
+PED-01438;2026-06-03;C0091;São Paulo;Livros;Guia de Python;3;93,77;concluído;281,31
+PED-01439;2026-06-03;C0142;Porto Alegre;Casa;Jogo de Panelas;1;285,0;concluído;285,0
+PED-01440;2026-06-03;C0005;Belo Horizonte;Casa;Aspirador Robô;4;868,39;concluído;3473,56
+PED-01441;2026-06-04;C0053;Florianópolis;Eletrônicos;Caixa de Som;2;244,26;concluído;488,52
+PED-01442;2026-06-05;C0152;Porto Alegre;Casa;Cafeteira;1;240,14;concluído;240,14
+PED-01443;2026-06-06;C0138;Porto Alegre;Eletrônicos;Fone Bluetooth;1;192,2;cancelado;192,2
+PED-01444;2026-06-06;C0183;Florianópolis;Livros;Livro de Finanças;1;72,7;concluído;72,7
+PED-01445;2026-06-06;C0178;Fortaleza;Eletrônicos;Fone Bluetooth;1;196,79;pendente;196,79
+PED-01446;2026-06-06;C0392;Rio de Janeiro;Casa;Aspirador Robô;1;879,45;pendente;879,45
+PED-01447;2026-06-06;C0119;Porto Alegre;Moda;Jaqueta Jeans;2;252,15;concluído;504,3
+PED-01448;2026-06-07;C0297;Curitiba;Livros;Livro de Finanças;4;71,81;concluído;287,24
+PED-01449;2026-06-08;C0037;Belo Horizonte;Esportes;Garrafa Térmica;1;70,68;pendente;70,68
+PED-01450;2026-06-09;C0178;Recife;Livros;Guia de Python;3;90,95;concluído;272,85
+PED-01451;2026-06-09;C0292;Brasília;Casa;Air Fryer;1;381,87;concluído;381,87
+PED-01452;2026-06-09;C0399;Porto Alegre;Livros;Romance Best-seller;1;49,34;concluído;49,34
+PED-01453;2026-06-09;C0148;São Paulo;Moda;Camiseta Básica;2;62,63;concluído;125,26
+PED-01454;2026-06-10;C0168;Curitiba;Eletrônicos;Caixa de Som;1;245,94;cancelado;245,94
+PED-01455;2026-06-10;C0147;Curitiba;Eletrônicos;Smartwatch;4;450,42;concluído;1801,68
+PED-01456;2026-06-10;C0008;Recife;Moda;Camiseta Básica;1;58,23;concluído;58,23
+PED-01457;2026-06-11;C0212;Rio de Janeiro;Esportes;Bicicleta Ergométrica;1;1234,78;concluído;1234,78
+PED-01458;2026-06-11;C0348;São Paulo;Eletrônicos;Caixa de Som;1;256,33;concluído;256,33
+PED-01459;2026-06-11;C0378;Belo Horizonte;Esportes;Garrafa Térmica;1;70,36;concluído;70,36
+PED-01460;2026-06-11;C0356;Curitiba;Eletrônicos;Smartwatch;1;472,96;concluído;472,96
+PED-01461;2026-06-12;C0059;Curitiba;Eletrônicos;Caixa de Som;3;253,85;concluído;761,55
+PED-01462;2026-06-12;C0372;Porto Alegre;Eletrônicos;Smartwatch;1;480,0;concluído;480,0
+PED-01463;2026-06-12;C0109;Rio de Janeiro;Moda;Jaqueta Jeans;1;248,24;concluído;248,24
+PED-01464;2026-06-13;C0285;Rio de Janeiro;Livros;Box de Fantasia;2;159,43;concluído;318,86
+PED-01465;2026-06-13;C0281;Fortaleza;Livros;Box de Fantasia;1;164,83;concluído;164,83
+PED-01466;2026-06-13;C0028;Porto Alegre;Casa;Jogo de Panelas;2;283,41;pendente;566,82
+PED-01467;2026-06-14;C0066;Belo Horizonte;Esportes;Kit de Halteres;1;193,46;concluído;193,46
+PED-01468;2026-06-14;C0068;Brasília;Eletrônicos;Fone Bluetooth;1;189,66;concluído;189,66
+PED-01469;2026-06-14;C0377;Belo Horizonte;Casa;Aspirador Robô;1;917,93;concluído;917,93
+PED-01470;2026-06-15;C0436;Brasília;Eletrônicos;Smartwatch;1;442,07;concluído;442,07
+PED-01471;2026-06-15;C0025;Rio de Janeiro;Moda;Tênis Esportivo;3;338,45;concluído;1015,35
+PED-01472;2026-06-15;C0300;Curitiba;Moda;Camiseta Básica;3;59,54;concluído;178,62
+PED-01473;2026-06-16;C0381;Curitiba;Moda;Camiseta Básica;4;57,44;concluído;229,76
+PED-01474;2026-06-17;C0015;São Paulo;Esportes;Kit de Halteres;1;209,01;concluído;209,01
+PED-01475;2026-06-17;C0061;Rio de Janeiro;Eletrônicos;Caixa de Som;1;240,31;concluído;240,31
+PED-01476;2026-06-18;C0021;São Paulo;Livros;Box de Fantasia;2;166,41;concluído;332,82
+PED-01477;2026-06-18;C0402;São Paulo;Moda;Mochila;1;143,31;concluído;143,31
+PED-01478;2026-06-19;C0214;São Paulo;Casa;Jogo de Panelas;2;292,93;concluído;585,86
+PED-01479;2026-06-19;C0046;São Paulo;Casa;Jogo de Panelas;2;286,58;concluído;573,16
+PED-01480;2026-06-19;C0052;Porto Alegre;Moda;Jaqueta Jeans;3;251,27;concluído;753,81
+PED-01481;2026-06-19;C0319;Brasília;Moda;Mochila;3;151,31;concluído;453,93
+PED-01482;2026-06-19;C0287;São Paulo;Livros;Romance Best-seller;2;50,25;concluído;100,5
+PED-01483;2026-06-20;C0126;São Paulo;Livros;Livro de Finanças;3;71,07;concluído;213,21
+PED-01484;2026-06-20;C0369;São Paulo;Eletrônicos;Carregador Turbo;2;80,13;concluído;160,26
+PED-01485;2026-06-21;C0369;Salvador;Livros;Guia de Python;1;92,56;concluído;92,56
+PED-01486;2026-06-22;C0139;São Paulo;Livros;Guia de Python;4;89,33;concluído;357,32
+PED-01487;2026-06-22;C0147;São Paulo;Casa;Air Fryer;1;415,2;concluído;415,2
+PED-01488;2026-06-22;C0074;São Paulo;Casa;Aspirador Robô;1;927,3;concluído;927,3
+PED-01489;2026-06-22;C0142;Curitiba;Casa;Cafeteira;1;237,09;concluído;237,09
+PED-01490;2026-06-23;C0136;Porto Alegre;Eletrônicos;Caixa de Som;1;256,81;concluído;256,81
+PED-01491;2026-06-23;C0029;Rio de Janeiro;Livros;Romance Best-seller;1;48,99;concluído;48,99
+PED-01492;2026-06-24;C0272;Salvador;Eletrônicos;Fone Bluetooth;1;192,67;concluído;192,67
+PED-01493;2026-06-25;C0186;Salvador;Eletrônicos;Caixa de Som;1;259,77;concluído;259,77
+PED-01494;2026-06-26;C0025;Curitiba;Casa;Cafeteira;1;236,88;concluído;236,88
+PED-01495;2026-06-26;C0228;Rio de Janeiro;Moda;Mochila;2;155,53;cancelado;311,06
+PED-01496;2026-06-26;C0024;Brasília;Casa;Jogo de Panelas;1;278,64;cancelado;278,64
+PED-01497;2026-06-27;C0024;Curitiba;Esportes;Bicicleta Ergométrica;1;1355,64;concluído;1355,64
+PED-01498;2026-06-27;C0062;Rio de Janeiro;Moda;Tênis Esportivo;1;323,95;concluído;323,95
+PED-01499;2026-06-27;C0356;Curitiba;Moda;Tênis Esportivo;2;320,58;concluído;641,16
+PED-01500;2026-06-28;C0091;Florianópolis;Eletrônicos;Caixa de Som;2;245,29;concluído;490,58
+PED-01501;2026-06-28;C0441;Porto Alegre;Esportes;Tapete de Yoga;1;88,76;concluído;88,76
+PED-01502;2026-06-28;C0090;Curitiba;Eletrônicos;Caixa de Som;1;251,89;cancelado;251,89
+PED-01503;2026-06-28;C0018;Rio de Janeiro;Esportes;Kit de Halteres;1;198,37;concluído;198,37
+PED-01504;2026-06-28;C0082;Salvador;Casa;Cafeteira;2;235,59;concluído;471,18
+PED-01505;2026-06-28;C0114;Florianópolis;Eletrônicos;Caixa de Som;1;252,61;pendente;252,61
+PED-01506;2026-06-28;C0135;Rio de Janeiro;Moda;Mochila;2;155,02;concluído;310,04
+PED-01507;2026-06-29;C0354;Fortaleza;Casa;Aspirador Robô;1;872,91;pendente;872,91
+PED-01508;2026-06-29;C0344;Florianópolis;Casa;Air Fryer;2;390,7;pendente;781,4
+PED-01509;2026-06-29;C0421;Florianópolis;Livros;Livro de Finanças;1;73,1;concluído;73,1
+PED-01510;2026-06-30;C0409;São Paulo;Moda;Mochila;1;155,85;concluído;155,85
+PED-01511;2026-06-30;C0118;Florianópolis;Eletrônicos;Caixa de Som;1;257,16;concluído;257,16
+PED-01512;2026-07-01;C0339;Curitiba;Casa;Air Fryer;3;381,91;concluído;1145,73
+PED-01513;2026-07-01;C0244;Curitiba;Moda;Mochila;2;148,19;concluído;296,38
+PED-01514;2026-07-01;C0290;Recife;Livros;Romance Best-seller;1;49,54;concluído;49,54
+PED-01515;2026-07-01;C0231;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;187,54;pendente;187,54
+PED-01516;2026-07-01;C0037;Belo Horizonte;Esportes;Kit de Halteres;1;193,28;pendente;193,28
+PED-01517;2026-07-02;C0221;Florianópolis;Moda;Camiseta Básica;1;62,54;concluído;62,54
+PED-01518;2026-07-02;C0219;Rio de Janeiro;Moda;Mochila;1;156,72;concluído;156,72
+PED-01519;2026-07-04;C0174;Porto Alegre;Livros;Livro de Finanças;1;70,96;concluído;70,96
+PED-01520;2026-07-04;C0351;Belo Horizonte;Moda;Mochila;1;155,01;pendente;155,01
+PED-01521;2026-07-06;C0263;Porto Alegre;Eletrônicos;Fone Bluetooth;2;187,66;concluído;375,32
+PED-01522;2026-07-07;C0397;São Paulo;Eletrônicos;Smartwatch;1;441,61;concluído;441,61
+PED-01523;2026-07-07;C0072;Rio de Janeiro;Moda;Mochila;2;146,66;concluído;293,32
+PED-01524;2026-07-08;C0159;Florianópolis;Moda;Mochila;1;146,87;concluído;146,87
+PED-01525;2026-07-08;C0209;São Paulo;Livros;Box de Fantasia;2;152,45;cancelado;304,9
+PED-01526;2026-07-09;C0226;Curitiba;Eletrônicos;Caixa de Som;4;250,62;concluído;1002,48
+PED-01527;2026-07-09;C0369;Curitiba;Eletrônicos;Caixa de Som;1;241,68;concluído;241,68
+PED-01528;2026-07-09;C0161;Belo Horizonte;Eletrônicos;Caixa de Som;2;247,17;concluído;494,34
+PED-01529;2026-07-09;C0127;São Paulo;Esportes;Tapete de Yoga;2;88,54;concluído;177,08
+PED-01530;2026-07-10;C0063;São Paulo;Esportes;Tapete de Yoga;2;92,47;concluído;184,94
+PED-01531;2026-07-10;C0450;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;79,51;concluído;79,51
+PED-01532;2026-07-10;C0295;Porto Alegre;Moda;Mochila;1;153,24;concluído;153,24
+PED-01533;2026-07-11;C0390;Belo Horizonte;Moda;Jaqueta Jeans;1;241,35;pendente;241,35
+PED-01534;2026-07-11;C0147;Belo Horizonte;Esportes;Bicicleta Ergométrica;1;1273,2;cancelado;1273,2
+PED-01535;2026-07-11;C0143;Belo Horizonte;Esportes;Kit de Halteres;3;192,42;concluído;577,26
+PED-01536;2026-07-11;C0183;Curitiba;Eletrônicos;Smartwatch;1;473,82;concluído;473,82
+PED-01537;2026-07-12;C0299;São Paulo;Casa;Cafeteira;3;229,66;concluído;688,98
+PED-01538;2026-07-12;C0036;São Paulo;Moda;Mochila;4;143,59;concluído;574,36
+PED-01539;2026-07-13;C0190;Curitiba;Moda;Mochila;1;143,67;concluído;143,67
+PED-01540;2026-07-13;C0159;Rio de Janeiro;Esportes;Kit de Halteres;3;204,71;concluído;614,13
+PED-01541;2026-07-13;C0346;Salvador;Eletrônicos;Smartwatch;2;468,83;concluído;937,66
+PED-01542;2026-07-14;C0386;Belo Horizonte;Eletrônicos;Carregador Turbo;2;83,07;concluído;166,14
+PED-01543;2026-07-14;C0431;São Paulo;Casa;Aspirador Robô;1;877,74;pendente;877,74
+PED-01544;2026-07-14;C0174;São Paulo;Livros;Livro de Finanças;1;70,31;pendente;70,31
+PED-01545;2026-07-14;C0009;Curitiba;Eletrônicos;Smartwatch;1;443,09;concluído;443,09
+PED-01546;2026-07-14;C0035;Recife;Eletrônicos;Fone Bluetooth;1;184,57;concluído;184,57
+PED-01547;2026-07-15;C0178;Recife;Casa;Air Fryer;1;396,08;concluído;396,08
+PED-01548;2026-07-15;C0377;Belo Horizonte;Eletrônicos;Carregador Turbo;1;76,53;cancelado;76,53
+PED-01549;2026-07-15;C0277;São Paulo;Eletrônicos;Smartwatch;1;478,18;concluído;478,18
+PED-01550;2026-07-15;C0370;Rio de Janeiro;Livros;Livro de Finanças;1;72,56;concluído;72,56
+PED-01551;2026-07-16;C0423;São Paulo;Casa;Air Fryer;2;398,05;concluído;796,1
+PED-01552;2026-07-17;C0275;Florianópolis;Livros;Livro de Finanças;3;66,75;concluído;200,25
+PED-01553;2026-07-17;C0021;Salvador;Moda;Jaqueta Jeans;1;260,67;concluído;260,67
+PED-01554;2026-07-18;C0127;Rio de Janeiro;Casa;Aspirador Robô;2;936,3;concluído;1872,6
+PED-01555;2026-07-19;C0263;Curitiba;Esportes;Bicicleta Ergométrica;1;1245,22;concluído;1245,22
+PED-01556;2026-07-20;C0026;Florianópolis;Casa;Air Fryer;2;414,6;cancelado;829,2
+PED-01557;2026-07-20;C0092;Belo Horizonte;Moda;Jaqueta Jeans;1;261,69;concluído;261,69
+PED-01558;2026-07-20;C0128;São Paulo;Casa;Jogo de Panelas;1;301,65;pendente;301,65
+PED-01559;2026-07-21;C0416;São Paulo;Esportes;Kit de Halteres;1;197,41;concluído;197,41
+PED-01560;2026-07-21;C0155;Rio de Janeiro;Livros;Romance Best-seller;2;51,48;concluído;102,96
+PED-01561;2026-07-21;C0192;Belo Horizonte;Moda;Jaqueta Jeans;1;249,02;concluído;249,02
+PED-01562;2026-07-22;C0094;São Paulo;Eletrônicos;Carregador Turbo;1;81,35;concluído;81,35
+PED-01563;2026-07-22;C0407;Curitiba;Esportes;Garrafa Térmica;1;67,7;pendente;67,7
+PED-01564;2026-07-22;C0335;São Paulo;Casa;Cafeteira;1;219,47;concluído;219,47
+PED-01565;2026-07-22;C0022;Curitiba;Casa;Air Fryer;1;413,55;pendente;413,55
+PED-01566;2026-07-22;C0210;Curitiba;Moda;Camiseta Básica;1;59,68;concluído;59,68
+PED-01567;2026-07-22;C0343;Belo Horizonte;Eletrônicos;Caixa de Som;1;253,06;concluído;253,06
+PED-01568;2026-07-22;C0439;Curitiba;Eletrônicos;Fone Bluetooth;1;191,3;cancelado;191,3
+PED-01569;2026-07-23;C0058;Porto Alegre;Eletrônicos;Smartwatch;2;453,13;concluído;906,26
+PED-01570;2026-07-24;C0057;Rio de Janeiro;Casa;Cafeteira;4;224,37;concluído;897,48
+PED-01571;2026-07-24;C0199;Curitiba;Casa;Aspirador Robô;2;929,31;concluído;1858,62
+PED-01572;2026-07-24;C0199;Belo Horizonte;Casa;Cafeteira;1;224,73;concluído;224,73
+PED-01573;2026-07-24;C0058;Belo Horizonte;Esportes;Bicicleta Ergométrica;1;1328,13;concluído;1328,13
+PED-01574;2026-07-24;C0314;São Paulo;Eletrônicos;Smartwatch;1;450,08;concluído;450,08
+PED-01575;2026-07-25;C0209;Belo Horizonte;Moda;Tênis Esportivo;1;341,87;concluído;341,87
+PED-01576;2026-07-25;C0011;Curitiba;Moda;Tênis Esportivo;2;330,35;concluído;660,7
+PED-01577;2026-07-26;C0083;Rio de Janeiro;Moda;Camiseta Básica;2;57,28;concluído;114,56
+PED-01578;2026-07-27;C0121;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;183,81;concluído;183,81
+PED-01579;2026-07-28;C0204;Rio de Janeiro;Livros;Livro de Finanças;2;70,35;concluído;140,7
+PED-01580;2026-07-28;C0257;Belo Horizonte;Livros;Livro de Finanças;1;70,29;cancelado;70,29
+PED-01581;2026-07-29;C0324;Fortaleza;Eletrônicos;Caixa de Som;1;255,15;concluído;255,15
+PED-01582;2026-07-29;C0001;Fortaleza;Eletrônicos;Caixa de Som;1;247,36;concluído;247,36
+PED-01583;2026-07-29;C0375;Fortaleza;Eletrônicos;Smartwatch;2;443,04;concluído;886,08
+PED-01584;2026-07-29;C0359;Curitiba;Moda;Tênis Esportivo;1;324,14;pendente;324,14
+PED-01585;2026-07-29;C0004;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;192,35;concluído;192,35
+PED-01586;2026-07-30;C0236;Brasília;Eletrônicos;Fone Bluetooth;2;189,28;concluído;378,56
+PED-01587;2026-07-31;C0346;Curitiba;Casa;Jogo de Panelas;1;284,07;concluído;284,07
+PED-01588;2026-07-31;C0425;Curitiba;Casa;Cafeteira;1;235,04;concluído;235,04
+PED-01589;2026-07-31;C0326;Curitiba;Casa;Jogo de Panelas;1;281,88;concluído;281,88
+PED-01590;2026-07-31;C0217;Belo Horizonte;Moda;Tênis Esportivo;1;334,1;concluído;334,1
+PED-01591;2026-07-31;C0158;Porto Alegre;Moda;Mochila;1;150,84;concluído;150,84
+PED-01592;2026-07-31;C0411;Rio de Janeiro;Esportes;Tapete de Yoga;1;86,08;concluído;86,08
+PED-01593;2026-08-01;C0275;Salvador;Casa;Cafeteira;1;231,98;concluído;231,98
+PED-01594;2026-08-01;C0264;Salvador;Moda;Jaqueta Jeans;1;237,65;concluído;237,65
+PED-01595;2026-08-01;C0149;Belo Horizonte;Eletrônicos;Fone Bluetooth;1;183,05;concluído;183,05
+PED-01596;2026-08-03;C0277;Belo Horizonte;Moda;Jaqueta Jeans;1;240,01;concluído;240,01
+PED-01597;2026-08-03;C0243;São Paulo;Casa;Aspirador Robô;2;902,67;concluído;1805,34
+PED-01598;2026-08-04;C0007;Curitiba;Casa;Jogo de Panelas;1;302,23;concluído;302,23
+PED-01599;2026-08-04;C0105;Curitiba;Esportes;Garrafa Térmica;1;72,62;concluído;72,62
+PED-01600;2026-08-05;C0433;Florianópolis;Eletrônicos;Carregador Turbo;2;77,44;concluído;154,88
+PED-01601;2026-08-06;C0083;Rio de Janeiro;Casa;Cafeteira;3;238,44;concluído;715,32
+PED-01602;2026-08-06;C0130;Curitiba;Casa;Air Fryer;1;389,88;concluído;389,88
+PED-01603;2026-08-06;C0155;Brasília;Moda;Mochila;1;156,33;concluído;156,33
+PED-01604;2026-08-07;C0218;Recife;Eletrônicos;Carregador Turbo;2;79,39;concluído;158,78
+PED-01605;2026-08-07;C0407;Curitiba;Moda;Jaqueta Jeans;1;260,69;concluído;260,69
+PED-01606;2026-08-07;C0168;Curitiba;Casa;Aspirador Robô;2;883,33;concluído;1766,66
+PED-01607;2026-08-08;C0179;São Paulo;Eletrônicos;Fone Bluetooth;1;181,96;concluído;181,96
+PED-01608;2026-08-08;C0035;Brasília;Eletrônicos;Smartwatch;1;466,27;pendente;466,27
+PED-01609;2026-08-09;C0375;São Paulo;Eletrônicos;Caixa de Som;1;247,15;concluído;247,15
+PED-01610;2026-08-09;C0072;Porto Alegre;Moda;Camiseta Básica;1;60,91;concluído;60,91
+PED-01611;2026-08-09;C0271;Florianópolis;Casa;Aspirador Robô;2;894,38;concluído;1788,76
+PED-01612;2026-08-10;C0396;Curitiba;Casa;Aspirador Robô;1;874,76;concluído;874,76
+PED-01613;2026-08-12;C0236;São Paulo;Eletrônicos;Caixa de Som;1;251,01;concluído;251,01
+PED-01614;2026-08-14;C0112;Rio de Janeiro;Eletrônicos;Smartwatch;1;460,58;concluído;460,58
+PED-01615;2026-08-14;C0090;Salvador;Eletrônicos;Smartwatch;1;437,77;concluído;437,77
+PED-01616;2026-08-15;C0351;Curitiba;Casa;Cafeteira;1;224,08;concluído;224,08
+PED-01617;2026-08-15;C0263;Curitiba;Casa;Jogo de Panelas;3;296,54;concluído;889,62
+PED-01618;2026-08-16;C0246;Rio de Janeiro;Casa;Cafeteira;1;223,94;concluído;223,94
+PED-01619;2026-08-18;C0310;Belo Horizonte;Moda;Tênis Esportivo;4;320,81;concluído;1283,24
+PED-01620;2026-08-18;C0019;Curitiba;Eletrônicos;Carregador Turbo;1;80,6;concluído;80,6
+PED-01621;2026-08-19;C0084;Curitiba;Eletrônicos;Fone Bluetooth;1;184,85;pendente;184,85
+PED-01622;2026-08-20;C0398;Rio de Janeiro;Moda;Jaqueta Jeans;1;244,77;concluído;244,77
+PED-01623;2026-08-20;C0252;São Paulo;Moda;Jaqueta Jeans;1;251,43;cancelado;251,43
+PED-01624;2026-08-21;C0299;Rio de Janeiro;Livros;Romance Best-seller;2;47,66;concluído;95,32
+PED-01625;2026-08-21;C0042;Rio de Janeiro;Esportes;Tapete de Yoga;1;87,09;concluído;87,09
+PED-01626;2026-08-21;C0106;Rio de Janeiro;Casa;Aspirador Robô;3;926,95;concluído;2780,85
+PED-01627;2026-08-21;C0258;São Paulo;Livros;Romance Best-seller;1;51,03;concluído;51,03
+PED-01628;2026-08-23;C0006;Florianópolis;Moda;Mochila;2;143,6;pendente;287,2
+PED-01629;2026-08-23;C0300;São Paulo;Casa;Air Fryer;1;384,95;cancelado;384,95
+PED-01630;2026-08-23;C0343;São Paulo;Esportes;Bicicleta Ergométrica;2;1294,41;concluído;2588,82
+PED-01631;2026-08-24;C0065;Florianópolis;Eletrônicos;Smartwatch;2;439,71;concluído;879,42
+PED-01632;2026-08-25;C0424;Rio de Janeiro;Casa;Jogo de Panelas;2;276,63;concluído;553,26
+PED-01633;2026-08-25;C0206;Curitiba;Eletrônicos;Carregador Turbo;1;76,99;concluído;76,99
+PED-01634;2026-08-25;C0179;Rio de Janeiro;Casa;Cafeteira;2;220,75;concluído;441,5
+PED-01635;2026-08-26;C0385;Salvador;Casa;Air Fryer;2;404,05;concluído;808,1
+PED-01636;2026-08-26;C0300;Rio de Janeiro;Casa;Jogo de Panelas;1;285,1;concluído;285,1
+PED-01637;2026-08-26;C0430;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;83,55;concluído;83,55
+PED-01638;2026-08-26;C0003;São Paulo;Eletrônicos;Smartwatch;1;455,41;concluído;455,41
+PED-01639;2026-08-26;C0054;Belo Horizonte;Casa;Aspirador Robô;1;927,5;concluído;927,5
+PED-01640;2026-08-27;C0425;São Paulo;Moda;Camiseta Básica;1;62,13;concluído;62,13
+PED-01641;2026-08-27;C0215;São Paulo;Eletrônicos;Fone Bluetooth;1;199,02;concluído;199,02
+PED-01642;2026-08-27;C0304;São Paulo;Eletrônicos;Carregador Turbo;2;79,53;concluído;159,06
+PED-01643;2026-08-29;C0441;Belo Horizonte;Esportes;Garrafa Térmica;1;68,22;concluído;68,22
+PED-01644;2026-08-30;C0387;Fortaleza;Eletrônicos;Carregador Turbo;3;79,97;concluído;239,91
+PED-01645;2026-08-30;C0011;Porto Alegre;Moda;Mochila;1;149,76;concluído;149,76
+PED-01646;2026-08-31;C0393;Salvador;Livros;Romance Best-seller;2;51,59;cancelado;103,18
+PED-01647;2026-09-01;C0114;Recife;Casa;Jogo de Panelas;1;288,25;concluído;288,25
+PED-01648;2026-09-01;C0058;Brasília;Casa;Aspirador Robô;1;918,55;concluído;918,55
+PED-01649;2026-09-01;C0021;Brasília;Livros;Livro de Finanças;1;69,17;concluído;69,17
+PED-01650;2026-09-02;C0389;São Paulo;Livros;Romance Best-seller;2;49,18;concluído;98,36
+PED-01651;2026-09-02;C0330;Curitiba;Eletrônicos;Smartwatch;1;453,09;concluído;453,09
+PED-01652;2026-09-03;C0374;Recife;Eletrônicos;Smartwatch;1;448,77;pendente;448,77
+PED-01653;2026-09-03;C0153;Salvador;Esportes;Garrafa Térmica;1;67,65;concluído;67,65
+PED-01654;2026-09-04;C0270;Rio de Janeiro;Casa;Air Fryer;1;403,86;concluído;403,86
+PED-01655;2026-09-04;C0399;Curitiba;Eletrônicos;Caixa de Som;1;252,8;concluído;252,8
+PED-01656;2026-09-06;C0279;Belo Horizonte;Casa;Cafeteira;2;219,15;concluído;438,3
+PED-01657;2026-09-07;C0007;Curitiba;Eletrônicos;Fone Bluetooth;1;183,0;pendente;183,0
+PED-01658;2026-09-07;C0417;São Paulo;Eletrônicos;Fone Bluetooth;2;183,66;concluído;367,32
+PED-01659;2026-09-07;C0364;Recife;Casa;Jogo de Panelas;1;298,72;concluído;298,72
+PED-01660;2026-09-08;C0233;São Paulo;Eletrônicos;Smartwatch;1;481,62;concluído;481,62
+PED-01661;2026-09-09;C0048;Porto Alegre;Esportes;Tapete de Yoga;3;93,77;concluído;281,31
+PED-01662;2026-09-09;C0299;São Paulo;Eletrônicos;Fone Bluetooth;1;194,32;pendente;194,32
+PED-01663;2026-09-09;C0181;São Paulo;Livros;Box de Fantasia;2;155,23;concluído;310,46
+PED-01664;2026-09-10;C0347;Curitiba;Eletrônicos;Caixa de Som;2;244,02;concluído;488,04
+PED-01665;2026-09-10;C0057;São Paulo;Moda;Jaqueta Jeans;1;238,33;concluído;238,33
+PED-01666;2026-09-11;C0311;Salvador;Eletrônicos;Caixa de Som;1;246,62;concluído;246,62
+PED-01667;2026-09-11;C0257;Rio de Janeiro;Casa;Cafeteira;1;228,17;pendente;228,17
+PED-01668;2026-09-12;C0293;Curitiba;Esportes;Garrafa Térmica;2;70,3;concluído;140,6
+PED-01669;2026-09-12;C0422;Recife;Eletrônicos;Carregador Turbo;1;79,13;concluído;79,13
+PED-01670;2026-09-13;C0138;Rio de Janeiro;Livros;Livro de Finanças;2;71,9;pendente;143,8
+PED-01671;2026-09-13;C0096;Curitiba;Casa;Air Fryer;1;417,57;concluído;417,57
+PED-01672;2026-09-14;C0169;Curitiba;Eletrônicos;Caixa de Som;2;255,04;cancelado;510,08
+PED-01673;2026-09-14;C0123;Belo Horizonte;Eletrônicos;Caixa de Som;1;243,81;concluído;243,81
+PED-01674;2026-09-14;C0197;Belo Horizonte;Eletrônicos;Caixa de Som;2;237,13;pendente;474,26
+PED-01675;2026-09-16;C0396;Belo Horizonte;Eletrônicos;Caixa de Som;1;247,92;cancelado;247,92
+PED-01676;2026-09-16;C0444;Florianópolis;Casa;Aspirador Robô;1;942,96;pendente;942,96
+PED-01677;2026-09-16;C0142;Porto Alegre;Eletrônicos;Fone Bluetooth;1;191,74;cancelado;191,74
+PED-01678;2026-09-17;C0163;Curitiba;Moda;Camiseta Básica;4;57,4;concluído;229,6
+PED-01679;2026-09-17;C0097;Belo Horizonte;Casa;Jogo de Panelas;2;303,32;concluído;606,64
+PED-01680;2026-09-17;C0193;Brasília;Casa;Aspirador Robô;2;879,02;concluído;1758,04
+PED-01681;2026-09-17;C0030;Belo Horizonte;Livros;Guia de Python;3;89,29;concluído;267,87
+PED-01682;2026-09-18;C0229;Belo Horizonte;Esportes;Bicicleta Ergométrica;2;1253,82;concluído;2507,64
+PED-01683;2026-09-19;C0135;Porto Alegre;Livros;Box de Fantasia;1;160,39;concluído;160,39
+PED-01684;2026-09-20;C0233;Curitiba;Moda;Camiseta Básica;1;57,86;pendente;57,86
+PED-01685;2026-09-20;C0036;Belo Horizonte;Livros;Livro de Finanças;1;68,73;concluído;68,73
+PED-01686;2026-09-20;C0238;Belo Horizonte;Moda;Jaqueta Jeans;2;259,7;concluído;519,4
+PED-01687;2026-09-21;C0046;Recife;Eletrônicos;Fone Bluetooth;1;185,01;concluído;185,01
+PED-01688;2026-09-21;C0273;Porto Alegre;Moda;Mochila;1;143,75;concluído;143,75
+PED-01689;2026-09-21;C0091;Florianópolis;Eletrônicos;Carregador Turbo;1;81,7;pendente;81,7
+PED-01690;2026-09-22;C0122;Curitiba;Esportes;Tapete de Yoga;1;94,09;concluído;94,09
+PED-01691;2026-09-22;C0216;Curitiba;Livros;Guia de Python;1;86,74;concluído;86,74
+PED-01692;2026-09-22;C0202;Rio de Janeiro;Livros;Romance Best-seller;2;48,03;concluído;96,06
+PED-01693;2026-09-23;C0319;Florianópolis;Livros;Box de Fantasia;4;165,59;concluído;662,36
+PED-01694;2026-09-23;C0082;Belo Horizonte;Casa;Aspirador Robô;2;880,43;concluído;1760,86
+PED-01695;2026-09-25;C0075;Curitiba;Casa;Air Fryer;2;391,15;concluído;782,3
+PED-01696;2026-09-25;C0057;Curitiba;Casa;Aspirador Robô;2;933,05;concluído;1866,1
+PED-01697;2026-09-25;C0205;Porto Alegre;Moda;Jaqueta Jeans;1;243,82;concluído;243,82
+PED-01698;2026-09-25;C0042;Rio de Janeiro;Esportes;Bicicleta Ergométrica;2;1313,61;concluído;2627,22
+PED-01699;2026-09-26;C0413;Curitiba;Casa;Aspirador Robô;2;924,98;concluído;1849,96
+PED-01700;2026-09-26;C0419;Curitiba;Moda;Mochila;1;155,39;concluído;155,39
+PED-01701;2026-09-26;C0363;Rio de Janeiro;Casa;Aspirador Robô;1;919,34;concluído;919,34
+PED-01702;2026-09-26;C0198;Curitiba;Casa;Jogo de Panelas;1;278,32;concluído;278,32
+PED-01703;2026-09-27;C0042;Curitiba;Eletrônicos;Caixa de Som;1;251,3;concluído;251,3
+PED-01704;2026-09-27;C0051;Belo Horizonte;Casa;Cafeteira;2;223,06;concluído;446,12
+PED-01705;2026-09-27;C0182;Porto Alegre;Eletrônicos;Fone Bluetooth;3;194,79;cancelado;584,37
+PED-01706;2026-09-27;C0421;Rio de Janeiro;Moda;Jaqueta Jeans;1;253,6;cancelado;253,6
+PED-01707;2026-09-27;C0242;Brasília;Eletrônicos;Caixa de Som;1;244,96;concluído;244,96
+PED-01708;2026-09-28;C0117;Rio de Janeiro;Moda;Tênis Esportivo;1;339,12;concluído;339,12
+PED-01709;2026-09-28;C0104;Porto Alegre;Moda;Tênis Esportivo;2;328,91;cancelado;657,82
+PED-01710;2026-09-28;C0021;Rio de Janeiro;Eletrônicos;Caixa de Som;2;249,88;concluído;499,76
+PED-01711;2026-09-29;C0181;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;81,29;concluído;81,29
+PED-01712;2026-09-29;C0096;Curitiba;Moda;Jaqueta Jeans;1;256,6;concluído;256,6
+PED-01713;2026-09-29;C0133;São Paulo;Esportes;Garrafa Térmica;2;71,74;concluído;143,48
+PED-01714;2026-09-30;C0187;Porto Alegre;Moda;Jaqueta Jeans;1;252,89;concluído;252,89
+PED-01715;2026-10-01;C0003;Rio de Janeiro;Casa;Air Fryer;2;414,75;cancelado;829,5
+PED-01716;2026-10-01;C0276;Florianópolis;Livros;Livro de Finanças;1;67,89;concluído;67,89
+PED-01717;2026-10-02;C0415;Salvador;Casa;Jogo de Panelas;1;284,14;concluído;284,14
+PED-01718;2026-10-03;C0414;Porto Alegre;Eletrônicos;Fone Bluetooth;1;181,76;concluído;181,76
+PED-01719;2026-10-03;C0159;Belo Horizonte;Moda;Camiseta Básica;1;62,1;concluído;62,1
+PED-01720;2026-10-03;C0259;Salvador;Livros;Guia de Python;3;89,19;concluído;267,57
+PED-01721;2026-10-04;C0071;Belo Horizonte;Casa;Jogo de Panelas;1;284,71;concluído;284,71
+PED-01722;2026-10-04;C0175;São Paulo;Esportes;Kit de Halteres;1;197,34;concluído;197,34
+PED-01723;2026-10-06;C0150;Rio de Janeiro;Esportes;Garrafa Térmica;1;71,54;concluído;71,54
+PED-01724;2026-10-06;C0236;São Paulo;Casa;Cafeteira;1;218,39;concluído;218,39
+PED-01725;2026-10-06;C0247;Porto Alegre;Casa;Aspirador Robô;2;897,26;pendente;1794,52
+PED-01726;2026-10-07;C0155;Rio de Janeiro;Livros;Romance Best-seller;2;51,84;concluído;103,68
+PED-01727;2026-10-07;C0271;Rio de Janeiro;Casa;Jogo de Panelas;1;285,04;concluído;285,04
+PED-01728;2026-10-08;C0229;Porto Alegre;Casa;Aspirador Robô;4;894,39;concluído;3577,56
+PED-01729;2026-10-08;C0244;Rio de Janeiro;Livros;Livro de Finanças;3;67,86;concluído;203,58
+PED-01730;2026-10-09;C0344;Porto Alegre;Livros;Box de Fantasia;2;165,27;concluído;330,54
+PED-01731;2026-10-09;C0133;Curitiba;Livros;Livro de Finanças;1;71,26;concluído;71,26
+PED-01732;2026-10-09;C0306;Florianópolis;Esportes;Garrafa Térmica;1;69,33;concluído;69,33
+PED-01733;2026-10-09;C0238;Rio de Janeiro;Casa;Aspirador Robô;1;859,24;concluído;859,24
+PED-01734;2026-10-10;C0245;São Paulo;Esportes;Bicicleta Ergométrica;1;1335,54;concluído;1335,54
+PED-01735;2026-10-10;C0053;Curitiba;Moda;Camiseta Básica;1;57,96;pendente;57,96
+PED-01736;2026-10-10;C0400;São Paulo;Livros;Box de Fantasia;2;167,39;concluído;334,78
+PED-01737;2026-10-10;C0428;Rio de Janeiro;Casa;Cafeteira;1;222,88;concluído;222,88
+PED-01738;2026-10-10;C0008;Curitiba;Eletrônicos;Smartwatch;2;481,72;pendente;963,44
+PED-01739;2026-10-11;C0231;Rio de Janeiro;Casa;Cafeteira;2;218,94;concluído;437,88
+PED-01740;2026-10-11;C0017;São Paulo;Casa;Jogo de Panelas;1;297,97;cancelado;297,97
+PED-01741;2026-10-11;C0082;Belo Horizonte;Eletrônicos;Carregador Turbo;1;77,69;concluído;77,69
+PED-01742;2026-10-11;C0167;São Paulo;Livros;Romance Best-seller;1;52,18;concluído;52,18
+PED-01743;2026-10-12;C0237;Porto Alegre;Esportes;Tapete de Yoga;1;90,83;concluído;90,83
+PED-01744;2026-10-12;C0025;São Paulo;Esportes;Kit de Halteres;3;192,26;concluído;576,78
+PED-01745;2026-10-12;C0233;Florianópolis;Eletrônicos;Caixa de Som;2;247,82;concluído;495,64
+PED-01746;2026-10-13;C0001;Rio de Janeiro;Moda;Jaqueta Jeans;2;253,06;concluído;506,12
+PED-01747;2026-10-13;C0023;Belo Horizonte;Casa;Cafeteira;4;234,81;cancelado;939,24
+PED-01748;2026-10-14;C0154;Florianópolis;Moda;Camiseta Básica;1;57,37;concluído;57,37
+PED-01749;2026-10-14;C0127;São Paulo;Moda;Tênis Esportivo;1;319,12;concluído;319,12
+PED-01750;2026-10-14;C0059;Belo Horizonte;Eletrônicos;Carregador Turbo;3;82,34;concluído;247,02
+PED-01751;2026-10-14;C0287;São Paulo;Casa;Air Fryer;1;395,2;concluído;395,2
+PED-01752;2026-10-15;C0068;Curitiba;Eletrônicos;Smartwatch;1;447,35;cancelado;447,35
+PED-01753;2026-10-15;C0400;São Paulo;Eletrônicos;Carregador Turbo;2;76,63;cancelado;153,26
+PED-01754;2026-10-15;C0236;São Paulo;Livros;Romance Best-seller;1;52,23;concluído;52,23
+PED-01755;2026-10-15;C0408;Curitiba;Casa;Aspirador Robô;2;904,97;cancelado;1809,94
+PED-01756;2026-10-15;C0438;Brasília;Moda;Tênis Esportivo;1;321,06;concluído;321,06
+PED-01757;2026-10-16;C0318;Rio de Janeiro;Moda;Mochila;1;143,95;cancelado;143,95
+PED-01758;2026-10-16;C0071;São Paulo;Eletrônicos;Smartwatch;2;476,41;cancelado;952,82
+PED-01759;2026-10-17;C0369;Recife;Casa;Jogo de Panelas;3;285,69;concluído;857,07
+PED-01760;2026-10-17;C0072;São Paulo;Eletrônicos;Fone Bluetooth;1;188,79;cancelado;188,79
+PED-01761;2026-10-18;C0322;Salvador;Esportes;Kit de Halteres;4;199,93;concluído;799,72
+PED-01762;2026-10-18;C0325;São Paulo;Moda;Tênis Esportivo;1;331,31;concluído;331,31
+PED-01763;2026-10-18;C0175;Rio de Janeiro;Esportes;Garrafa Térmica;1;68,91;concluído;68,91
+PED-01764;2026-10-18;C0099;Salvador;Eletrônicos;Carregador Turbo;2;82,18;concluído;164,36
+PED-01765;2026-10-18;C0204;Rio de Janeiro;Moda;Mochila;1;154,23;concluído;154,23
+PED-01766;2026-10-19;C0403;Belo Horizonte;Casa;Jogo de Panelas;3;293,89;concluído;881,67
+PED-01767;2026-10-19;C0326;Rio de Janeiro;Esportes;Bicicleta Ergométrica;2;1303,32;concluído;2606,64
+PED-01768;2026-10-19;C0047;Florianópolis;Eletrônicos;Caixa de Som;1;255,49;cancelado;255,49
+PED-01769;2026-10-21;C0202;Curitiba;Eletrônicos;Smartwatch;1;472,22;concluído;472,22
+PED-01770;2026-10-21;C0095;Curitiba;Eletrônicos;Carregador Turbo;2;76,33;concluído;152,66
+PED-01771;2026-10-21;C0391;São Paulo;Moda;Tênis Esportivo;1;338,49;concluído;338,49
+PED-01772;2026-10-22;C0024;Rio de Janeiro;Esportes;Bicicleta Ergométrica;1;1310,94;concluído;1310,94
+PED-01773;2026-10-23;C0029;Rio de Janeiro;Casa;Aspirador Robô;1;937,07;concluído;937,07
+PED-01774;2026-10-24;C0139;Rio de Janeiro;Eletrônicos;Carregador Turbo;1;80,48;concluído;80,48
+PED-01775;2026-10-24;C0007;Porto Alegre;Esportes;Bicicleta Ergométrica;1;1346,72;concluído;1346,72
+PED-01776;2026-10-24;C0419;São Paulo;Livros;Guia de Python;1;87,2;concluído;87,2
+PED-01777;2026-10-24;C0017;Rio de Janeiro;Casa;Cafeteira;1;228,46;concluído;228,46
+PED-01778;2026-10-24;C0440;São Paulo;Casa;Air Fryer;2;414,16;concluído;828,32
+PED-01779;2026-10-25;C0022;Florianópolis;Esportes;Garrafa Térmica;2;70,35;concluído;140,7
+PED-01780;2026-10-25;C0400;São Paulo;Eletrônicos;Carregador Turbo;1;79,87;concluído;79,87
+PED-01781;2026-10-25;C0116;São Paulo;Eletrônicos;Fone Bluetooth;1;197,01;concluído;197,01
+PED-01782;2026-10-26;C0335;Curitiba;Eletrônicos;Caixa de Som;1;249,39;concluído;249,39
+PED-01783;2026-10-27;C0047;São Paulo;Casa;Aspirador Robô;2;882,18;concluído;1764,36
+PED-01784;2026-10-27;C0219;Curitiba;Moda;Tênis Esportivo;1;320,68;concluído;320,68
+PED-01785;2026-10-28;C0109;Rio de Janeiro;Moda;Jaqueta Jeans;1;250,03;cancelado;250,03
+PED-01786;2026-10-28;C0348;Florianópolis;Esportes;Tapete de Yoga;3;87,71;concluído;263,13
+PED-01787;2026-10-28;C0312;Belo Horizonte;Casa;Aspirador Robô;3;861,88;concluído;2585,64
+PED-01788;2026-10-28;C0021;Porto Alegre;Livros;Livro de Finanças;1;67,17;concluído;67,17
+PED-01789;2026-10-29;C0019;São Paulo;Eletrônicos;Smartwatch;1;470,61;concluído;470,61
+PED-01790;2026-10-29;C0012;Salvador;Moda;Camiseta Básica;1;59,28;concluído;59,28
+PED-01791;2026-10-29;C0295;Porto Alegre;Moda;Camiseta Básica;1;58,0;concluído;58,0
+PED-01792;2026-10-30;C0424;Curitiba;Casa;Cafeteira;1;229,05;concluído;229,05
+PED-01793;2026-10-30;C0247;Fortaleza;Eletrônicos;Smartwatch;2;467,89;cancelado;935,78
+PED-01794;2026-10-30;C0135;Porto Alegre;Esportes;Tapete de Yoga;1;86,65;concluído;86,65
+PED-01795;2026-10-30;C0430;Curitiba;Moda;Mochila;2;149,04;concluído;298,08
+PED-01796;2026-10-31;C0291;Salvador;Casa;Jogo de Panelas;2;290,16;concluído;580,32
+PED-01797;2026-10-31;C0047;Rio de Janeiro;Eletrônicos;Carregador Turbo;4;82,05;concluído;328,2
+PED-01798;2026-10-31;C0303;Rio de Janeiro;Moda;Camiseta Básica;1;58,65;concluído;58,65
+PED-01799;2026-10-31;C0010;Curitiba;Moda;Camiseta Básica;4;58,72;pendente;234,88
+PED-01800;2026-10-31;C0098;Curitiba;Casa;Cafeteira;1;219,0;concluído;219,0
