@@ -1,5 +1,3 @@
-# data-pilot
-Painel de vendas em Python que também conversa: você pergunta em português, e um agente de IA responde
 # Data Pilot
 
 Um painel de vendas em Python que também conversa: você pergunta em português e um agente de IA responde com as métricas que **o seu código calculou**.
