@@ -2,8 +2,6 @@
 
 Um painel de vendas em Python que também conversa: você pergunta em português e um agente de IA responde com as métricas que **o seu código calculou**.
 
-![Painel do Data Pilot](docs/painel.png)
-
 ## O que o Data Pilot faz
 
 O app tem dois menus:
