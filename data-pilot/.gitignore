@@ -1,0 +1,17 @@
+# Segredos: só o .env.example é versionado
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.pytest_cache/
+
+# Sistema / editor
+.DS_Store
+.idea/
+.vscode/
